@@ -1,0 +1,129 @@
+Extracts the simple wikipedia
+
+1 ===
+
+WikipediaSectionTitlesExtractor \
+    -d /Users/alessio/Documents/Resources/simple/simplewiki-20150406-pages-articles.xml.bz2 \
+    -o /Users/alessio/Documents/Resources/simple/sections.txt \
+    -m 1
+
+The -m option tells the script that we want only the main sections
+
+Options:
+ -b,--notification-point <int>   receive notification every n pages (default 10000)
+ -d,--wikipedia-dump <file>      wikipedia xml dump file
+    --debug                      debug mode
+ -h,--help                       Print this message
+ -l                              print titles
+ -m,--max-depth <int>            max depth (default 10)
+ -n,--max-num <int>              max num of sections
+ -o,--output-file <dir>          output file
+ -p,--num-pages <int>            number of pages to process (default all)
+ -t,--num-threads <int>          number of threads (default 1)
+    --trace                      trace mode
+
+2 ===
+
+Extract the simple wikipedia list of pages, with wikiID
+
+WikiDataExtractor \
+    --languages simple \
+    -o ~/data/models/wikidata/only-simple/ \
+    -w ~/data/corpora/wikidata/wikidatawiki-20150330-pages-articles.xml \
+    -S -t 12
+
+(should be rewrote to use the JSON version of the dump)
+
+3 ===
+
+Extract pages and IDs
+cut -f1,2 simple.csv | sed -e 's/wikiID://g'| awk -F $'\t' ' { t = $1; $1 = $2; $2 = t; print; } ' OFS=$'\t' | sort -n > simple-wikiID.tsv
+cat airpedia-wikiID.csv | sort -n > simple-airpedia.tsv
+cat simple-airpedia.tsv | grep Person > simple-person.tsv
+
+4 ===
+
+WikipediaSectionTitlesExtractor \
+    -d /Users/alessio/Documents/Resources/simple/simplewiki-20150406-pages-articles.xml.bz2 \
+    -o /Users/alessio/Documents/Resources/simple/sections-person-1.txt \
+    -m 1 \
+    -f /Users/alessio/Documents/Resources/simple/simple-person-list.tsv
+
+5 ===
+
+Integration with Pantheon
+
+cat wikilangs.tsv | grep -w simple | cut -f 3 | less
+
+ENGLISH ===
+
+cat wikilangs.tsv | grep '\ten\t' | cut -f3 > en/pantheon-page-list.txt
+
+
+IDEA
+
+Provare a creare automaticamente il training usando le sottopagine di "Life"
+Puntare sul fatto che è l'utente ad aver "annotato" per noi.
+
+--- PAPER
+
+head -n 100 data-all-shuffled.txt > dev.txt
+sed -n '101,600p' data-all-shuffled.txt > test.txt
+sed -n '601,$p' data-all-shuffled.txt > train.txt
+
+awk 'NR==FNR{a[$0]=1;next}a[$1]' dev.txt ../en-section-pantheon-1.txt > dev-dataset.txt
+awk 'NR==FNR{a[$0]=1;next}a[$1]' test.txt ../en-section-pantheon-1.txt > test-dataset.txt
+awk 'NR==FNR{a[$0]=1;next}a[$1]' train.txt ../en-section-pantheon.txt > train-dataset.txt
+
+(removed duplicate on Mark_Harmon in dev)
+
+Verificare quante Biografie ci sono: cat train-dataset.txt | cut -f1,2 | uniq | cut -f2 | grep Biography | wc -l
+
+Provare a vedere di aggiungere altre keywords solo se contigue (Career, Death)
+
+COMANDI
+
+export EXPERIMENT=3
+java -cp target/fssa-0.1-SNAPSHOT-jar-with-dependencies.jar eu.fbk.fssa.simple.ParseTraining \
+    -d /Users/alessio/Documents/Resources/pantheon/en/en-birthdeath.txt \
+    -i /Users/alessio/Documents/Resources/pantheon/en/dataset/train-dataset.txt \
+    -o /Users/alessio/Documents/Resources/pantheon/en/dataset/experiment$EXPERIMENT/crfsuite-train.txt \
+    -s 1
+java -cp target/fssa-0.1-SNAPSHOT-jar-with-dependencies.jar eu.fbk.fssa.simple.ParseTraining \
+    -d /Users/alessio/Documents/Resources/pantheon/en/en-birthdeath.txt \
+    -i /Users/alessio/Documents/Resources/pantheon/en/dataset/dev-dataset.txt \
+    -o /Users/alessio/Documents/Resources/pantheon/en/dataset/experiment$EXPERIMENT/crfsuite-dev.txt \
+    -s 1 -t -g /Users/alessio/Documents/Resources/pantheon/en/dataset/dev-dataset-gold.csv
+
+crfsuite learn -a pa -m model crfsuite-train.txt
+crfsuite tag -r -m model crfsuite-dev.txt > dev-results.txt
+
+
+BASELINE
+
+java -cp target/fssa-0.1-SNAPSHOT-jar-with-dependencies.jar eu.fbk.fssa.simple.Baseline \
+    -i /Users/alessio/Documents/Resources/pantheon/en/dataset/dev-dataset.txt \
+    -o /Users/alessio/Documents/Resources/pantheon/en/dataset/baseline-contains-pl.txt \
+    -g /Users/alessio/Documents/Resources/pantheon/en/dataset/dev-dataset-gold-pl.csv \
+    -s contains
+
+NO-PL
+exact:        p=0,500 r=0,495 f1=0,497 a=0,331 tp=45,00 fp=45,00 fn=46,00 tn=0,00
+overlap:      p=0,978 r=0,967 f1=0,972 a=0,946 tp=NaN fp=NaN fn=NaN tn=NaN
+intersection: p=0,799 r=0,892 f1=0,843 a=0,733 tp=NaN fp=NaN fn=NaN tn=NaN
+aligned:      p=0,799 r=0,892 f1=0,843 a=0,733 tp=NaN fp=NaN fn=NaN tn=NaN
+
+PL
+exact:        p=0,578 r=0,571 f1=0,575 a=0,403 tp=52,00 fp=38,00 fn=39,00 tn=0,00
+overlap:      p=1,000 r=0,989 f1=0,994 a=0,989 tp=NaN fp=NaN fn=NaN tn=NaN
+intersection: p=0,863 r=0,901 f1=0,882 a=0,789 tp=NaN fp=NaN fn=NaN tn=NaN
+aligned:      p=0,863 r=0,901 f1=0,882 a=0,789 tp=NaN fp=NaN fn=NaN tn=NaN
+
+Estrarre pagine
+
+java -Xmx4G -cp target/fssa-0.1-SNAPSHOT-jar-with-dependencies.jar eu.fbk.fssa.simple.WikipediaPagesSorted \
+    -i /Users/alessio/Documents/Resources/pantheon/en/en-cross.csv \
+    -p /Users/alessio/Documents/Resources/pantheon/en/en-person-frombd.txt \
+    -e /Users/alessio/Documents/Resources/pantheon/en/dataset/test+dev.txt \
+    -o /Users/alessio/Documents/Resources/pantheon/en/dataset/train-50k.txt \
+    -n 50000
