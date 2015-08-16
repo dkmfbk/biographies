@@ -2,4 +2,4 @@
 configuration/
 sectionextractor.iml
 target/
-
+**/.DS_Store

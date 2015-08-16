@@ -1,0 +1,4238 @@
+B-SEC	B-SEC	Akira_Kurosawa	Life and career
+O	O	Akira_Kurosawa	Working methods, style and themes
+O	O	Akira_Kurosawa	Criticisms
+O	O	Akira_Kurosawa	Worldwide impact
+O	O	Akira_Kurosawa	Legacy
+O	O	Akira_Kurosawa	Filmography
+O	O	Akira_Kurosawa	See also
+O	O	Akira_Kurosawa	References
+O	O	Akira_Kurosawa	Further reading
+O	O	Akira_Kurosawa	External links
+B-SEC	B-SEC	Anaximander	Biography
+O	O	Anaximander	Theories
+O	O	Anaximander	Other accomplishments
+O	O	Anaximander	Interpretations
+O	O	Anaximander	Works
+O	O	Anaximander	See also
+O	O	Anaximander	Footnotes
+O	O	Anaximander	References
+O	O	Anaximander	External links
+B-SEC	B-SEC	Johnny_Weissmuller	Early life
+I-SEC	I-SEC	Johnny_Weissmuller	Careers
+I-SEC	I-SEC	Johnny_Weissmuller	Personal life
+O	O	Johnny_Weissmuller	Influence
+O	O	Johnny_Weissmuller	Filmography
+O	O	Johnny_Weissmuller	See also
+O	O	Johnny_Weissmuller	References
+O	O	Johnny_Weissmuller	Further reading
+O	O	Johnny_Weissmuller	External links
+B-SEC	O	Ahmed_II	Reign
+I-SEC	O	Ahmed_II	Marriages and issue
+O	O	Ahmed_II	References
+O	O	Ahmed_II	Further reading
+O	O	Ahmed_II	External links
+B-SEC	B-SEC	Alexander_I_of_Scotland	Life
+O	O	Alexander_I_of_Scotland	Fictional portrayals
+O	O	Alexander_I_of_Scotland	Ancestry
+O	O	Alexander_I_of_Scotland	References
+O	O	Alexander_I_of_Scotland	Sources
+B-SEC	B-SEC	Afonso_III_of_Portugal	Early life
+I-SEC	O	Afonso_III_of_Portugal	Reign
+I-SEC	O	Afonso_III_of_Portugal	Marriages and descendants
+O	O	Afonso_III_of_Portugal	References
+O	O	Afonso_III_of_Portugal	Ancestors
+O	O	Afonso_III_of_Portugal	External links
+B-SEC	O	Ancus_Marcius	First acts as King
+I-SEC	O	Ancus_Marcius	War
+O	O	Ancus_Marcius	Successor
+O	O	Ancus_Marcius	References
+B-SEC	B-SEC	Karlheinz_Stockhausen	Biography
+O	O	Karlheinz_Stockhausen	Compositions
+O	O	Karlheinz_Stockhausen	Theories
+O	O	Karlheinz_Stockhausen	Reception
+O	O	Karlheinz_Stockhausen	Honours
+O	O	Karlheinz_Stockhausen	Notable students
+O	O	Karlheinz_Stockhausen	Sources
+O	O	Karlheinz_Stockhausen	External links
+B-SEC	B-SEC	Augustine_of_Hippo	Life
+O	O	Augustine_of_Hippo	Thought
+O	O	Augustine_of_Hippo	Teaching philosophy
+O	O	Augustine_of_Hippo	Works
+O	O	Augustine_of_Hippo	Influence
+O	O	Augustine_of_Hippo	In popular culture
+O	O	Augustine_of_Hippo	See also
+O	O	Augustine_of_Hippo	References
+O	O	Augustine_of_Hippo	Sources
+O	O	Augustine_of_Hippo	Further reading
+O	O	Augustine_of_Hippo	External links
+B-SEC	B-SEC	Louis_Armstrong	Early life
+I-SEC	I-SEC	Louis_Armstrong	Career
+I-SEC	I-SEC	Louis_Armstrong	Death
+I-SEC	I-SEC	Louis_Armstrong	Personal life
+O	O	Louis_Armstrong	Music
+O	O	Louis_Armstrong	Literature, radio, films and TV
+O	O	Louis_Armstrong	Awards and honors
+O	O	Louis_Armstrong	Legacy
+O	O	Louis_Armstrong	Discography
+O	O	Louis_Armstrong	See also
+O	O	Louis_Armstrong	Notes
+O	O	Louis_Armstrong	Further reading
+O	O	Louis_Armstrong	External links
+B-SEC	O	Abdul_Hamid_I	Imprisonment
+O	O	Abdul_Hamid_I	Other
+O	O	Abdul_Hamid_I	Family
+O	O	Abdul_Hamid_I	References
+O	O	Abdul_Hamid_I	External links
+O	O	Moses	Name
+O	O	Moses	Biblical narrative
+O	O	Moses	Sources
+O	O	Moses	Moses in Hellenistic literature
+O	O	Moses	Historicity
+O	O	Moses	Moses in religious traditions
+O	O	Moses	Modern reception
+O	O	Moses	See also
+O	O	Moses	Notes
+O	O	Moses	Further reading
+O	O	Moses	External links
+B-SEC	B-SEC	Peter_Singer	Life and career
+O	I-SEC	Peter_Singer	Animal Liberation
+O	I-SEC	Peter_Singer	Applied ethics
+O	I-SEC	Peter_Singer	Meta-ethics and foundational issues
+O	I-SEC	Peter_Singer	Honours
+O	I-SEC	Peter_Singer	Personal life
+O	O	Peter_Singer	Publications
+O	O	Peter_Singer	See also
+O	O	Peter_Singer	References
+O	O	Peter_Singer	External links
+B-SEC	B-SEC	Pope_Adrian_IV	Early life
+I-SEC	I-SEC	Pope_Adrian_IV	Accession as Pope
+I-SEC	I-SEC	Pope_Adrian_IV	The Byzantine Alliance
+I-SEC	I-SEC	Pope_Adrian_IV	Adrian IV and the Norman invasion of Ireland
+I-SEC	I-SEC	Pope_Adrian_IV	Barbarossa and the death of Adrian IV
+O	O	Pope_Adrian_IV	Memorials in Hertfordshire
+O	O	Pope_Adrian_IV	References
+O	O	Pope_Adrian_IV	External links
+B-SEC	B-SEC	Pope_Anastasius_IV	Early life
+I-SEC	O	Pope_Anastasius_IV	Pontificate
+O	O	Pope_Anastasius_IV	Notes
+O	O	Pope_Anastasius_IV	Bibliography
+O	O	Pope_Honorius_I	Anathematization
+O	O	Pope_Honorius_I	References
+O	O	Pope_Honorius_I	External links
+O	O	Pope_Zosimus	Confrontation with Pelagianism
+O	O	Pope_Zosimus	Notes
+O	O	Pope_Zosimus	References
+O	O	Pope_Zosimus	External links
+B-SEC	B-SEC	Plutarch	Early life
+O	O	Plutarch	Work as magistrate and ambassador
+O	O	Plutarch	Lives of the Roman emperors
+O	O	Plutarch	Parallel Lives
+O	O	Plutarch	Moralia
+O	O	Plutarch	Other works
+O	O	Plutarch	Lost works
+O	O	Plutarch	Philosophy
+O	O	Plutarch	Influence
+O	O	Plutarch	Translations of Lives and Moralia
+O	O	Plutarch	See also
+O	O	Plutarch	Notes
+O	O	Plutarch	References
+O	O	Plutarch	Sources
+O	O	Plutarch	External links
+B-SEC	B-SEC	Paavo_Nurmi	Early life
+I-SEC	I-SEC	Paavo_Nurmi	Olympic career
+I-SEC	I-SEC	Paavo_Nurmi	Later life
+I-SEC	I-SEC	Paavo_Nurmi	Personal life and public image
+O	I-SEC	Paavo_Nurmi	Legacy
+O	I-SEC	Paavo_Nurmi	Career summary (1920–34)
+O	O	Paavo_Nurmi	World records
+O	O	Paavo_Nurmi	References
+O	O	Paavo_Nurmi	External links
+O	O	Rehoboam	Background
+O	O	Rehoboam	Biblical narrative
+O	O	Rehoboam	Chronology
+O	O	Rehoboam	References
+B-SEC	B-SEC	Ronald_Coase	Biography
+O	O	Ronald_Coase	The Nature of the Firm
+O	O	Ronald_Coase	The Problem of Social Cost
+O	O	Ronald_Coase	Political views
+O	O	Ronald_Coase	Coase Conjecture
+O	O	Ronald_Coase	The Ronald Coase Institute
+O	O	Ronald_Coase	Publications
+O	O	Ronald_Coase	See also
+O	O	Ronald_Coase	Notes
+O	O	Ronald_Coase	References
+O	O	Ronald_Coase	External links
+B-SEC	B-SEC	Nicolas_Léonard_Sadi_Carnot	Life
+I-SEC	I-SEC	Nicolas_Léonard_Sadi_Carnot	Reflections on the Motive Power of Fire
+I-SEC	I-SEC	Nicolas_Léonard_Sadi_Carnot	Reception and later life
+I-SEC	I-SEC	Nicolas_Léonard_Sadi_Carnot	Death
+O	O	Nicolas_Léonard_Sadi_Carnot	See also
+O	O	Nicolas_Léonard_Sadi_Carnot	Works
+O	O	Nicolas_Léonard_Sadi_Carnot	References
+O	O	Nicolas_Léonard_Sadi_Carnot	Bibliography
+O	O	Nicolas_Léonard_Sadi_Carnot	External links
+B-SEC	B-SEC	Dave_Brubeck	Early life and career
+I-SEC	I-SEC	Dave_Brubeck	Dave Brubeck Quartet
+I-SEC	I-SEC	Dave_Brubeck	Later career
+I-SEC	I-SEC	Dave_Brubeck	Personal life
+I-SEC	I-SEC	Dave_Brubeck	Recognition
+I-SEC	I-SEC	Dave_Brubeck	Death and tributes
+O	O	Dave_Brubeck	Awards
+O	O	Dave_Brubeck	Discography
+O	O	Dave_Brubeck	References
+O	O	Dave_Brubeck	External links
+B-SEC	B-SEC	William_Jones_(philologist)	Biography
+O	O	William_Jones_(philologist)	Scholarly contributions
+O	O	William_Jones_(philologist)	Latin chess poem
+O	O	William_Jones_(philologist)	Schopenhauer's citation
+O	O	William_Jones_(philologist)	In popular culture
+O	O	William_Jones_(philologist)	References
+O	O	William_Jones_(philologist)	Sources
+O	O	William_Jones_(philologist)	External links
+B-SEC	B-SEC	David_Hilbert	Life
+O	O	David_Hilbert	Hilbert solves Gordan's Problem
+O	O	David_Hilbert	Axiomatization of geometry
+O	O	David_Hilbert	The 23 Problems
+O	O	David_Hilbert	Formalism
+O	O	David_Hilbert	Functional analysis
+O	O	David_Hilbert	Physics
+O	O	David_Hilbert	Number theory
+O	O	David_Hilbert	Miscellaneous talks, essays, and contributions
+O	O	David_Hilbert	See also
+O	O	David_Hilbert	Notes
+O	O	David_Hilbert	References
+O	O	David_Hilbert	External links
+B-SEC	B-SEC	David_Bowie	Biography
+O	I-SEC	David_Bowie	Acting career
+O	I-SEC	David_Bowie	Musicianship
+O	I-SEC	David_Bowie	Legacy and influence
+O	I-SEC	David_Bowie	Personal life
+O	O	David_Bowie	Awards and recognition
+O	O	David_Bowie	Discography
+O	O	David_Bowie	Filmography
+O	O	David_Bowie	See also
+O	O	David_Bowie	Notes
+O	O	David_Bowie	References
+O	O	David_Bowie	Further reading
+O	O	David_Bowie	External links
+B-SEC	O	Vespasian	Family
+I-SEC	B-SEC	Vespasian	Military and political career
+I-SEC	O	Vespasian	Year of the Four Emperors (69)
+I-SEC	O	Vespasian	Emperor (69–79)
+O	O	Vespasian	Legacy
+O	O	Vespasian	See also
+O	O	Vespasian	Notes
+O	O	Vespasian	References
+O	O	Vespasian	Sources
+O	O	Vespasian	Further reading
+O	O	Vespasian	External links
+O	O	Vincent_van_Gogh	Letters
+B-SEC	B-SEC	Vincent_van_Gogh	Biography
+O	O	Vincent_van_Gogh	Work
+O	O	Vincent_van_Gogh	Legacy
+O	O	Vincent_van_Gogh	Footnotes
+O	O	Vincent_van_Gogh	References
+O	O	Vincent_van_Gogh	Bibliography
+O	O	Vincent_van_Gogh	External links
+B-SEC	O	Vicente_Fox	Early years
+I-SEC	B-SEC	Vicente_Fox	Early political career
+I-SEC	O	Vicente_Fox	Presidency
+O	O	Emperor_Jimmu	Name and title
+O	O	Emperor_Jimmu	Legendary narrative
+O	O	Emperor_Jimmu	Modern veneration of Emperor Jimmu
+O	O	Emperor_Jimmu	See also
+O	O	Emperor_Jimmu	Notes
+O	O	Emperor_Jimmu	References
+O	O	Emperor_Jimmu	External links
+B-SEC	O	Wassily_Kandinsky	Artistic periods
+O	O	Wassily_Kandinsky	Kandinsky's conception of art
+O	O	Wassily_Kandinsky	Theoretical writings on art
+O	O	Wassily_Kandinsky	Art market
+O	O	Wassily_Kandinsky	In popular culture
+O	O	Wassily_Kandinsky	See also
+O	O	Wassily_Kandinsky	References
+O	O	Wassily_Kandinsky	External links
+B-SEC	B-SEC	Giuseppe_Mazzini	Biography
+O	O	Giuseppe_Mazzini	Criticisms
+O	O	Giuseppe_Mazzini	Legacy
+O	O	Giuseppe_Mazzini	See also
+O	O	Giuseppe_Mazzini	Works
+O	O	Giuseppe_Mazzini	References
+O	O	Giuseppe_Mazzini	Footnotes
+O	O	Giuseppe_Mazzini	Further reading
+O	O	Giuseppe_Mazzini	External links
+B-SEC	B-SEC	Felix_Bloch	Life and work
+O	O	Felix_Bloch	See also
+O	O	Felix_Bloch	Footnotes
+O	O	Felix_Bloch	References
+O	O	Felix_Bloch	Further reading
+O	O	Felix_Bloch	External links
+B-SEC	B-SEC	Pope_Gregory_VII	Biography
+I-SEC	I-SEC	Pope_Gregory_VII	Pontificate
+I-SEC	I-SEC	Pope_Gregory_VII	Start of conflict with the Emperor
+I-SEC	I-SEC	Pope_Gregory_VII	Papal policy to the rest of Europe
+I-SEC	I-SEC	Pope_Gregory_VII	Internal policy and reforms
+I-SEC	I-SEC	Pope_Gregory_VII	Impact on the Eucharist
+I-SEC	I-SEC	Pope_Gregory_VII	Death
+O	O	Pope_Gregory_VII	See also
+O	O	Pope_Gregory_VII	References
+O	O	Pope_Gregory_VII	Further reading
+O	O	Pope_Gregory_VII	External links
+B-SEC	B-SEC	Linus_Pauling	Early life and education
+I-SEC	I-SEC	Linus_Pauling	Personal life
+I-SEC	I-SEC	Linus_Pauling	Career
+O	O	Linus_Pauling	Contretemps with William F. Buckley, National Review.
+O	O	Linus_Pauling	Molecular medicine, medical research, and vitamin C advocacy
+O	O	Linus_Pauling	Legacy
+O	O	Linus_Pauling	Quasicrystals
+O	O	Linus_Pauling	Honors and awards
+O	O	Linus_Pauling	Publications
+O	O	Linus_Pauling	See also
+O	O	Linus_Pauling	References
+O	O	Linus_Pauling	Notes
+O	O	Linus_Pauling	Further reading
+O	O	Linus_Pauling	External links
+B-SEC	B-SEC	Giovanni_Battista_Pergolesi	Biography
+O	O	Giovanni_Battista_Pergolesi	Pergolesi's works on screen
+O	O	Giovanni_Battista_Pergolesi	Notes
+O	O	Giovanni_Battista_Pergolesi	External links
+B-SEC	O	Samuel_de_Champlain	Birth year, location, and family
+I-SEC	O	Samuel_de_Champlain	Early travels
+I-SEC	O	Samuel_de_Champlain	Founding of Quebec City
+I-SEC	O	Samuel_de_Champlain	Murder of the King
+I-SEC	O	Samuel_de_Champlain	Marriage
+I-SEC	O	Samuel_de_Champlain	Relations and war with natives
+I-SEC	O	Samuel_de_Champlain	Exploration of New France
+I-SEC	O	Samuel_de_Champlain	Military expedition
+I-SEC	O	Samuel_de_Champlain	Improving administration in New France
+I-SEC	O	Samuel_de_Champlain	Last return, and last years working in Quebec
+I-SEC	B-SEC	Samuel_de_Champlain	Illness, last wills, death, and burial
+O	O	Samuel_de_Champlain	Memorials
+O	O	Samuel_de_Champlain	Bibliography
+O	O	Samuel_de_Champlain	Notes
+O	O	Samuel_de_Champlain	Further reading
+O	O	Samuel_de_Champlain	External links
+B-SEC	B-SEC	Guy_de_Maupassant	Biography
+O	O	Guy_de_Maupassant	Significance
+O	O	Guy_de_Maupassant	Legacy
+O	O	Guy_de_Maupassant	Bibliography
+O	O	Guy_de_Maupassant	References
+O	O	Guy_de_Maupassant	External links
+B-SEC	B-SEC	George_R._R._Martin	Early life
+I-SEC	I-SEC	George_R._R._Martin	Career
+O	I-SEC	George_R._R._Martin	Themes
+O	I-SEC	George_R._R._Martin	Relationship with fans
+O	I-SEC	George_R._R._Martin	Personal life
+O	O	George_R._R._Martin	Politics
+O	O	George_R._R._Martin	Awards
+O	O	George_R._R._Martin	Bibliography
+O	O	George_R._R._Martin	References
+O	O	George_R._R._Martin	External links
+B-SEC	B-SEC	Gregorio_Allegri	Life
+O	O	Gregorio_Allegri	The Miserere
+O	O	Gregorio_Allegri	References
+O	O	Gregorio_Allegri	Sources
+O	O	Gregorio_Allegri	External links
+B-SEC	O	Vladimir_the_Great	Rise to the throne
+I-SEC	O	Vladimir_the_Great	Years of pagan rule
+I-SEC	O	Vladimir_the_Great	Christianization of the Kievan Rus'
+I-SEC	O	Vladimir_the_Great	Christian reign
+O	O	Vladimir_the_Great	Family
+O	O	Vladimir_the_Great	Significance and legacy
+O	O	Vladimir_the_Great	See also
+O	O	Vladimir_the_Great	References
+O	O	Vladimir_the_Great	Notes
+B-SEC	B-SEC	Giordano_Bruno	Life
+O	O	Giordano_Bruno	Cosmology
+O	O	Giordano_Bruno	Retrospective views of Bruno
+O	O	Giordano_Bruno	Artistic depictions
+O	O	Giordano_Bruno	Appearances in fiction
+O	O	Giordano_Bruno	Giordano Bruno Foundation
+O	O	Giordano_Bruno	Giordano Bruno Memorial Award
+O	O	Giordano_Bruno	Astronomical objects named after Bruno
+O	O	Giordano_Bruno	Works
+O	O	Giordano_Bruno	See also
+O	O	Giordano_Bruno	Notes
+O	O	Giordano_Bruno	References
+O	O	Giordano_Bruno	External links
+B-SEC	B-SEC	George_Eliot	Life
+O	O	George_Eliot	Literary assessment
+O	O	George_Eliot	Works
+O	O	George_Eliot	Notes
+O	O	George_Eliot	Further reading
+O	O	George_Eliot	External links
+B-SEC	B-SEC	Géza,_Grand_Prince_of_the_Hungarians	Early life
+I-SEC	O	Géza,_Grand_Prince_of_the_Hungarians	Reign
+O	O	Géza,_Grand_Prince_of_the_Hungarians	Family
+O	O	Géza,_Grand_Prince_of_the_Hungarians	References
+O	O	Géza,_Grand_Prince_of_the_Hungarians	Sources
+B-SEC	B-SEC	Tom_Hanks	Early life and education
+I-SEC	I-SEC	Tom_Hanks	Career
+I-SEC	I-SEC	Tom_Hanks	Personal life
+O	O	Tom_Hanks	Politics
+O	O	Tom_Hanks	Other activities
+O	O	Tom_Hanks	Legacy and impact
+O	O	Tom_Hanks	Filmography
+O	O	Tom_Hanks	See also
+O	O	Tom_Hanks	References
+O	O	Tom_Hanks	Further reading
+O	O	Tom_Hanks	External links
+B-SEC	B-SEC	Clara_Schumann	Early life
+I-SEC	I-SEC	Clara_Schumann	Child prodigy
+I-SEC	I-SEC	Clara_Schumann	Marriage to Robert
+I-SEC	I-SEC	Clara_Schumann	Meeting Joachim
+I-SEC	I-SEC	Clara_Schumann	Brahms coming on the scene
+I-SEC	I-SEC	Clara_Schumann	Robert's confinement and death
+I-SEC	I-SEC	Clara_Schumann	Tours, often to England, often with Joachim
+I-SEC	I-SEC	Clara_Schumann	Repertoire
+I-SEC	I-SEC	Clara_Schumann	Later career; views of some other composers
+O	I-SEC	Clara_Schumann	Legacy
+O	I-SEC	Clara_Schumann	Family life
+O	O	Clara_Schumann	Quotations
+O	O	Clara_Schumann	Compositions
+O	O	Clara_Schumann	Portrayals in film
+O	O	Clara_Schumann	References
+O	O	Clara_Schumann	Sources
+O	O	Clara_Schumann	Further reading
+O	O	Clara_Schumann	External links
+B-SEC	O	Edward_IV_of_England	Reign
+I-SEC	O	Edward_IV_of_England	Overview
+I-SEC	O	Edward_IV_of_England	Ancestry
+I-SEC	O	Edward_IV_of_England	Marriage and children
+O	O	Edward_IV_of_England	Successors
+O	O	Edward_IV_of_England	Controversy
+O	O	Edward_IV_of_England	Appearance and character
+O	O	Edward_IV_of_England	In fiction
+O	O	Edward_IV_of_England	References
+O	O	Edward_IV_of_England	External links
+B-SEC	B-SEC	Henri_Poincaré	Life
+B-SEC	O	José_Ramos-Horta	Early history and family
+I-SEC	B-SEC	José_Ramos-Horta	Political career
+I-SEC	O	José_Ramos-Horta	Post-presidency
+O	O	José_Ramos-Horta	Other activities
+O	O	José_Ramos-Horta	Awards
+O	O	José_Ramos-Horta	Depictions
+O	O	José_Ramos-Horta	See also
+O	O	José_Ramos-Horta	References
+O	O	José_Ramos-Horta	External links
+B-SEC	B-SEC	Carlos_Filipe_Ximenes_Belo	Early life and religious vocation
+I-SEC	O	Carlos_Filipe_Ximenes_Belo	Pastoral leadership
+I-SEC	O	Carlos_Filipe_Ximenes_Belo	Resignation as Apostolic Administrator and new pastoral activity
+O	O	Carlos_Filipe_Ximenes_Belo	References
+B-SEC	B-SEC	Junichiro_Koizumi	Early life
+I-SEC	I-SEC	Junichiro_Koizumi	Member of House of Representatives
+I-SEC	I-SEC	Junichiro_Koizumi	Prime minister
+I-SEC	I-SEC	Junichiro_Koizumi	Retirement
+O	I-SEC	Junichiro_Koizumi	Anti-nuclear advocacy
+O	I-SEC	Junichiro_Koizumi	Personal life
+O	O	Junichiro_Koizumi	Koizumi cabinets
+O	O	Junichiro_Koizumi	See also
+O	O	Junichiro_Koizumi	References
+O	O	Junichiro_Koizumi	Further reading
+O	O	Junichiro_Koizumi	External links
+B-SEC	B-SEC	John_Calvin	Early life (1509–1535)
+I-SEC	O	John_Calvin	Reform work commences (1536–1538)
+I-SEC	O	John_Calvin	Minister in Strasbourg (1538–1541)
+I-SEC	O	John_Calvin	Reform in Geneva (1541–1549)
+I-SEC	O	John_Calvin	Discipline and opposition (1546–1553)
+I-SEC	O	John_Calvin	Michael Servetus (1553)
+I-SEC	O	John_Calvin	Securing the Reformation (1553–1555)
+I-SEC	O	John_Calvin	Final years (1555–1564)
+O	O	John_Calvin	Theology
+O	O	John_Calvin	Political thought
+O	O	John_Calvin	Selected works
+O	O	John_Calvin	Legacy
+O	O	John_Calvin	See also
+O	O	John_Calvin	Notes
+O	O	John_Calvin	References
+O	O	John_Calvin	Further reading
+O	O	John_Calvin	External links
+B-SEC	B-SEC	James_Monroe	Early life
+I-SEC	I-SEC	James_Monroe	Marriage and family
+I-SEC	I-SEC	James_Monroe	Plantations and slavery
+I-SEC	I-SEC	James_Monroe	Early political career
+I-SEC	I-SEC	James_Monroe	Governor of Virginia and diplomat
+I-SEC	I-SEC	James_Monroe	Secretary of State and Secretary of War
+I-SEC	I-SEC	James_Monroe	Presidential elections of 1816 and 1820
+I-SEC	I-SEC	James_Monroe	Presidency
+I-SEC	I-SEC	James_Monroe	Post-presidency
+I-SEC	I-SEC	James_Monroe	Death
+O	O	James_Monroe	Religious beliefs
+O	O	James_Monroe	Slavery
+O	O	James_Monroe	Legacy and memory
+O	O	James_Monroe	See also
+O	O	James_Monroe	Notes
+O	O	James_Monroe	References
+O	O	James_Monroe	Bibliography
+O	O	James_Monroe	External links
+B-SEC	B-SEC	Kenneth_Arrow	Education and early career
+I-SEC	I-SEC	Kenneth_Arrow	Academic career
+O	O	Kenneth_Arrow	Contributions
+O	O	Kenneth_Arrow	Awards and honors
+O	O	Kenneth_Arrow	Publications
+O	O	Kenneth_Arrow	See also
+O	O	Kenneth_Arrow	References
+O	O	Kenneth_Arrow	External links
+B-SEC	B-SEC	William_Vickrey	Biography
+O	O	William_Vickrey	Works
+O	O	William_Vickrey	See also
+O	O	William_Vickrey	References
+O	O	William_Vickrey	External links
+B-SEC	O	Jehoshaphat	Reign
+I-SEC	O	Jehoshaphat	Alliances
+I-SEC	O	Jehoshaphat	Victory over Moabite alliance
+O	O	Jehoshaphat	Chronological notes
+O	O	Jehoshaphat	In popular culture
+O	O	Jehoshaphat	References
+O	O	Jehoshaphat	External links
+B-SEC	B-SEC	Jackie_Robinson	Early life
+I-SEC	I-SEC	Jackie_Robinson	Military career
+I-SEC	I-SEC	Jackie_Robinson	Post-military
+I-SEC	I-SEC	Jackie_Robinson	Baseball career
+I-SEC	I-SEC	Jackie_Robinson	Legacy
+I-SEC	I-SEC	Jackie_Robinson	Post-baseball life
+I-SEC	I-SEC	Jackie_Robinson	Family life and death
+O	O	Jackie_Robinson	Awards and recognition
+O	O	Jackie_Robinson	See also
+O	O	Jackie_Robinson	Notes
+O	O	Jackie_Robinson	References
+O	O	Jackie_Robinson	External links
+B-SEC	B-SEC	John_Milton	Biography
+O	O	John_Milton	Poetry
+O	O	John_Milton	Views
+O	O	John_Milton	Legacy and influence
+O	O	John_Milton	Works
+O	O	John_Milton	Notes
+O	O	John_Milton	References
+O	O	John_Milton	External links
+B-SEC	B-SEC	Jürgen_Habermas	Biography
+O	O	Jürgen_Habermas	Theory
+O	O	Jürgen_Habermas	Habermas versus postmodernists
+O	O	Jürgen_Habermas	Key dialogues
+O	O	Jürgen_Habermas	Major works
+O	O	Jürgen_Habermas	Awards
+O	O	Jürgen_Habermas	See also
+O	O	Jürgen_Habermas	References
+O	O	Jürgen_Habermas	Further reading
+O	O	Jürgen_Habermas	External links
+B-SEC	B-SEC	James_Callaghan	1912 to 1944: early life and career
+I-SEC	I-SEC	James_Callaghan	1945 to 1976: parliament and cabinet
+I-SEC	I-SEC	James_Callaghan	Prime Minister
+I-SEC	I-SEC	James_Callaghan	Resignation, backbenches and retirement
+I-SEC	I-SEC	James_Callaghan	Personal life
+O	I-SEC	James_Callaghan	In popular culture
+O	I-SEC	James_Callaghan	Titles from birth to death
+O	O	James_Callaghan	Arms
+O	O	James_Callaghan	See also
+O	O	James_Callaghan	Notes
+O	O	James_Callaghan	References
+O	O	James_Callaghan	External links
+B-SEC	B-SEC	Aldo_Moro	Early career
+I-SEC	I-SEC	Aldo_Moro	Political activities
+I-SEC	I-SEC	Aldo_Moro	Kidnapping and death
+O	O	Aldo_Moro	Cinematic adaptations
+O	O	Aldo_Moro	References
+O	O	Aldo_Moro	Sources
+O	O	Aldo_Moro	Further reading
+O	O	Aldo_Moro	External links
+O	O	Sigismund_III_Vasa	Royal titles
+O	O	Sigismund_III_Vasa	Gallery
+B-SEC	B-SEC	Sigismund_III_Vasa	Biography
+I-SEC	O	Sigismund_III_Vasa	Sigismund's politics
+I-SEC	O	Sigismund_III_Vasa	Early conflicts with Hetman Jan Zamoyski
+I-SEC	O	Sigismund_III_Vasa	Gentry, nobility and privileges
+I-SEC	O	Sigismund_III_Vasa	Brief conflict with England
+I-SEC	O	Sigismund_III_Vasa	Zebrzydowski Rebellion
+I-SEC	O	Sigismund_III_Vasa	Piotr Skarga and Sigismund, "King of the Jesuits"
+I-SEC	O	Sigismund_III_Vasa	Relationship with the Mennonites
+I-SEC	O	Sigismund_III_Vasa	Assassination attempt in Warsaw
+I-SEC	O	Sigismund_III_Vasa	Thirty Years' War
+O	O	Sigismund_III_Vasa	Opinion of reign and legacy
+O	O	Sigismund_III_Vasa	Ancestry
+O	O	Sigismund_III_Vasa	See also
+O	O	Sigismund_III_Vasa	Sources
+B-SEC	B-SEC	Jacques_Derrida	Life
+O	O	Jacques_Derrida	Philosophy
+O	O	Jacques_Derrida	Politics
+O	O	Jacques_Derrida	Influences on Derrida
+O	O	Jacques_Derrida	Derrida and his peers and contemporaries
+O	O	Jacques_Derrida	Criticism
+O	O	Jacques_Derrida	Works by Derrida
+O	O	Jacques_Derrida	See also
+O	O	Jacques_Derrida	Notes
+O	O	Jacques_Derrida	References (works cited)
+O	O	Jacques_Derrida	Further reading – works on Derrida
+O	O	Jacques_Derrida	External links
+B-SEC	B-SEC	Chester_W._Nimitz	Early life and education
+I-SEC	I-SEC	Chester_W._Nimitz	Military career
+I-SEC	I-SEC	Chester_W._Nimitz	Personal life
+I-SEC	I-SEC	Chester_W._Nimitz	Death
+O	O	Chester_W._Nimitz	Dates of rank
+O	O	Chester_W._Nimitz	Decorations and awards
+O	O	Chester_W._Nimitz	Memorials and legacy
+O	O	Chester_W._Nimitz	See also
+O	O	Chester_W._Nimitz	References
+O	O	Chester_W._Nimitz	Bibliography
+O	O	Chester_W._Nimitz	External links
+B-SEC	B-SEC	Lucrezia_Borgia	Early life
+I-SEC	O	Lucrezia_Borgia	Appearance
+I-SEC	O	Lucrezia_Borgia	Marriages
+O	O	Lucrezia_Borgia	Issue
+O	O	Lucrezia_Borgia	Rumours
+O	O	Lucrezia_Borgia	Biographies
+O	O	Lucrezia_Borgia	Treatments and references
+O	O	Lucrezia_Borgia	See also
+O	O	Lucrezia_Borgia	References
+O	O	Lucrezia_Borgia	External links
+B-SEC	B-SEC	Luigi_Pirandello	Biography
+O	O	Luigi_Pirandello	Selected works
+O	O	Luigi_Pirandello	References
+O	O	Luigi_Pirandello	Further reading
+O	O	Luigi_Pirandello	External links
+B-SEC	B-SEC	Antonio_Gramsci	Life
+O	O	Antonio_Gramsci	Thought
+O	O	Antonio_Gramsci	Influence
+O	O	Antonio_Gramsci	Bibliography
+O	O	Antonio_Gramsci	See also
+O	O	Antonio_Gramsci	References
+O	O	Antonio_Gramsci	Further reading
+O	O	Antonio_Gramsci	External links
+B-SEC	B-SEC	Antonio_Stradivari	Biography
+O	O	Antonio_Stradivari	Stradivarius instruments
+O	O	Antonio_Stradivari	In fiction
+O	O	Antonio_Stradivari	See also
+O	O	Antonio_Stradivari	References
+O	O	Antonio_Stradivari	External links
+B-SEC	O	Morihei_Ueshiba	Early years
+I-SEC	O	Morihei_Ueshiba	Hokkaidō
+I-SEC	O	Morihei_Ueshiba	Onisaburo Deguchi and Ōmoto-kyō
+I-SEC	O	Morihei_Ueshiba	Tokyo
+I-SEC	O	Morihei_Ueshiba	Iwama
+I-SEC	B-SEC	Morihei_Ueshiba	Death
+O	O	Morihei_Ueshiba	Development of aikido
+O	O	Morihei_Ueshiba	Students
+O	O	Morihei_Ueshiba	Honors
+O	O	Morihei_Ueshiba	Works
+O	O	Morihei_Ueshiba	References
+B-SEC	O	Alan_Shearer	Early years
+I-SEC	B-SEC	Alan_Shearer	Club career
+I-SEC	I-SEC	Alan_Shearer	International career
+I-SEC	I-SEC	Alan_Shearer	Style of play
+I-SEC	I-SEC	Alan_Shearer	Coaching and management career
+I-SEC	I-SEC	Alan_Shearer	Career outside football
+I-SEC	I-SEC	Alan_Shearer	Personal life
+O	I-SEC	Alan_Shearer	Career statistics
+O	O	Alan_Shearer	Honours
+O	O	Alan_Shearer	References
+O	O	Alan_Shearer	External links
+B-SEC	B-SEC	Heike_Kamerlingh_Onnes	Biography
+O	O	Heike_Kamerlingh_Onnes	University of Leiden
+O	O	Heike_Kamerlingh_Onnes	Legacy
+O	O	Heike_Kamerlingh_Onnes	Honors and awards
+O	O	Heike_Kamerlingh_Onnes	Selected publications
+O	O	Heike_Kamerlingh_Onnes	See also
+O	O	Heike_Kamerlingh_Onnes	References
+O	O	Heike_Kamerlingh_Onnes	Further reading
+O	O	Heike_Kamerlingh_Onnes	External links
+B-SEC	B-SEC	Pope_Pius_X	Early life and ministry
+I-SEC	I-SEC	Pope_Pius_X	Papal election
+I-SEC	I-SEC	Pope_Pius_X	Pontificate
+I-SEC	I-SEC	Pope_Pius_X	Death and burial
+O	O	Pope_Pius_X	Canonization
+O	O	Pope_Pius_X	Papal coat of arms
+O	O	Pope_Pius_X	In fiction
+O	O	Pope_Pius_X	In poetry
+O	O	Pope_Pius_X	See also
+O	O	Pope_Pius_X	Notes
+O	O	Pope_Pius_X	References
+O	O	Pope_Pius_X	Bibliography
+O	O	Pope_Pius_X	External links
+B-SEC	O	Mary_I_of_England	Birth and family
+I-SEC	O	Mary_I_of_England	Education and marriage plans
+I-SEC	O	Mary_I_of_England	Adolescence
+I-SEC	O	Mary_I_of_England	Adulthood
+I-SEC	O	Mary_I_of_England	Accession
+I-SEC	B-SEC	Mary_I_of_England	Death
+O	O	Mary_I_of_England	Legacy
+O	O	Mary_I_of_England	Titles, style and arms
+O	O	Mary_I_of_England	Ancestry
+O	O	Mary_I_of_England	Notes
+O	O	Mary_I_of_England	References
+O	O	Mary_I_of_England	Further reading
+O	O	Mary_I_of_England	External links
+B-SEC	O	Niels_Bohr	Early years
+I-SEC	O	Niels_Bohr	Physics
+I-SEC	O	Niels_Bohr	Philosophy
+I-SEC	O	Niels_Bohr	Nazism and Second World War
+I-SEC	O	Niels_Bohr	Later years
+O	O	Niels_Bohr	Accolades
+O	O	Niels_Bohr	Bibliography
+O	O	Niels_Bohr	See also
+O	O	Niels_Bohr	Notes
+O	O	Niels_Bohr	References
+O	O	Niels_Bohr	Further reading
+O	O	Niels_Bohr	External links
+B-SEC	B-SEC	Niklas_Luhmann	Biography
+O	O	Niklas_Luhmann	Works
+O	O	Niklas_Luhmann	Publications
+O	O	Niklas_Luhmann	References
+O	O	Niklas_Luhmann	External links
+B-SEC	B-SEC	Penélope_Cruz	Early life
+I-SEC	I-SEC	Penélope_Cruz	Acting career
+O	I-SEC	Penélope_Cruz	Public image
+O	I-SEC	Penélope_Cruz	Philanthropy
+O	I-SEC	Penélope_Cruz	Personal life
+O	O	Penélope_Cruz	Filmography
+O	O	Penélope_Cruz	References
+O	O	Penélope_Cruz	External links
+O	O	Pope_Linus	Early bishops of Rome
+B-SEC	B-SEC	Pope_Linus	Life
+O	O	Pope_Linus	References
+O	O	Pope_Linus	Further reading
+O	O	Pope_Linus	External links
+B-SEC	B-SEC	Pope_John_Paul_II	Early life
+I-SEC	O	Pope_John_Paul_II	Priesthood
+I-SEC	O	Pope_John_Paul_II	Bishop and Cardinal
+I-SEC	O	Pope_John_Paul_II	Election to the papacy
+O	O	Pope_John_Paul_II	Pastoral trips
+O	O	Pope_John_Paul_II	Teachings
+O	O	Pope_John_Paul_II	Role in the collapse of dictatorships
+O	O	Pope_John_Paul_II	Role in the fall of Communism
+O	O	Pope_John_Paul_II	Relations with other faiths
+O	O	Pope_John_Paul_II	Assassination attempts and plots
+O	O	Pope_John_Paul_II	Apologies
+O	O	Pope_John_Paul_II	Health
+O	O	Pope_John_Paul_II	Posthumous recognition
+O	O	Pope_John_Paul_II	Criticism and controversy
+O	O	Pope_John_Paul_II	Stolen relic
+O	O	Pope_John_Paul_II	See also
+O	O	Pope_John_Paul_II	References
+O	O	Pope_John_Paul_II	Further reading
+O	O	Pope_John_Paul_II	External links
+O	O	Pope_Felix_IV	Note on numbering
+O	O	Pope_Felix_IV	References
+O	O	Pope_Felix_IV	External links
+O	O	Pope_John_III	References
+B-SEC	B-SEC	Pope_Benedict_XIV	Early life
+I-SEC	I-SEC	Pope_Benedict_XIV	Ascension to the papacy
+I-SEC	I-SEC	Pope_Benedict_XIV	Pontificate
+I-SEC	I-SEC	Pope_Benedict_XIV	Death and burial
+O	O	Pope_Benedict_XIV	See also
+O	O	Pope_Benedict_XIV	Footnotes
+O	O	Pope_Benedict_XIV	External links
+B-SEC	O	Greta_Garbo	Childhood and youth
+I-SEC	B-SEC	Greta_Garbo	Career
+I-SEC	I-SEC	Greta_Garbo	In retirement
+I-SEC	I-SEC	Greta_Garbo	Relationships
+I-SEC	I-SEC	Greta_Garbo	Death
+O	O	Greta_Garbo	Legacy
+O	O	Greta_Garbo	Awards and honors
+O	O	Greta_Garbo	Filmography
+O	O	Greta_Garbo	Public Collections
+O	O	Greta_Garbo	References
+O	O	Greta_Garbo	Bibliography and further reading
+O	O	Greta_Garbo	External links
+B-SEC	B-SEC	Pope_Celestine_V	Early life
+I-SEC	I-SEC	Pope_Celestine_V	Founding of the Celestines
+I-SEC	I-SEC	Pope_Celestine_V	Election as Pope
+I-SEC	I-SEC	Pope_Celestine_V	Papacy
+I-SEC	I-SEC	Pope_Celestine_V	Retirement, death, and canonization
+O	O	Pope_Celestine_V	Legacy
+O	O	Pope_Celestine_V	In literature
+O	O	Pope_Celestine_V	See also
+O	O	Pope_Celestine_V	References
+O	O	Pope_Celestine_V	External links
+B-SEC	B-SEC	Pope_Gregory_VI	Biography
+O	I-SEC	Pope_Gregory_VI	Early career
+O	O	Pope_Gregory_VI	Papacy
+O	O	Pope_Gregory_VI	References
+B-SEC	B-SEC	Pope_Callixtus_I	Life
+I-SEC	I-SEC	Pope_Callixtus_I	Death
+O	O	Pope_Callixtus_I	References
+O	O	Pope_Callixtus_I	External links
+O	O	Pope_Sylvester_III	External links
+O	O	Pope_Sylvester_III	Bibliography
+B-SEC	B-SEC	Mobutu_Sese_Seko	Biography
+O	O	Mobutu_Sese_Seko	Coalition government
+O	O	Mobutu_Sese_Seko	Foreign policy
+O	O	Mobutu_Sese_Seko	Family
+O	O	Mobutu_Sese_Seko	Art and literature
+O	O	Mobutu_Sese_Seko	References
+O	O	Mobutu_Sese_Seko	Bibliography
+O	O	Mobutu_Sese_Seko	External links
+B-SEC	O	Robert_Byrd	Background
+I-SEC	B-SEC	Robert_Byrd	Early career
+I-SEC	I-SEC	Robert_Byrd	Congressional service
+I-SEC	I-SEC	Robert_Byrd	Political views
+I-SEC	I-SEC	Robert_Byrd	Health issues and death
+O	O	Robert_Byrd	In popular culture
+O	O	Robert_Byrd	Published writing
+O	O	Robert_Byrd	See also
+O	O	Robert_Byrd	References
+O	O	Robert_Byrd	Further reading
+O	O	Robert_Byrd	External links
+B-SEC	B-SEC	Raymond_Chandler	Early life
+I-SEC	I-SEC	Raymond_Chandler	As a writer
+I-SEC	I-SEC	Raymond_Chandler	Later life and death
+O	O	Raymond_Chandler	Views on pulp fiction
+O	O	Raymond_Chandler	Critical reception
+O	O	Raymond_Chandler	Works
+O	O	Raymond_Chandler	References
+O	O	Raymond_Chandler	Sources
+O	O	Raymond_Chandler	Further reading
+O	O	Raymond_Chandler	External links
+B-SEC	B-SEC	Robert_E._Howard	Biography
+O	O	Robert_E._Howard	Health
+O	O	Robert_E._Howard	Character sketch
+O	O	Robert_E._Howard	Writing
+O	O	Robert_E._Howard	Legacy
+O	O	Robert_E._Howard	Adaptations
+O	O	Robert_E._Howard	Bibliography
+O	O	Robert_E._Howard	See also
+O	O	Robert_E._Howard	Notes
+O	O	Robert_E._Howard	References
+O	O	Robert_E._Howard	Further reading
+O	O	Robert_E._Howard	External links
+B-SEC	B-SEC	Robert_the_Bruce	Background and early life
+I-SEC	I-SEC	Robert_the_Bruce	Beginning of the Wars of Independence
+I-SEC	I-SEC	Robert_the_Bruce	Murder of John Comyn
+I-SEC	I-SEC	Robert_the_Bruce	War of King Robert I
+I-SEC	I-SEC	Robert_the_Bruce	Further confrontation with England then the Irish conflict
+I-SEC	I-SEC	Robert_the_Bruce	Diplomacy
+I-SEC	I-SEC	Robert_the_Bruce	Death
+I-SEC	O	Robert_the_Bruce	Burial
+O	O	Robert_the_Bruce	Discovery of the Bruce's tomb
+O	O	Robert_the_Bruce	Issue
+O	O	Robert_the_Bruce	Ancestry
+O	O	Robert_the_Bruce	Monuments and commemoration
+O	O	Robert_the_Bruce	Legends
+O	O	Robert_the_Bruce	See also
+O	O	Robert_the_Bruce	Notes
+O	O	Robert_the_Bruce	References
+O	O	Robert_the_Bruce	External links
+B-SEC	O	Tiglath-Pileser_III	Origins
+I-SEC	O	Tiglath-Pileser_III	Reign
+O	O	Tiglath-Pileser_III	Biblical account
+O	O	Tiglath-Pileser_III	Reforms
+O	O	Tiglath-Pileser_III	Legacy
+O	O	Tiglath-Pileser_III	See also
+O	O	Tiglath-Pileser_III	Footnotes
+O	O	Tiglath-Pileser_III	References
+B-SEC	B-SEC	Nathuram_Godse	Early life
+I-SEC	I-SEC	Nathuram_Godse	Political career
+I-SEC	O	Nathuram_Godse	Assassination of Mahatma Gandhi
+O	O	Nathuram_Godse	In art
+O	O	Nathuram_Godse	Notes
+O	O	Nathuram_Godse	References
+O	O	Nathuram_Godse	External links
+B-SEC	O	Samuel	Biblical account
+O	O	Samuel	Textual criticism
+O	O	Samuel	Perspectives on Samuel
+O	O	Samuel	See also
+O	O	Samuel	References
+B-SEC	B-SEC	Barbra_Streisand	Early life
+I-SEC	I-SEC	Barbra_Streisand	Career
+I-SEC	I-SEC	Barbra_Streisand	Artistry and voice
+I-SEC	I-SEC	Barbra_Streisand	Personal life
+O	O	Barbra_Streisand	Legacy and References in popular culture
+O	O	Barbra_Streisand	Awards
+O	O	Barbra_Streisand	Appearances
+O	O	Barbra_Streisand	Tours and live performances
+O	O	Barbra_Streisand	Discography
+O	O	Barbra_Streisand	Books
+O	O	Barbra_Streisand	Filmography
+O	O	Barbra_Streisand	References
+O	O	Barbra_Streisand	Further reading
+O	O	Barbra_Streisand	External links
+B-SEC	B-SEC	Larisa_Latynina	Early life
+I-SEC	I-SEC	Larisa_Latynina	Gymnastics career
+I-SEC	O	Larisa_Latynina	Family
+I-SEC	O	Larisa_Latynina	Retirement
+O	O	Larisa_Latynina	Awards and honors
+O	O	Larisa_Latynina	See also
+O	O	Larisa_Latynina	References
+O	O	Larisa_Latynina	Bibliography
+O	O	Larisa_Latynina	External links
+B-SEC	B-SEC	Theodor_W._Adorno	Life and career
+O	O	Theodor_W._Adorno	Theory
+O	O	Theodor_W._Adorno	Standardization
+O	O	Theodor_W._Adorno	Adorno's sociological methods
+O	O	Theodor_W._Adorno	Adorno translated into English
+O	O	Theodor_W._Adorno	Bibliography
+O	O	Theodor_W._Adorno	Notes
+O	O	Theodor_W._Adorno	References
+O	O	Theodor_W._Adorno	Further reading
+O	O	Theodor_W._Adorno	External links
+O	O	John_II_Komnenos	Physical appearance and character
+O	O	John_II_Komnenos	Accession to the throne
+O	O	John_II_Komnenos	Military and civil administration
+O	O	John_II_Komnenos	Diplomacy
+O	O	John_II_Komnenos	Religious matters
+O	O	John_II_Komnenos	Military exploits
+O	B-SEC	John_II_Komnenos	Death and succession
+O	O	John_II_Komnenos	The legacy of John II
+O	O	John_II_Komnenos	Family
+O	O	John_II_Komnenos	Ancestry
+O	O	John_II_Komnenos	See also
+O	O	John_II_Komnenos	Citations
+O	O	John_II_Komnenos	Sources
+O	O	John_II_Komnenos	Further reading
+B-SEC	B-SEC	Tiberius	Early life
+I-SEC	O	Tiberius	Emperor (14–37 AD)
+O	O	Tiberius	Legacy
+O	O	Tiberius	Children and family
+O	O	Tiberius	Ancestry
+O	O	Tiberius	See also
+O	O	Tiberius	Notes
+O	O	Tiberius	Bibliography
+O	O	Tiberius	External links
+B-SEC	B-SEC	Michael_II	Early life
+I-SEC	O	Michael_II	Reign
+O	O	Michael_II	Footnotes
+O	O	Michael_II	References
+B-SEC	B-SEC	Thomas_Paine	Early life
+I-SEC	I-SEC	Thomas_Paine	American Revolution
+I-SEC	I-SEC	Thomas_Paine	Rights of Man
+I-SEC	I-SEC	Thomas_Paine	The Age of Reason
+I-SEC	I-SEC	Thomas_Paine	Later years
+I-SEC	I-SEC	Thomas_Paine	Death
+O	O	Thomas_Paine	Ideas
+O	O	Thomas_Paine	Religious views
+O	O	Thomas_Paine	Legacy
+O	O	Thomas_Paine	In popular culture
+O	O	Thomas_Paine	See also
+O	O	Thomas_Paine	Notes
+O	O	Thomas_Paine	References
+O	O	Thomas_Paine	External links
+B-SEC	B-SEC	Thucydides	Life
+O	O	Thucydides	Critical interpretation
+O	O	Thucydides	Thucydides versus Herodotus
+O	O	Thucydides	Quotations
+O	O	Thucydides	Quotations about Thucydides
+O	O	Thucydides	See also
+O	O	Thucydides	Notes
+O	O	Thucydides	References and further reading
+O	O	Thucydides	External links
+B-SEC	B-SEC	Jenna_Jameson	Early life
+I-SEC	I-SEC	Jenna_Jameson	Career
+O	I-SEC	Jenna_Jameson	Awards
+O	I-SEC	Jenna_Jameson	Personal life
+O	O	Jenna_Jameson	See also
+O	O	Jenna_Jameson	References
+O	O	Jenna_Jameson	External links
+B-SEC	B-SEC	Majorian	Biography
+O	O	Majorian	Notes
+O	O	Majorian	Sources
+O	O	Majorian	External links
+B-SEC	B-SEC	Vint_Cerf	Life and career
+O	O	Vint_Cerf	Awards and honors
+O	O	Vint_Cerf	Partial bibliography
+O	O	Vint_Cerf	References
+O	O	Vint_Cerf	External links
+B-SEC	B-SEC	William_the_Lion	Life
+I-SEC	O	William_the_Lion	Marriage and issue
+O	O	William_the_Lion	Fictional portrayals
+O	O	William_the_Lion	Ancestry
+O	O	William_the_Lion	Notes
+O	O	William_the_Lion	Sources
+O	O	William_the_Lion	External links
+B-SEC	O	Louis_VIII_of_France	Prince Louis
+I-SEC	O	Louis_VIII_of_France	As King Louis VIII
+O	O	Louis_VIII_of_France	Ancestry
+O	O	Louis_VIII_of_France	Marriage and Issue
+O	O	Louis_VIII_of_France	References
+O	O	Tristan_Tzara	Name
+B-SEC	B-SEC	Tristan_Tzara	Biography
+O	O	Tristan_Tzara	Literary contributions
+O	O	Tristan_Tzara	Legacy
+O	O	Tristan_Tzara	Notes
+O	O	Tristan_Tzara	References
+O	O	Tristan_Tzara	External links
+B-SEC	B-SEC	Roland_Freisler	Early life
+I-SEC	I-SEC	Roland_Freisler	Involvement with the Nazi Party
+I-SEC	I-SEC	Roland_Freisler	Career under Hitler
+I-SEC	I-SEC	Roland_Freisler	Contribution to the Nazification of the law
+I-SEC	I-SEC	Roland_Freisler	Presidency of the People's Court
+I-SEC	I-SEC	Roland_Freisler	Death
+O	O	Roland_Freisler	Fictional portrayals
+O	O	Roland_Freisler	See also
+O	O	Roland_Freisler	Notes
+O	O	Roland_Freisler	Bibliography
+O	O	Roland_Freisler	External links
+B-SEC	B-SEC	Pope_Leo_VI	Biography
+O	O	Pope_Leo_VI	References
+O	O	Pope_Leo_VI	External links
+B-SEC	B-SEC	Igor_Stravinsky	Biography
+O	O	Igor_Stravinsky	Music
+O	O	Igor_Stravinsky	Innovation and influence
+O	O	Igor_Stravinsky	Personality
+O	O	Igor_Stravinsky	Religion
+O	O	Igor_Stravinsky	Reception
+O	O	Igor_Stravinsky	Awards
+O	O	Igor_Stravinsky	Recordings and publications
+O	O	Igor_Stravinsky	Notes
+O	O	Igor_Stravinsky	References
+O	O	Igor_Stravinsky	Further reading
+O	O	Igor_Stravinsky	External links
+B-SEC	B-SEC	Fidel_Castro	Early life
+I-SEC	I-SEC	Fidel_Castro	Cuban Revolution
+I-SEC	I-SEC	Fidel_Castro	Premiership
+I-SEC	I-SEC	Fidel_Castro	Presidency
+I-SEC	I-SEC	Fidel_Castro	Later years
+I-SEC	I-SEC	Fidel_Castro	Personal and public life
+O	O	Fidel_Castro	Reception and legacy
+O	O	Fidel_Castro	References
+O	O	Fidel_Castro	External links
+B-SEC	B-SEC	John_Henry_Newman	Early life and education
+I-SEC	I-SEC	John_Henry_Newman	Anglican priest
+I-SEC	I-SEC	John_Henry_Newman	Oxford Movement
+I-SEC	I-SEC	John_Henry_Newman	Conversion to Roman Catholicism
+I-SEC	I-SEC	John_Henry_Newman	Apologia
+I-SEC	I-SEC	John_Henry_Newman	Later years
+I-SEC	I-SEC	John_Henry_Newman	Death
+O	O	John_Henry_Newman	Missing relics
+O	O	John_Henry_Newman	Writer
+O	O	John_Henry_Newman	Theologian
+O	O	John_Henry_Newman	Character and relationships
+O	O	John_Henry_Newman	Influence and legacy
+O	O	John_Henry_Newman	Cause for his canonisation
+O	O	John_Henry_Newman	Works
+O	O	John_Henry_Newman	See also
+O	O	John_Henry_Newman	References and notes
+O	O	John_Henry_Newman	Further reading
+O	O	John_Henry_Newman	External links
+B-SEC	O	Ptolemy_XIII_Theos_Philopator	Co-ruler of Egypt, inner turmoil
+I-SEC	O	Ptolemy_XIII_Theos_Philopator	Civil war
+O	O	Ptolemy_XIII_Theos_Philopator	Ancestry
+O	O	Ptolemy_XIII_Theos_Philopator	Notes
+O	O	Ptolemy_XIII_Theos_Philopator	References
+O	O	Ptolemy_XIII_Theos_Philopator	External links
+B-SEC	B-SEC	Maximilian_II,_Holy_Roman_Emperor	Biography
+O	O	Maximilian_II,_Holy_Roman_Emperor	Religious policies
+O	O	Maximilian_II,_Holy_Roman_Emperor	Marriage and children
+O	O	Maximilian_II,_Holy_Roman_Emperor	Official style
+O	O	Maximilian_II,_Holy_Roman_Emperor	Heraldry
+O	O	Maximilian_II,_Holy_Roman_Emperor	Ancestors
+O	O	Maximilian_II,_Holy_Roman_Emperor	See also
+O	O	Maximilian_II,_Holy_Roman_Emperor	References
+O	O	Maximilian_II,_Holy_Roman_Emperor	External links
+O	O	Antiochus_II_Theos	Relations with India
+O	O	Antiochus_II_Theos	Notes
+O	O	Antiochus_II_Theos	External links
+B-SEC	B-SEC	Wilhelm_Grimm	Life and work
+O	O	Wilhelm_Grimm	Notes
+O	O	Wilhelm_Grimm	References
+O	O	Wilhelm_Grimm	External links
+B-SEC	B-SEC	Posidonius	Early life
+I-SEC	I-SEC	Posidonius	Career
+I-SEC	I-SEC	Posidonius	School
+I-SEC	I-SEC	Posidonius	Partial scope of writings
+I-SEC	I-SEC	Posidonius	Reputation and influence
+I-SEC	I-SEC	Posidonius	Death
+O	O	Posidonius	Notes
+O	O	Posidonius	See also
+O	O	Posidonius	References
+O	O	Posidonius	Further reading
+O	O	Posidonius	External links
+B-SEC	O	Hubert_Humphrey	Early years
+I-SEC	B-SEC	Hubert_Humphrey	Marriage and early career
+I-SEC	I-SEC	Hubert_Humphrey	1948 Democratic National Convention
+I-SEC	I-SEC	Hubert_Humphrey	United States Senate (1948–1964)
+I-SEC	I-SEC	Hubert_Humphrey	Presidential and vice-presidential ambitions (1952–1964)
+I-SEC	I-SEC	Hubert_Humphrey	Vice Presidency (1965–1969)
+I-SEC	I-SEC	Hubert_Humphrey	1968 Presidential election
+I-SEC	I-SEC	Hubert_Humphrey	Post-Vice Presidency (1969–1978)
+I-SEC	I-SEC	Hubert_Humphrey	Death and funeral
+O	O	Hubert_Humphrey	Honors
+O	O	Hubert_Humphrey	Named for Humphrey
+O	O	Hubert_Humphrey	Electoral history
+O	O	Hubert_Humphrey	See also
+O	O	Hubert_Humphrey	Notes
+O	O	Hubert_Humphrey	References
+O	O	Hubert_Humphrey	External links
+B-SEC	B-SEC	John_Flamsteed	Life
+O	O	John_Flamsteed	Scientific work
+O	O	John_Flamsteed	Honours
+O	O	John_Flamsteed	See also
+O	O	John_Flamsteed	References
+O	O	John_Flamsteed	Further reading
+O	O	John_Flamsteed	External links
+B-SEC	B-SEC	William_A._Wheeler	Early life and career
+I-SEC	O	William_A._Wheeler	Election of 1876
+I-SEC	O	William_A._Wheeler	Vice Presidency (1877-1881)
+I-SEC	O	William_A._Wheeler	Retirement (1881&ndash;1887)
+O	O	William_A._Wheeler	Notes
+O	O	William_A._Wheeler	Further reading
+O	O	William_A._Wheeler	External links
+B-SEC	O	Akhenaten	Early reign as Amenhotep IV
+I-SEC	O	Akhenaten	Name change to Akhenaten
+I-SEC	O	Akhenaten	Religious policies
+I-SEC	O	Akhenaten	Pharaoh and family depictions
+I-SEC	O	Akhenaten	International relations
+I-SEC	B-SEC	Akhenaten	Death, burial and succession
+O	O	Akhenaten	Implementation of Atenism
+O	O	Akhenaten	Speculative theories
+O	O	Akhenaten	In the arts
+O	O	Akhenaten	Ancestry
+O	O	Akhenaten	See also
+O	O	Akhenaten	Notes and references
+O	O	Akhenaten	External links
+B-SEC	B-SEC	François_Villon	Biography
+O	O	François_Villon	Works
+O	O	François_Villon	Translations
+O	O	François_Villon	Critical views
+O	O	François_Villon	Adaptations and tributes
+O	O	François_Villon	In popular culture
+O	O	François_Villon	See also
+O	O	François_Villon	Notes
+O	O	François_Villon	References
+O	O	François_Villon	Further reading
+O	O	François_Villon	External links
+B-SEC	B-SEC	Gary_Cooper	Early life
+I-SEC	I-SEC	Gary_Cooper	Career
+I-SEC	I-SEC	Gary_Cooper	Personal life
+I-SEC	I-SEC	Gary_Cooper	Final year and death
+O	I-SEC	Gary_Cooper	Acting style and reputation
+O	I-SEC	Gary_Cooper	Career assessment and legacy
+O	O	Gary_Cooper	Awards and nominations
+O	O	Gary_Cooper	Filmography
+O	O	Gary_Cooper	References
+O	O	Gary_Cooper	External links
+B-SEC	B-SEC	Erich_Fromm	Life
+O	O	Erich_Fromm	Psychological theory
+O	O	Erich_Fromm	Critique of Freud
+O	O	Erich_Fromm	Political ideas and activities
+O	O	Erich_Fromm	Criticism
+O	O	Erich_Fromm	Bibliography
+O	O	Erich_Fromm	See also
+O	O	Erich_Fromm	Footnotes
+O	O	Erich_Fromm	Further reading
+O	O	Erich_Fromm	External links
+B-SEC	B-SEC	Richard_Branson	Early life
+I-SEC	I-SEC	Richard_Branson	Career
+I-SEC	I-SEC	Richard_Branson	World record attempts
+I-SEC	I-SEC	Richard_Branson	Television, film and print
+I-SEC	I-SEC	Richard_Branson	Humanitarian initiatives
+I-SEC	I-SEC	Richard_Branson	Politics
+O	I-SEC	Richard_Branson	Controversies and criticism
+O	I-SEC	Richard_Branson	Honours and awards
+O	I-SEC	Richard_Branson	Personal life
+O	O	Richard_Branson	Bibliography
+O	O	Richard_Branson	References
+O	O	Richard_Branson	External links
+B-SEC	B-SEC	Edward_III_of_England	Early life
+I-SEC	O	Edward_III_of_England	Early reign
+I-SEC	O	Edward_III_of_England	Fortunes of war
+I-SEC	O	Edward_III_of_England	Later reign
+O	O	Edward_III_of_England	Achievements of the reign
+O	O	Edward_III_of_England	Assessment and character
+O	O	Edward_III_of_England	Issue
+O	O	Edward_III_of_England	Ancestry
+O	O	Edward_III_of_England	Footnotes
+O	O	Edward_III_of_England	References
+O	O	Edward_III_of_England	External links
+B-SEC	B-SEC	Alexis_of_Russia	Early life and reign
+I-SEC	O	Alexis_of_Russia	Later reign
+O	O	Alexis_of_Russia	Assessment
+O	O	Alexis_of_Russia	Family and children
+O	O	Alexis_of_Russia	Ancestry
+O	O	Alexis_of_Russia	See also
+O	O	Alexis_of_Russia	Notes
+O	O	Alexis_of_Russia	References
+O	O	Alexis_of_Russia	External links
+B-SEC	B-SEC	Enrico_Berlinguer	Biography
+O	O	Enrico_Berlinguer	Analysis
+O	O	Enrico_Berlinguer	Impact on Italian society
+O	O	Enrico_Berlinguer	Writings
+O	O	Enrico_Berlinguer	See also
+O	O	Enrico_Berlinguer	References
+B-SEC	B-SEC	Jesse_Owens	Early life and education
+I-SEC	I-SEC	Jesse_Owens	Career
+I-SEC	I-SEC	Jesse_Owens	Later life
+I-SEC	I-SEC	Jesse_Owens	Death
+I-SEC	I-SEC	Jesse_Owens	Personal life
+O	O	Jesse_Owens	Legacy
+O	O	Jesse_Owens	Awards and honors
+O	O	Jesse_Owens	See also
+O	O	Jesse_Owens	References
+O	O	Jesse_Owens	External links
+B-SEC	B-SEC	Quintilian	Life
+O	O	Quintilian	Works
+O	O	Quintilian	Institutio Oratoria
+O	O	Quintilian	Placement of Quintilian's rhetoric
+O	O	Quintilian	Influence of Quintilian
+O	O	Quintilian	Notes
+O	O	Quintilian	See also
+O	O	Quintilian	Further reading
+O	O	Quintilian	External links
+B-SEC	B-SEC	José_Saramago	Early and middle life
+I-SEC	I-SEC	José_Saramago	Later life and international acclaim
+I-SEC	I-SEC	José_Saramago	Death and funeral
+O	I-SEC	José_Saramago	Lost novel
+O	I-SEC	José_Saramago	Style and themes
+O	I-SEC	José_Saramago	Personal life
+O	O	José_Saramago	Awards and accolades
+O	O	José_Saramago	The José Saramago Foundation
+O	O	José_Saramago	List of works
+O	O	José_Saramago	Further reading
+O	O	José_Saramago	See also
+O	O	José_Saramago	References
+O	O	José_Saramago	External links
+B-SEC	B-SEC	Mira_Furlan	Early life
+I-SEC	I-SEC	Mira_Furlan	Career
+I-SEC	I-SEC	Mira_Furlan	Personal life
+O	O	Mira_Furlan	Selected filmography
+O	O	Mira_Furlan	References
+O	O	Mira_Furlan	External links
+B-SEC	B-SEC	Sébastien_Le_Prestre_de_Vauban	Life and doctrines
+O	O	Sébastien_Le_Prestre_de_Vauban	Fortifications
+O	O	Sébastien_Le_Prestre_de_Vauban	See also
+O	O	Sébastien_Le_Prestre_de_Vauban	Notes
+O	O	Sébastien_Le_Prestre_de_Vauban	References
+O	O	Sébastien_Le_Prestre_de_Vauban	Further reading
+O	O	Sébastien_Le_Prestre_de_Vauban	External links
+B-SEC	B-SEC	Eddie_Murphy	Early life
+I-SEC	I-SEC	Eddie_Murphy	Career
+I-SEC	I-SEC	Eddie_Murphy	Personal life
+O	O	Eddie_Murphy	Discography
+O	O	Eddie_Murphy	See also
+O	O	Eddie_Murphy	Awards/nominations
+O	O	Eddie_Murphy	References
+O	O	Eddie_Murphy	External links
+B-SEC	B-SEC	Barbara_McClintock	Early life
+I-SEC	O	Barbara_McClintock	Education and research at Cornell
+I-SEC	O	Barbara_McClintock	University of Missouri
+I-SEC	O	Barbara_McClintock	Cold Spring Harbor
+O	O	Barbara_McClintock	Honors and recognition
+O	O	Barbara_McClintock	Legacy
+O	O	Barbara_McClintock	Key publications
+O	O	Barbara_McClintock	See also
+O	O	Barbara_McClintock	Citations
+O	O	Barbara_McClintock	References
+O	O	Barbara_McClintock	External links
+B-SEC	B-SEC	Geoffrey_of_Monmouth	Biography
+O	O	Geoffrey_of_Monmouth	Other writings
+O	O	Geoffrey_of_Monmouth	In Popular Culture
+O	O	Geoffrey_of_Monmouth	See also
+O	O	Geoffrey_of_Monmouth	Notes
+O	O	Geoffrey_of_Monmouth	References and further reading
+O	O	Geoffrey_of_Monmouth	External links
+B-SEC	B-SEC	Gustav_Heinemann	Early years and professional career
+I-SEC	O	Gustav_Heinemann	Family and religion
+I-SEC	O	Gustav_Heinemann	Politics
+I-SEC	O	Gustav_Heinemann	President of the Federal Republic of Germany
+O	O	Gustav_Heinemann	Honours and awards
+O	O	Gustav_Heinemann	References
+O	O	Gustav_Heinemann	Further reading
+O	O	Gustav_Heinemann	External links
+B-SEC	B-SEC	Emil_Jannings	Early life
+I-SEC	I-SEC	Emil_Jannings	Career
+I-SEC	I-SEC	Emil_Jannings	Later life
+I-SEC	I-SEC	Emil_Jannings	Marriages
+I-SEC	I-SEC	Emil_Jannings	Death
+O	O	Emil_Jannings	Cultural depictions
+O	O	Emil_Jannings	Filmography
+O	O	Emil_Jannings	See also
+O	O	Emil_Jannings	References
+O	O	Emil_Jannings	Further reading
+O	O	Emil_Jannings	External links
+B-SEC	B-SEC	Nursultan_Nazarbayev	Early life
+I-SEC	I-SEC	Nursultan_Nazarbayev	Presidency
+O	I-SEC	Nursultan_Nazarbayev	Allegations of corruption
+O	I-SEC	Nursultan_Nazarbayev	Nazarbayev on various issues
+O	I-SEC	Nursultan_Nazarbayev	Personal life
+O	O	Nursultan_Nazarbayev	Honours
+O	O	Nursultan_Nazarbayev	See also
+O	O	Nursultan_Nazarbayev	References
+O	O	Nursultan_Nazarbayev	External links
+B-SEC	B-SEC	Rudolf_Carnap	Life and work
+O	O	Rudolf_Carnap	Logical syntax
+O	O	Rudolf_Carnap	Rejection of metaphysics
+O	O	Rudolf_Carnap	Selected publications
+O	O	Rudolf_Carnap	See also
+O	O	Rudolf_Carnap	References
+O	O	Rudolf_Carnap	Sources
+O	O	Rudolf_Carnap	External links
+B-SEC	B-SEC	Alfred,_Lord_Tennyson	Early life
+I-SEC	O	Alfred,_Lord_Tennyson	Education and first publication
+I-SEC	O	Alfred,_Lord_Tennyson	Return to Lincolnshire and second publication
+I-SEC	O	Alfred,_Lord_Tennyson	Third publication
+I-SEC	O	Alfred,_Lord_Tennyson	Poet Laureate
+O	O	Alfred,_Lord_Tennyson	Tennyson and the Queen
+O	O	Alfred,_Lord_Tennyson	The art of Tennyson's poetry
+O	O	Alfred,_Lord_Tennyson	Partial list of works
+O	O	Alfred,_Lord_Tennyson	References
+O	O	Alfred,_Lord_Tennyson	External links
+B-SEC	B-SEC	Liza_Minnelli	Early life
+I-SEC	I-SEC	Liza_Minnelli	Career
+I-SEC	I-SEC	Liza_Minnelli	Personal life
+O	O	Liza_Minnelli	Filmography
+O	O	Liza_Minnelli	Discography
+O	O	Liza_Minnelli	Stage productions
+O	O	Liza_Minnelli	Awards and honors
+O	O	Liza_Minnelli	Other appearances
+O	O	Liza_Minnelli	See also
+O	O	Liza_Minnelli	References
+O	O	Liza_Minnelli	Further reading
+O	O	Liza_Minnelli	External links
+B-SEC	B-SEC	Georg_Trakl	Life and work
+O	O	Georg_Trakl	Bibliography
+O	O	Georg_Trakl	Poetry of Trakl in music
+O	O	Georg_Trakl	Movies Regarding Georg Trakl
+O	O	Georg_Trakl	See also
+O	O	Georg_Trakl	References
+O	O	Georg_Trakl	External links
+O	O	Modest_Mussorgsky	Name
+B-SEC	B-SEC	Modest_Mussorgsky	Life
+O	O	Modest_Mussorgsky	Works
+O	O	Modest_Mussorgsky	Portrait gallery
+O	O	Modest_Mussorgsky	Criticism
+O	O	Modest_Mussorgsky	References
+O	O	Modest_Mussorgsky	External links
+O	O	Anastasio_Somoza_Debayle	Name
+B-SEC	O	Anastasio_Somoza_Debayle	Early years
+I-SEC	O	Anastasio_Somoza_Debayle	Presidency
+I-SEC	O	Anastasio_Somoza_Debayle	Fall
+I-SEC	O	Anastasio_Somoza_Debayle	Assassination
+O	O	Anastasio_Somoza_Debayle	In popular culture
+O	O	Anastasio_Somoza_Debayle	See also
+O	O	Anastasio_Somoza_Debayle	Bibliography
+O	O	Anastasio_Somoza_Debayle	References
+B-SEC	B-SEC	Adam_Clayton	Early life
+I-SEC	O	Adam_Clayton	U2
+O	O	Adam_Clayton	Style
+O	O	Adam_Clayton	Musical equipment
+O	O	Adam_Clayton	Side projects
+O	O	Adam_Clayton	Awards
+O	O	Adam_Clayton	See also
+O	O	Adam_Clayton	References
+O	O	Adam_Clayton	External links
+B-SEC	B-SEC	Alexander_of_Battenberg	Early life
+I-SEC	O	Alexander_of_Battenberg	Prince of Bulgaria
+I-SEC	O	Alexander_of_Battenberg	Loss of throne
+I-SEC	O	Alexander_of_Battenberg	Last years
+O	O	Alexander_of_Battenberg	Ancestry
+O	O	Alexander_of_Battenberg	See also
+O	O	Alexander_of_Battenberg	Notes
+O	O	Alexander_of_Battenberg	References
+O	O	Alexander_of_Battenberg	External links
+B-SEC	B-SEC	Ed_Gein	Early life
+I-SEC	I-SEC	Ed_Gein	Career
+I-SEC	I-SEC	Ed_Gein	Crimes
+I-SEC	I-SEC	Ed_Gein	Death
+O	O	Ed_Gein	In popular culture
+O	O	Ed_Gein	See also
+O	O	Ed_Gein	References
+O	O	Ed_Gein	External links
+B-SEC	B-SEC	Angela_Merkel	Background and early life
+I-SEC	I-SEC	Angela_Merkel	Early political career
+I-SEC	I-SEC	Angela_Merkel	Leader of the Opposition
+I-SEC	I-SEC	Angela_Merkel	Chancellor of Germany
+I-SEC	I-SEC	Angela_Merkel	Cabinets
+I-SEC	I-SEC	Angela_Merkel	Personal life
+O	O	Angela_Merkel	Honours and awards
+O	O	Angela_Merkel	Comparisons
+O	O	Angela_Merkel	Controversies
+O	O	Angela_Merkel	References
+O	O	Angela_Merkel	Further reading
+O	O	Angela_Merkel	External links
+B-SEC	B-SEC	Seneca_the_Younger	Biography
+O	O	Seneca_the_Younger	Legacy
+O	O	Seneca_the_Younger	See also
+O	O	Seneca_the_Younger	References
+O	O	Seneca_the_Younger	Further reading
+O	O	Seneca_the_Younger	External links
+B-SEC	B-SEC	Carloman_of_Bavaria	Early life
+I-SEC	O	Carloman_of_Bavaria	Guardian of the southeast frontier
+I-SEC	O	Carloman_of_Bavaria	Ruler of Bavaria and Italy
+O	O	Carloman_of_Bavaria	Notes
+O	O	Carloman_of_Bavaria	Sources
+O	O	Louis_the_Child	See also
+O	O	Louis_the_Child	Notes
+B-SEC	B-SEC	Simonides_of_Ceos	Biography
+O	O	Simonides_of_Ceos	Poetry
+O	O	Simonides_of_Ceos	Ethics
+O	O	Simonides_of_Ceos	Notes
+O	O	Simonides_of_Ceos	References
+O	O	Simonides_of_Ceos	Sources
+O	O	Simonides_of_Ceos	Further reading
+O	O	Simonides_of_Ceos	External links
+B-SEC	B-SEC	Helena_Bonham_Carter	Early life
+I-SEC	I-SEC	Helena_Bonham_Carter	Career
+I-SEC	I-SEC	Helena_Bonham_Carter	Personal life
+O	O	Helena_Bonham_Carter	In the media
+O	O	Helena_Bonham_Carter	Ancestry
+O	O	Helena_Bonham_Carter	Awards and nominations
+O	O	Helena_Bonham_Carter	Filmography
+O	O	Helena_Bonham_Carter	References
+O	O	Helena_Bonham_Carter	External links
+B-SEC	O	Olympias	Origin
+I-SEC	O	Olympias	Marriage to Philip
+I-SEC	O	Olympias	Alexander's reign and the wars of succession
+O	O	Olympias	Medals
+O	O	Olympias	In popular culture
+O	O	Olympias	See also
+O	O	Olympias	References
+O	O	Olympias	Bibliography
+O	O	Olympias	External links
+B-SEC	B-SEC	Arthur_de_Gobineau	Life and theories
+O	O	Arthur_de_Gobineau	Nazism
+O	O	Arthur_de_Gobineau	Writing
+O	O	Arthur_de_Gobineau	Works in English translation
+O	O	Arthur_de_Gobineau	See also
+O	O	Arthur_de_Gobineau	References
+O	O	Arthur_de_Gobineau	Further reading
+O	O	Arthur_de_Gobineau	External links
+B-SEC	B-SEC	Nino_Rota	Early career
+I-SEC	O	Nino_Rota	Film scores
+O	O	Nino_Rota	Orchestral, chamber and choral music
+O	O	Nino_Rota	Operas
+O	O	Nino_Rota	Quotations
+O	O	Nino_Rota	Works
+O	O	Nino_Rota	Discography
+O	O	Nino_Rota	References
+O	O	Nino_Rota	Further reading
+O	O	Nino_Rota	External links
+B-SEC	B-SEC	Howard_Zinn	Life and career
+I-SEC	I-SEC	Howard_Zinn	Death
+O	O	Howard_Zinn	Notable recognition
+O	O	Howard_Zinn	Awards
+O	O	Howard_Zinn	Controversies
+O	O	Howard_Zinn	References in popular culture
+O	O	Howard_Zinn	Bibliography
+O	O	Howard_Zinn	See also
+O	O	Howard_Zinn	References
+O	O	Howard_Zinn	Further reading
+O	O	Howard_Zinn	External links
+B-SEC	B-SEC	Harold_Pinter	Biography
+I-SEC	I-SEC	Harold_Pinter	Career
+O	O	Harold_Pinter	Posthumous events
+O	O	Harold_Pinter	Honours
+O	O	Harold_Pinter	Scholarly response
+O	O	Harold_Pinter	Pinter research collections
+O	O	Harold_Pinter	See also
+O	O	Harold_Pinter	References
+O	O	Harold_Pinter	External links
+B-SEC	B-SEC	Alben_W._Barkley	Early life
+I-SEC	I-SEC	Alben_W._Barkley	Early political career
+I-SEC	I-SEC	Alben_W._Barkley	U.S. Representative
+I-SEC	I-SEC	Alben_W._Barkley	U.S. Senator
+I-SEC	I-SEC	Alben_W._Barkley	Vice President
+I-SEC	I-SEC	Alben_W._Barkley	Later life and death
+O	O	Alben_W._Barkley	Notes
+O	O	Alben_W._Barkley	References
+O	O	Alben_W._Barkley	Further reading
+O	O	Alben_W._Barkley	External links
+B-SEC	B-SEC	Mary_McAleese	Background and family life
+I-SEC	I-SEC	Mary_McAleese	Early career
+I-SEC	O	Mary_McAleese	Presidency
+I-SEC	O	Mary_McAleese	After the presidency
+O	O	Mary_McAleese	Awards and honorary doctorates
+O	O	Mary_McAleese	References
+O	O	Mary_McAleese	Bibliography
+O	O	Mary_McAleese	Further reading
+O	O	Mary_McAleese	External links
+B-SEC	B-SEC	Slash_(musician)	Early life
+I-SEC	I-SEC	Slash_(musician)	Career
+I-SEC	I-SEC	Slash_(musician)	Personal life
+O	O	Slash_(musician)	Awards and accolades
+O	O	Slash_(musician)	Equipment
+O	O	Slash_(musician)	Discography
+O	O	Slash_(musician)	Notes
+O	O	Slash_(musician)	References
+O	O	Slash_(musician)	External links
+B-SEC	B-SEC	Vasily_I_of_Moscow	Family and early life
+I-SEC	O	Vasily_I_of_Moscow	Reign
+I-SEC	O	Vasily_I_of_Moscow	Domestic policy
+I-SEC	O	Vasily_I_of_Moscow	Marriage and children
+O	O	Vasily_I_of_Moscow	See also
+O	O	Vasily_I_of_Moscow	References
+O	O	Vasily_I_of_Moscow	External links
+B-SEC	B-SEC	Johnny_Carson	Early life and career
+I-SEC	I-SEC	Johnny_Carson	The Tonight Show
+I-SEC	I-SEC	Johnny_Carson	Effect on popular culture
+I-SEC	I-SEC	Johnny_Carson	Business ventures
+I-SEC	I-SEC	Johnny_Carson	Retirement
+I-SEC	I-SEC	Johnny_Carson	Personal life
+I-SEC	I-SEC	Johnny_Carson	Death and tributes
+O	O	Johnny_Carson	References
+O	O	Johnny_Carson	Further reading
+O	O	Johnny_Carson	External links
+B-SEC	O	Christian_IV_of_Denmark	Early years
+I-SEC	O	Christian_IV_of_Denmark	Reign
+O	O	Christian_IV_of_Denmark	The cultural king
+O	O	Christian_IV_of_Denmark	City foundations
+O	O	Christian_IV_of_Denmark	Legacy
+O	B-SEC	Christian_IV_of_Denmark	Issue and private life
+O	O	Christian_IV_of_Denmark	Ancestry
+O	O	Christian_IV_of_Denmark	Titles & Style
+O	O	Christian_IV_of_Denmark	References
+O	O	Christian_IV_of_Denmark	Further reading
+B-SEC	O	Frederick_III_of_Denmark	Early years
+I-SEC	O	Frederick_III_of_Denmark	Reign
+O	O	Frederick_III_of_Denmark	Titles and styles
+O	O	Frederick_III_of_Denmark	Issue
+O	O	Frederick_III_of_Denmark	Ancestry
+O	O	Frederick_III_of_Denmark	References
+O	O	Frederick_III_of_Denmark	External links
+B-SEC	B-SEC	Frederick_VIII_of_Denmark	Early life
+I-SEC	I-SEC	Frederick_VIII_of_Denmark	Marriage
+I-SEC	I-SEC	Frederick_VIII_of_Denmark	Reign
+I-SEC	I-SEC	Frederick_VIII_of_Denmark	Death
+O	O	Frederick_VIII_of_Denmark	Legacy
+O	O	Frederick_VIII_of_Denmark	Titles, styles and honours
+O	O	Frederick_VIII_of_Denmark	Ancestry and descent
+O	O	Frederick_VIII_of_Denmark	References
+O	O	Frederick_VIII_of_Denmark	External links
+B-SEC	O	Charles_XI_of_Sweden	Under guardian rule
+I-SEC	O	Charles_XI_of_Sweden	Scanian war
+I-SEC	O	Charles_XI_of_Sweden	Post-war actions
+I-SEC	O	Charles_XI_of_Sweden	Family matters
+I-SEC	B-SEC	Charles_XI_of_Sweden	Death
+O	O	Charles_XI_of_Sweden	Legacy
+O	O	Charles_XI_of_Sweden	Ancestors
+O	O	Charles_XI_of_Sweden	See also
+O	O	Charles_XI_of_Sweden	Notes
+O	O	Charles_XI_of_Sweden	References
+O	O	Charles_XI_of_Sweden	Further reading
+O	O	Charles_XI_of_Sweden	External links
+B-SEC	B-SEC	Anton_Rubinstein	Biography
+O	O	Anton_Rubinstein	Pianism
+O	O	Anton_Rubinstein	Conducting
+O	O	Anton_Rubinstein	Teacher
+O	O	Anton_Rubinstein	Composition
+O	O	Anton_Rubinstein	Rubinstein's repartee
+O	O	Anton_Rubinstein	References
+O	O	Anton_Rubinstein	Sources
+O	O	Anton_Rubinstein	External links
+B-SEC	B-SEC	Charles,_Prince_of_Wales	Early life
+I-SEC	O	Charles,_Prince_of_Wales	Youth
+I-SEC	O	Charles,_Prince_of_Wales	Early romances
+I-SEC	O	Charles,_Prince_of_Wales	First marriage
+I-SEC	O	Charles,_Prince_of_Wales	Second marriage
+O	O	Charles,_Prince_of_Wales	Social interests
+O	O	Charles,_Prince_of_Wales	Official duties
+O	O	Charles,_Prince_of_Wales	Hobbies and personal interests
+O	O	Charles,_Prince_of_Wales	Media image
+O	O	Charles,_Prince_of_Wales	Residences and finance
+O	O	Charles,_Prince_of_Wales	Titles, styles, honours and arms
+O	O	Charles,_Prince_of_Wales	Issue
+O	O	Charles,_Prince_of_Wales	Ancestry
+O	O	Charles,_Prince_of_Wales	Notes
+O	O	Charles,_Prince_of_Wales	References
+O	O	Charles,_Prince_of_Wales	Further reading
+O	O	Charles,_Prince_of_Wales	External links
+B-SEC	B-SEC	Pearl_S._Buck	Early life
+I-SEC	I-SEC	Pearl_S._Buck	Career in China
+I-SEC	I-SEC	Pearl_S._Buck	Career in the United States
+O	O	Pearl_S._Buck	Nobel Prize in Literature
+O	O	Pearl_S._Buck	Humanitarian efforts
+O	O	Pearl_S._Buck	Legacy
+O	O	Pearl_S._Buck	Selected bibliography
+O	O	Pearl_S._Buck	Awards
+O	O	Pearl_S._Buck	Museums and historic houses
+O	O	Pearl_S._Buck	See also
+O	O	Pearl_S._Buck	Notes
+O	O	Pearl_S._Buck	Further reading
+O	O	Pearl_S._Buck	External links
+B-SEC	B-SEC	Süleyman_Demirel	Background and early career
+I-SEC	I-SEC	Süleyman_Demirel	Political career (1960–2000)
+I-SEC	I-SEC	Süleyman_Demirel	Personal life
+O	O	Süleyman_Demirel	Legacy
+O	O	Süleyman_Demirel	Awards
+O	O	Süleyman_Demirel	In popular culture
+O	O	Süleyman_Demirel	References
+O	O	Süleyman_Demirel	External links
+B-SEC	B-SEC	Arthur_Honegger	Biography
+O	O	Arthur_Honegger	Legacy
+O	O	Arthur_Honegger	Notable compositions
+O	O	Arthur_Honegger	References
+O	O	Arthur_Honegger	Further reading
+O	O	Arthur_Honegger	External links
+O	O	Albert_II_of_Belgium	Full name
+B-SEC	O	Albert_II_of_Belgium	Early years
+I-SEC	O	Albert_II_of_Belgium	Marriage and family
+O	O	Albert_II_of_Belgium	Official role
+O	O	Albert_II_of_Belgium	Ancestry
+O	O	Albert_II_of_Belgium	Titles and styles
+O	O	Albert_II_of_Belgium	Honours
+O	O	Albert_II_of_Belgium	Belgian coinage
+O	O	Albert_II_of_Belgium	See also
+O	O	Albert_II_of_Belgium	References
+O	O	Albert_II_of_Belgium	External links
+B-SEC	B-SEC	Lazzaro_Spallanzani	Career
+O	O	Lazzaro_Spallanzani	Discoveries
+O	O	Lazzaro_Spallanzani	See also
+O	O	Lazzaro_Spallanzani	References
+O	O	Lazzaro_Spallanzani	External links
+B-SEC	B-SEC	Dashiell_Hammett	Early life
+I-SEC	I-SEC	Dashiell_Hammett	Marriage and family
+I-SEC	I-SEC	Dashiell_Hammett	Career and personal life
+I-SEC	I-SEC	Dashiell_Hammett	Service in World War II and post-war politics
+I-SEC	I-SEC	Dashiell_Hammett	Imprisonment and the blacklist
+I-SEC	I-SEC	Dashiell_Hammett	Later years and death
+O	O	Dashiell_Hammett	Works
+O	O	Dashiell_Hammett	Unpublished stories
+O	O	Dashiell_Hammett	Legacy
+O	O	Dashiell_Hammett	Published as
+O	O	Dashiell_Hammett	References
+O	O	Dashiell_Hammett	Further reading
+O	O	Dashiell_Hammett	External links
+B-SEC	B-SEC	Max_Delbrück	Early and personal life
+I-SEC	I-SEC	Max_Delbrück	Education and early career
+I-SEC	I-SEC	Max_Delbrück	Role in biology research
+I-SEC	I-SEC	Max_Delbrück	Later life and legacy
+O	O	Max_Delbrück	See also
+O	O	Max_Delbrück	References
+O	O	Max_Delbrück	External links
+O	O	Lucius_Junius_Brutus	Background
+O	O	Lucius_Junius_Brutus	Overthrow of the Monarchy
+O	O	Lucius_Junius_Brutus	The Oath of Brutus
+O	B-SEC	Lucius_Junius_Brutus	Consulship and death
+O	O	Lucius_Junius_Brutus	Brutus in literature and art
+O	O	Lucius_Junius_Brutus	See also
+O	O	Lucius_Junius_Brutus	References
+O	O	Lucius_Junius_Brutus	External links
+B-SEC	B-SEC	Hugh_Grant	Early life and ancestry
+I-SEC	I-SEC	Hugh_Grant	Career
+O	I-SEC	Hugh_Grant	Work ethic
+O	I-SEC	Hugh_Grant	In the media
+O	I-SEC	Hugh_Grant	Personal life
+O	O	Hugh_Grant	Charity work
+O	O	Hugh_Grant	Filmography
+O	O	Hugh_Grant	Awards and honours
+O	O	Hugh_Grant	References
+O	O	Hugh_Grant	External links
+B-SEC	O	Kaspar_Hauser	History
+O	O	Kaspar_Hauser	Medical opinions
+O	O	Kaspar_Hauser	Hauser as hereditary prince of Baden
+O	O	Kaspar_Hauser	Cultural references
+O	O	Kaspar_Hauser	References
+O	O	Kaspar_Hauser	Further reading
+O	O	Kaspar_Hauser	External links
+B-SEC	B-SEC	Miguel_de_Unamuno	Biography
+O	O	Miguel_de_Unamuno	Fiction
+O	O	Miguel_de_Unamuno	Philosophy
+O	O	Miguel_de_Unamuno	Poetry
+O	O	Miguel_de_Unamuno	Drama
+O	O	Miguel_de_Unamuno	Confrontation with Millán-Astray
+O	O	Miguel_de_Unamuno	See also
+O	O	Miguel_de_Unamuno	References
+O	O	Miguel_de_Unamuno	Further reading
+O	O	Miguel_de_Unamuno	External links
+B-SEC	B-SEC	Galeazzo_Ciano	Early life
+I-SEC	I-SEC	Galeazzo_Ciano	Foreign Minister
+I-SEC	I-SEC	Galeazzo_Ciano	Death
+O	O	Galeazzo_Ciano	Children
+O	O	Galeazzo_Ciano	In popular culture
+O	O	Galeazzo_Ciano	References
+O	O	Olaf_II_of_Norway	Name
+B-SEC	O	Olaf_II_of_Norway	Background
+I-SEC	O	Olaf_II_of_Norway	Saga Sources for Olaf Haraldsson
+I-SEC	O	Olaf_II_of_Norway	Reign
+I-SEC	O	Olaf_II_of_Norway	Problems of Olaf as Christianising king
+I-SEC	O	Olaf_II_of_Norway	Sainthood
+O	O	Olaf_II_of_Norway	Ancestors from the sagas
+O	O	Olaf_II_of_Norway	See also
+O	O	Olaf_II_of_Norway	Note
+O	O	Olaf_II_of_Norway	References
+O	O	Olaf_II_of_Norway	Sources
+O	O	Olaf_II_of_Norway	External links
+B-SEC	B-SEC	James_LaBrie	Early life
+I-SEC	I-SEC	James_LaBrie	Career
+I-SEC	I-SEC	James_LaBrie	Personal life
+O	O	James_LaBrie	Singing
+O	O	James_LaBrie	Discography
+O	O	James_LaBrie	References
+O	O	James_LaBrie	External links
+B-SEC	B-SEC	Jean_Arp	Early life
+I-SEC	I-SEC	Jean_Arp	Career
+I-SEC	I-SEC	Jean_Arp	Exhibitions
+I-SEC	I-SEC	Jean_Arp	Recognition
+I-SEC	I-SEC	Jean_Arp	Personal life and death
+O	O	Jean_Arp	Legacy
+O	O	Jean_Arp	References
+O	O	Jean_Arp	Further reading
+O	O	Jean_Arp	External links
+B-SEC	B-SEC	John_I_of_Portugal	Early life
+I-SEC	O	John_I_of_Portugal	Acclamation
+I-SEC	O	John_I_of_Portugal	Reign
+I-SEC	O	John_I_of_Portugal	Marriages and descendants
+O	O	John_I_of_Portugal	Ancestry
+O	O	John_I_of_Portugal	Notes
+O	O	John_I_of_Portugal	References
+B-SEC	O	Anouk_Aimée	Early years
+I-SEC	B-SEC	Anouk_Aimée	Career
+I-SEC	I-SEC	Anouk_Aimée	Personal life
+O	O	Anouk_Aimée	Selected filmography
+O	O	Anouk_Aimée	References
+O	O	Anouk_Aimée	External links
+B-SEC	B-SEC	Aristotle_Onassis	Early life
+I-SEC	I-SEC	Aristotle_Onassis	Business
+I-SEC	I-SEC	Aristotle_Onassis	Relationships and family
+I-SEC	I-SEC	Aristotle_Onassis	Death and legacy
+O	O	Aristotle_Onassis	See also
+O	O	Aristotle_Onassis	Notes
+O	O	Aristotle_Onassis	References
+O	O	Aristotle_Onassis	External links
+B-SEC	B-SEC	Hans_Blix	Early life and career
+I-SEC	O	Hans_Blix	Head of the International Atomic Energy Agency (1981–1997)
+I-SEC	O	Hans_Blix	Iraq disarmament crisis (2002–2003)
+I-SEC	O	Hans_Blix	Weapons of Mass Destruction Commission
+I-SEC	O	Hans_Blix	Humanitarian initiatives
+I-SEC	O	Hans_Blix	Head of Advisory Board for United Arab Emirates Nuclear Program
+O	O	Hans_Blix	Honours
+O	O	Hans_Blix	Cultural references
+O	O	Hans_Blix	Bibliography
+O	O	Hans_Blix	See also
+O	O	Hans_Blix	References
+O	O	Hans_Blix	External links
+B-SEC	B-SEC	Paul_Verlaine	Biography
+O	O	Paul_Verlaine	Style
+O	O	Paul_Verlaine	Portraits
+O	O	Paul_Verlaine	Historical footnote
+O	O	Paul_Verlaine	In popular culture
+O	O	Paul_Verlaine	Works
+O	O	Paul_Verlaine	See also
+O	O	Paul_Verlaine	References
+O	O	Paul_Verlaine	External links
+B-SEC	B-SEC	Mircea_Eliade	Biography
+O	O	Mircea_Eliade	Work
+O	O	Mircea_Eliade	Eliade's philosophy
+O	O	Mircea_Eliade	Criticism of Eliade's scholarship
+O	O	Mircea_Eliade	Literary works
+O	O	Mircea_Eliade	Adaptations
+O	O	Mircea_Eliade	Controversy: antisemitism and links with the Iron Guard
+O	O	Mircea_Eliade	Cultural legacy
+O	O	Mircea_Eliade	See also
+O	O	Mircea_Eliade	Notes
+O	O	Mircea_Eliade	References
+O	O	Mircea_Eliade	Further reading
+O	O	Mircea_Eliade	External links
+O	O	Moritz_Leuenberger	Works
+O	O	Moritz_Leuenberger	References
+O	O	Moritz_Leuenberger	External links
+B-SEC	B-SEC	Fanny_Ardant	Early life
+I-SEC	I-SEC	Fanny_Ardant	Career
+O	O	Fanny_Ardant	Controversy
+O	O	Fanny_Ardant	Selected filmography
+O	O	Fanny_Ardant	Awards
+O	O	Fanny_Ardant	References
+O	O	Fanny_Ardant	Bibliography
+O	O	Fanny_Ardant	External links
+B-SEC	B-SEC	Marcus_Furius_Camillus	Early life
+I-SEC	I-SEC	Marcus_Furius_Camillus	Early career
+I-SEC	I-SEC	Marcus_Furius_Camillus	Against Veii
+I-SEC	I-SEC	Marcus_Furius_Camillus	Banishment
+I-SEC	I-SEC	Marcus_Furius_Camillus	The Gauls and the Second Foundation of Rome
+I-SEC	I-SEC	Marcus_Furius_Camillus	Second regional war
+I-SEC	I-SEC	Marcus_Furius_Camillus	Further life
+I-SEC	I-SEC	Marcus_Furius_Camillus	Issue of the social classes
+I-SEC	I-SEC	Marcus_Furius_Camillus	Death
+O	O	Marcus_Furius_Camillus	In popular culture
+O	O	Marcus_Furius_Camillus	References
+B-SEC	B-SEC	George_Carlin	Early life
+I-SEC	I-SEC	George_Carlin	Career
+I-SEC	I-SEC	George_Carlin	Personal life
+I-SEC	I-SEC	George_Carlin	Themes
+I-SEC	I-SEC	George_Carlin	Influences
+I-SEC	I-SEC	George_Carlin	Health problems, death, and legacy
+O	O	George_Carlin	Works
+O	O	George_Carlin	Internet hoaxes
+O	O	George_Carlin	See also
+O	O	George_Carlin	References
+O	O	George_Carlin	External links
+B-SEC	B-SEC	Sejong_the_Great	Early life
+I-SEC	I-SEC	Sejong_the_Great	Achievements
+I-SEC	I-SEC	Sejong_the_Great	Literature
+I-SEC	I-SEC	Sejong_the_Great	Hangul
+I-SEC	I-SEC	Sejong_the_Great	Death and Legacy
+O	O	Sejong_the_Great	Relations with the Huihui (Korean Muslim community)
+O	O	Sejong_the_Great	Family
+O	O	Sejong_the_Great	Official Posthumous Titles
+O	O	Sejong_the_Great	Depiction in Arts and Media
+O	O	Sejong_the_Great	Depiction in Video Games
+O	O	Sejong_the_Great	Portrait in Korean Currency Notes
+O	O	Sejong_the_Great	See also
+O	O	Sejong_the_Great	Notes
+O	O	Sejong_the_Great	References
+O	O	Sejong_the_Great	Further reading
+O	O	Sejong_the_Great	External links
+B-SEC	B-SEC	Paul_of_Greece	Early life
+I-SEC	O	Paul_of_Greece	Marriage and children
+I-SEC	O	Paul_of_Greece	Reign
+O	O	Paul_of_Greece	Legacy
+O	O	Paul_of_Greece	Titles
+O	O	Paul_of_Greece	Ancestry
+O	O	Paul_of_Greece	Honours and awards
+O	O	Paul_of_Greece	References
+B-SEC	O	Arsaces_I_of_Parthia	Origin
+I-SEC	O	Arsaces_I_of_Parthia	Reign
+O	O	Arsaces_I_of_Parthia	Notes
+O	O	Arsaces_I_of_Parthia	References
+B-SEC	B-SEC	Robert_Duvall	Early life
+I-SEC	I-SEC	Robert_Duvall	Career
+I-SEC	I-SEC	Robert_Duvall	Personal life
+O	O	Robert_Duvall	Filmography
+O	O	Robert_Duvall	References
+O	O	Robert_Duvall	Further reading
+O	O	Robert_Duvall	External links
+B-SEC	B-SEC	Henry_Campbell-Bannerman	Early life and family
+I-SEC	I-SEC	Henry_Campbell-Bannerman	Member of Parliament
+I-SEC	I-SEC	Henry_Campbell-Bannerman	Leader of the Liberal Party
+I-SEC	I-SEC	Henry_Campbell-Bannerman	Prime Minister
+I-SEC	I-SEC	Henry_Campbell-Bannerman	Retirement and death
+O	O	Henry_Campbell-Bannerman	Legacy
+O	O	Henry_Campbell-Bannerman	Campbell-Bannerman's Government
+O	O	Henry_Campbell-Bannerman	Popular culture
+O	O	Henry_Campbell-Bannerman	Notes
+O	O	Henry_Campbell-Bannerman	References
+O	O	Henry_Campbell-Bannerman	Further reading
+O	O	Henry_Campbell-Bannerman	External links
+B-SEC	B-SEC	Ladislaus_the_Posthumous	Biography
+O	O	Ladislaus_the_Posthumous	Gallery
+O	O	Ladislaus_the_Posthumous	Ancestors
+O	O	Ladislaus_the_Posthumous	Titles
+O	O	Ladislaus_the_Posthumous	See also
+O	O	Ladislaus_the_Posthumous	References
+O	O	Ladislaus_the_Posthumous	External links
+B-SEC	B-SEC	Daniel_arap_Moi	Early life and entry into politics
+I-SEC	I-SEC	Daniel_arap_Moi	Vice-presidency
+I-SEC	I-SEC	Daniel_arap_Moi	Presidency
+I-SEC	I-SEC	Daniel_arap_Moi	Criticism and corruption allegations
+I-SEC	I-SEC	Daniel_arap_Moi	Stepping down and retirement
+I-SEC	I-SEC	Daniel_arap_Moi	Personal life
+O	O	Daniel_arap_Moi	Legacy
+O	O	Daniel_arap_Moi	See also
+O	O	Daniel_arap_Moi	References
+O	O	Daniel_arap_Moi	External links
+B-SEC	B-SEC	Friedrich_Hölderlin	Life
+O	O	Friedrich_Hölderlin	Work
+O	O	Friedrich_Hölderlin	Dissemination and influence
+O	O	Friedrich_Hölderlin	Music
+O	O	Friedrich_Hölderlin	Cinema
+O	O	Friedrich_Hölderlin	Recordings
+O	O	Friedrich_Hölderlin	Works
+O	O	Friedrich_Hölderlin	English translations
+O	O	Friedrich_Hölderlin	Bibliography
+O	O	Friedrich_Hölderlin	Notes
+O	O	Friedrich_Hölderlin	Further reading
+O	O	Friedrich_Hölderlin	External links
+B-SEC	B-SEC	Hongwu_Emperor	Early life
+I-SEC	I-SEC	Hongwu_Emperor	Establishing a dynasty
+I-SEC	I-SEC	Hongwu_Emperor	Reign
+I-SEC	I-SEC	Hongwu_Emperor	Death
+O	O	Hongwu_Emperor	Assessment
+O	O	Hongwu_Emperor	Family
+O	O	Hongwu_Emperor	Depiction in popular culture
+O	O	Hongwu_Emperor	See also
+O	O	Hongwu_Emperor	Notes
+O	O	Hongwu_Emperor	References
+B-SEC	O	Syagrius	The End of Roman Gaul
+O	O	Syagrius	Descendants
+O	O	Syagrius	See also
+O	O	Syagrius	Notes
+O	O	Syagrius	Further reading
+O	O	Syagrius	External links
+B-SEC	B-SEC	Franz_Werfel	Biography
+O	O	Franz_Werfel	Honours and awards
+O	O	Franz_Werfel	Bibliography
+O	O	Franz_Werfel	See also
+O	O	Franz_Werfel	References
+O	O	Franz_Werfel	External links
+B-SEC	O	Walther_Rathenau	Family
+I-SEC	B-SEC	Walther_Rathenau	Career
+I-SEC	O	Walther_Rathenau	Assassination and aftermath
+O	O	Walther_Rathenau	Works
+O	O	Walther_Rathenau	See also
+O	O	Walther_Rathenau	Notes
+O	O	Walther_Rathenau	References
+O	O	Walther_Rathenau	External links
+B-SEC	B-SEC	Ivan_Bunin	Biography
+O	I-SEC	Ivan_Bunin	Legacy
+O	I-SEC	Ivan_Bunin	Private life
+O	O	Ivan_Bunin	Bibliography
+O	O	Ivan_Bunin	See also
+O	O	Ivan_Bunin	References
+O	O	Ivan_Bunin	Further reading
+O	O	Ivan_Bunin	External links
+B-SEC	B-SEC	Stevie_Ray_Vaughan	Family and early life
+I-SEC	I-SEC	Stevie_Ray_Vaughan	First instruments
+I-SEC	I-SEC	Stevie_Ray_Vaughan	Music career
+I-SEC	I-SEC	Stevie_Ray_Vaughan	Death
+I-SEC	I-SEC	Stevie_Ray_Vaughan	Personal life
+O	O	Stevie_Ray_Vaughan	Musical style
+O	O	Stevie_Ray_Vaughan	Equipment
+O	O	Stevie_Ray_Vaughan	Legacy
+O	O	Stevie_Ray_Vaughan	Discography
+O	O	Stevie_Ray_Vaughan	See also
+O	O	Stevie_Ray_Vaughan	Notes
+O	O	Stevie_Ray_Vaughan	Footnotes =
+O	O	Stevie_Ray_Vaughan	Sources
+O	O	Stevie_Ray_Vaughan	Further reading
+O	O	Stevie_Ray_Vaughan	External links
+B-SEC	B-SEC	Willebrord_Snellius	Biography
+O	O	Willebrord_Snellius	See also
+O	O	Willebrord_Snellius	Notes
+O	O	Willebrord_Snellius	References
+O	O	Willebrord_Snellius	External links
+B-SEC	B-SEC	Nicholas_Roerich	Biography
+O	O	Nicholas_Roerich	Cultural legacy
+O	O	Nicholas_Roerich	Gallery
+O	O	Nicholas_Roerich	Sound and video recording
+O	O	Nicholas_Roerich	References
+O	O	Nicholas_Roerich	External links
+B-SEC	B-SEC	Ōkuma_Shigenobu	Early life
+I-SEC	I-SEC	Ōkuma_Shigenobu	Meiji period political life
+I-SEC	I-SEC	Ōkuma_Shigenobu	Taishō period political life
+O	O	Ōkuma_Shigenobu	Honours
+O	O	Ōkuma_Shigenobu	Notes
+O	O	Ōkuma_Shigenobu	References
+O	O	Ōkuma_Shigenobu	External links
+B-SEC	B-SEC	Christian_I_of_Denmark	Biography
+O	O	Christian_I_of_Denmark	Legacy
+O	O	Christian_I_of_Denmark	Arms
+O	O	Christian_I_of_Denmark	Ancestry
+O	O	Christian_I_of_Denmark	Issue
+O	O	Christian_I_of_Denmark	See also
+O	O	Christian_I_of_Denmark	References
+O	O	Christian_I_of_Denmark	External links
+O	O	José_Sarney	Name
+B-SEC	B-SEC	José_Sarney	Political biography
+O	O	José_Sarney	Writing
+O	O	José_Sarney	Gallery
+O	O	José_Sarney	References
+O	O	José_Sarney	External links
+O	O	José_Sarney	See also
+B-SEC	B-SEC	John_le_Carré	Early life and career
+I-SEC	I-SEC	John_le_Carré	Personal life
+O	O	John_le_Carré	Writing style
+O	O	John_le_Carré	Politics
+O	O	John_le_Carré	Interviews
+O	O	John_le_Carré	Adaptations
+O	O	John_le_Carré	Bibliography
+O	O	John_le_Carré	Archive
+O	O	John_le_Carré	Awards and honours
+O	O	John_le_Carré	References
+O	O	John_le_Carré	Further reading
+O	O	John_le_Carré	External links
+B-SEC	B-SEC	Mark_Hoppus	Life and career
+O	I-SEC	Mark_Hoppus	Musical style and equipment
+O	I-SEC	Mark_Hoppus	Non-musical endeavors
+O	I-SEC	Mark_Hoppus	Personal life
+O	O	Mark_Hoppus	Discography
+O	O	Mark_Hoppus	References
+O	O	Mark_Hoppus	External links
+B-SEC	B-SEC	John_Frusciante	Biography
+O	I-SEC	John_Frusciante	Musical style
+O	I-SEC	John_Frusciante	Personal life
+O	O	John_Frusciante	Discography
+O	O	John_Frusciante	References
+O	O	John_Frusciante	External links
+B-SEC	B-SEC	Fuad_I_of_Egypt	Early life
+I-SEC	I-SEC	Fuad_I_of_Egypt	Reign
+I-SEC	I-SEC	Fuad_I_of_Egypt	Personal life
+O	O	Fuad_I_of_Egypt	China
+O	O	Fuad_I_of_Egypt	Marriages
+O	O	Fuad_I_of_Egypt	Titles
+O	O	Fuad_I_of_Egypt	Honours
+O	O	Fuad_I_of_Egypt	See also
+O	O	Fuad_I_of_Egypt	References
+B-SEC	B-SEC	Sabbatai_Zevi	Early life and education
+I-SEC	I-SEC	Sabbatai_Zevi	Influence of English millenarianism
+I-SEC	I-SEC	Sabbatai_Zevi	Claims of messiahship
+I-SEC	I-SEC	Sabbatai_Zevi	In Salonika, Cairo, and Jerusalem
+I-SEC	I-SEC	Sabbatai_Zevi	Marriage to Sarah
+I-SEC	I-SEC	Sabbatai_Zevi	Nathan of Gaza
+I-SEC	I-SEC	Sabbatai_Zevi	Proclaimed messiah
+I-SEC	I-SEC	Sabbatai_Zevi	Spread of his influence
+I-SEC	I-SEC	Sabbatai_Zevi	In Constantinople
+I-SEC	I-SEC	Sabbatai_Zevi	At Abydos (Migdal Oz)
+I-SEC	I-SEC	Sabbatai_Zevi	Nehemiah ha-Kohen
+I-SEC	I-SEC	Sabbatai_Zevi	Conversion to Islam
+I-SEC	I-SEC	Sabbatai_Zevi	Disillusion
+I-SEC	I-SEC	Sabbatai_Zevi	Last years, exile and death
+O	O	Sabbatai_Zevi	Modern followers
+O	O	Sabbatai_Zevi	See also
+O	O	Sabbatai_Zevi	References
+O	O	Sabbatai_Zevi	Bibliography
+O	O	Sabbatai_Zevi	Further reading
+O	O	Sabbatai_Zevi	Notes
+O	O	Sabbatai_Zevi	External links
+B-SEC	B-SEC	Karl_Adolph_Gjellerup	Biography
+O	O	Karl_Adolph_Gjellerup	Aftermath
+O	O	Karl_Adolph_Gjellerup	Biographies
+O	O	Karl_Adolph_Gjellerup	External links
+B-SEC	B-SEC	Friedrich_Mohs	Career
+O	O	Friedrich_Mohs	Mineral properties
+O	O	Friedrich_Mohs	See also
+O	O	Friedrich_Mohs	Bibliography
+O	O	Friedrich_Mohs	References
+O	O	Friedrich_Mohs	External links
+B-SEC	B-SEC	Thomas_Müntzer	Early life
+I-SEC	O	Thomas_Müntzer	Increasing radicalism
+I-SEC	O	Thomas_Müntzer	Peasants' War
+O	O	Thomas_Müntzer	Theology and Marian views
+O	O	Thomas_Müntzer	Legacy
+O	O	Thomas_Müntzer	See also
+O	O	Thomas_Müntzer	Notes
+O	O	Thomas_Müntzer	References
+O	O	Thomas_Müntzer	Further reading
+O	O	Thomas_Müntzer	External links
+O	O	Menes	Name and identity
+O	O	Menes	Dates
+B-SEC	O	Menes	History
+O	O	Menes	In popular culture
+O	O	Menes	See also
+O	O	Menes	Notes
+O	O	Menes	References
+O	O	Menes	Bibliography
+O	O	Menes	External links
+B-SEC	B-SEC	Faisal_of_Saudi_Arabia	Early life
+I-SEC	I-SEC	Faisal_of_Saudi_Arabia	Early experience
+I-SEC	I-SEC	Faisal_of_Saudi_Arabia	Crown Prince and Prime Minister
+I-SEC	I-SEC	Faisal_of_Saudi_Arabia	Struggle with King Saud
+I-SEC	I-SEC	Faisal_of_Saudi_Arabia	King of Saudi Arabia
+I-SEC	I-SEC	Faisal_of_Saudi_Arabia	Personal life
+I-SEC	O	Faisal_of_Saudi_Arabia	Assassination
+O	O	Faisal_of_Saudi_Arabia	Memorials and legacy
+O	O	Faisal_of_Saudi_Arabia	References
+O	O	Faisal_of_Saudi_Arabia	External links
+B-SEC	B-SEC	Daniel_Barenboim	Biography
+I-SEC	I-SEC	Daniel_Barenboim	Career
+O	O	Daniel_Barenboim	Musical style
+O	O	Daniel_Barenboim	Political views
+O	O	Daniel_Barenboim	Awards and recognition
+O	O	Daniel_Barenboim	See also
+O	O	Daniel_Barenboim	References
+O	O	Daniel_Barenboim	External links
+B-SEC	O	Mustafa_III	Reign
+I-SEC	B-SEC	Mustafa_III	Personal life
+O	O	Mustafa_III	See also
+O	O	Mustafa_III	References
+O	O	Mustafa_III	External links
+B-SEC	B-SEC	Luigi_Boccherini	Biography
+O	O	Luigi_Boccherini	Works
+O	O	Luigi_Boccherini	Contemporary revival
+O	O	Luigi_Boccherini	Recording
+O	O	Luigi_Boccherini	Media
+O	O	Luigi_Boccherini	Research
+O	O	Luigi_Boccherini	See also
+O	O	Luigi_Boccherini	References
+O	O	Luigi_Boccherini	External links
+B-SEC	O	Burebista	Early references
+I-SEC	O	Burebista	Development of Burebista's polity
+I-SEC	O	Burebista	Conquests and external policy
+I-SEC	B-SEC	Burebista	Death
+O	O	Burebista	Legacy
+O	O	Burebista	See also
+O	O	Burebista	Notes
+O	O	Burebista	References
+O	O	Burebista	Further reading
+O	O	Burebista	External links
+B-SEC	B-SEC	Dale_Carnegie	Biography
+O	O	Dale_Carnegie	How to Win Friends and Influence People
+O	O	Dale_Carnegie	Dale Carnegie Training
+O	O	Dale_Carnegie	Books
+O	O	Dale_Carnegie	Booklets
+O	O	Dale_Carnegie	See also
+O	O	Dale_Carnegie	Notes
+O	O	Dale_Carnegie	External links
+B-SEC	B-SEC	Mikhail_Glinka	Biography
+O	O	Mikhail_Glinka	The value of creativity
+O	O	Mikhail_Glinka	Legacy
+O	O	Mikhail_Glinka	Works
+O	O	Mikhail_Glinka	Media
+O	O	Mikhail_Glinka	References
+O	O	Mikhail_Glinka	External links
+B-SEC	B-SEC	Bernard_Katz	Life and career
+O	O	Bernard_Katz	Research
+O	O	Bernard_Katz	Works
+O	O	Bernard_Katz	See also
+O	O	Bernard_Katz	References
+O	O	Bernard_Katz	External links
+B-SEC	B-SEC	Anerood_Jugnauth	Early career and education
+I-SEC	I-SEC	Anerood_Jugnauth	Early politics
+I-SEC	I-SEC	Anerood_Jugnauth	1976 elections
+I-SEC	I-SEC	Anerood_Jugnauth	1982 elections and first tenure as prime minister
+I-SEC	I-SEC	Anerood_Jugnauth	1983 and second tenure as prime minister
+I-SEC	I-SEC	Anerood_Jugnauth	1987 and third tenure
+I-SEC	I-SEC	Anerood_Jugnauth	1991 and fourth tenure
+I-SEC	I-SEC	Anerood_Jugnauth	1995 and onwards
+I-SEC	I-SEC	Anerood_Jugnauth	2000 and tenure as prime minister
+I-SEC	I-SEC	Anerood_Jugnauth	The Medpoint Deal
+I-SEC	I-SEC	Anerood_Jugnauth	Businessman
+I-SEC	I-SEC	Anerood_Jugnauth	Family life
+I-SEC	O	Anerood_Jugnauth	President
+I-SEC	O	Anerood_Jugnauth	Threats on Diego Garcia
+I-SEC	O	Anerood_Jugnauth	Enmity within politics
+I-SEC	O	Anerood_Jugnauth	Second mandate
+I-SEC	O	Anerood_Jugnauth	2008&ndash;present
+O	O	Anerood_Jugnauth	Titles and styles
+O	O	Anerood_Jugnauth	Honours
+O	O	Anerood_Jugnauth	References
+O	O	Anerood_Jugnauth	External links
+B-SEC	O	Wilt_Chamberlain	Early years
+I-SEC	B-SEC	Wilt_Chamberlain	High school career
+I-SEC	I-SEC	Wilt_Chamberlain	College career
+I-SEC	I-SEC	Wilt_Chamberlain	Professional career
+I-SEC	I-SEC	Wilt_Chamberlain	NBA career statistics
+I-SEC	I-SEC	Wilt_Chamberlain	Post-NBA career
+O	I-SEC	Wilt_Chamberlain	Legacy
+O	I-SEC	Wilt_Chamberlain	Personal life
+O	I-SEC	Wilt_Chamberlain	Death
+O	O	Wilt_Chamberlain	See also
+O	O	Wilt_Chamberlain	Notes
+O	O	Wilt_Chamberlain	References
+O	O	Wilt_Chamberlain	Further reading
+O	O	Wilt_Chamberlain	External links
+B-SEC	B-SEC	Thomas_Tallis	Life
+O	O	Thomas_Tallis	Liturgical calendar
+O	O	Thomas_Tallis	Works
+O	O	Thomas_Tallis	Fictional portrayals
+O	O	Thomas_Tallis	Recordings
+O	O	Thomas_Tallis	See also
+O	O	Thomas_Tallis	Notes
+O	O	Thomas_Tallis	References
+O	O	Thomas_Tallis	External links
+B-SEC	B-SEC	Robert_Burns_Woodward	Early life and education
+O	I-SEC	Robert_Burns_Woodward	Early work
+O	I-SEC	Robert_Burns_Woodward	Later work and its impact
+O	I-SEC	Robert_Burns_Woodward	Woodward Institute and later life
+O	O	Robert_Burns_Woodward	Family
+O	O	Robert_Burns_Woodward	Publications
+O	O	Robert_Burns_Woodward	Idiosyncrasies
+O	O	Robert_Burns_Woodward	Honors/Awards
+O	O	Robert_Burns_Woodward	Honorary degrees
+O	O	Robert_Burns_Woodward	See also
+O	O	Robert_Burns_Woodward	References
+O	O	Robert_Burns_Woodward	Sources
+O	O	Robert_Burns_Woodward	External links
+B-SEC	B-SEC	Chris_Cornell	Childhood and early life
+I-SEC	I-SEC	Chris_Cornell	Recording career
+O	I-SEC	Chris_Cornell	Other musical projects
+O	I-SEC	Chris_Cornell	Musical style
+O	I-SEC	Chris_Cornell	Other work
+O	I-SEC	Chris_Cornell	Personal life
+O	O	Chris_Cornell	Discography
+O	O	Chris_Cornell	Awards and nominations
+O	O	Chris_Cornell	References
+O	O	Chris_Cornell	External links
+O	O	Ishmael	Etymology
+O	O	Ishmael	Genesis narrative
+O	O	Ishmael	Deuterocanonical references
+O	O	Ishmael	World views
+O	O	Ishmael	See also
+O	O	Ishmael	References
+O	O	Ishmael	Sources
+O	O	Ishmael	External links
+B-SEC	B-SEC	Denny_Hulme	Early racing career
+I-SEC	I-SEC	Denny_Hulme	Formula One career
+I-SEC	I-SEC	Denny_Hulme	Away from F1
+I-SEC	I-SEC	Denny_Hulme	After F1
+I-SEC	I-SEC	Denny_Hulme	Death
+O	I-SEC	Denny_Hulme	Awards
+O	I-SEC	Denny_Hulme	Motorsports career results
+O	O	Denny_Hulme	Further reading
+O	O	Denny_Hulme	References
+O	O	Denny_Hulme	External links
+B-SEC	O	Frank_Abagnale	Childhood
+I-SEC	O	Frank_Abagnale	First con
+I-SEC	O	Frank_Abagnale	Bank fraud
+I-SEC	O	Frank_Abagnale	Impersonations
+I-SEC	O	Frank_Abagnale	Capture and imprisonment
+I-SEC	O	Frank_Abagnale	Alleged escapes
+O	O	Frank_Abagnale	Legitimate jobs
+O	O	Frank_Abagnale	Veracity of claims
+O	O	Frank_Abagnale	Media appearances
+O	B-SEC	Frank_Abagnale	Personal life
+O	O	Frank_Abagnale	Books
+O	O	Frank_Abagnale	See also
+O	O	Frank_Abagnale	References
+O	O	Frank_Abagnale	External links
+B-SEC	B-SEC	Ernst_Thälmann	Political career
+I-SEC	O	Ernst_Thälmann	Imprisonment and execution
+O	O	Ernst_Thälmann	Legacy
+O	O	Ernst_Thälmann	References
+O	O	Ernst_Thälmann	Sources
+O	O	Ernst_Thälmann	External links
+B-SEC	O	Charles_Francis_Richter	Childhood and education
+I-SEC	B-SEC	Charles_Francis_Richter	Career
+O	O	Charles_Francis_Richter	Richter scale
+O	O	Charles_Francis_Richter	Bibliography
+O	O	Charles_Francis_Richter	References
+O	O	Charles_Francis_Richter	External links
+B-SEC	B-SEC	Simon_Cowell	Early life
+I-SEC	I-SEC	Simon_Cowell	Career
+I-SEC	I-SEC	Simon_Cowell	Personal life
+O	O	Simon_Cowell	References
+O	O	Simon_Cowell	External links
+B-SEC	O	Simeon_Saxe-Coburg-Gotha	Royal history
+I-SEC	O	Simeon_Saxe-Coburg-Gotha	Towards exile
+I-SEC	B-SEC	Simeon_Saxe-Coburg-Gotha	Education and business career
+I-SEC	I-SEC	Simeon_Saxe-Coburg-Gotha	Monarch in exile
+I-SEC	I-SEC	Simeon_Saxe-Coburg-Gotha	Marriage and family
+I-SEC	I-SEC	Simeon_Saxe-Coburg-Gotha	Political return
+O	I-SEC	Simeon_Saxe-Coburg-Gotha	Views on restoration of the Bulgarian monarchy
+O	I-SEC	Simeon_Saxe-Coburg-Gotha	Autobiography
+O	O	Simeon_Saxe-Coburg-Gotha	Heir to the House of Saxe-Coburg-Gotha-Koháry
+O	O	Simeon_Saxe-Coburg-Gotha	Titles, styles, honours, and arms
+O	O	Simeon_Saxe-Coburg-Gotha	Ancestors
+O	O	Simeon_Saxe-Coburg-Gotha	See also
+O	O	Simeon_Saxe-Coburg-Gotha	References
+O	O	Simeon_Saxe-Coburg-Gotha	Bibliography
+O	O	Simeon_Saxe-Coburg-Gotha	External links
+B-SEC	B-SEC	John_Wallis	Life
+O	O	John_Wallis	Contributions to mathematics
+O	O	John_Wallis	Musical theory
+O	O	John_Wallis	Other works
+O	O	John_Wallis	Family
+O	O	John_Wallis	In fiction
+O	O	John_Wallis	See also
+O	O	John_Wallis	Footnotes
+O	O	John_Wallis	References
+O	O	John_Wallis	External links
+B-SEC	B-SEC	Madame_de_La_Fayette	Life
+O	O	Madame_de_La_Fayette	External links
+B-SEC	B-SEC	Moshe_Katsav	Biography
+I-SEC	I-SEC	Moshe_Katsav	Political career
+O	O	Moshe_Katsav	Rape and sexual harassment case
+O	O	Moshe_Katsav	See also
+O	O	Moshe_Katsav	References
+O	O	Moshe_Katsav	External links
+B-SEC	B-SEC	César_Franck	Biography
+O	O	César_Franck	Music
+O	O	César_Franck	Legacy
+O	O	César_Franck	Notes
+O	O	César_Franck	References
+O	O	César_Franck	External links
+B-SEC	B-SEC	Eugene_Merle_Shoemaker	Early life
+I-SEC	I-SEC	Eugene_Merle_Shoemaker	Scientific contributions
+I-SEC	I-SEC	Eugene_Merle_Shoemaker	Death
+O	O	Eugene_Merle_Shoemaker	Bibliography
+O	O	Eugene_Merle_Shoemaker	References
+O	O	Eugene_Merle_Shoemaker	External links
+B-SEC	B-SEC	Anatoly_Lunacharsky	Life and career
+I-SEC	O	Anatoly_Lunacharsky	Commissar of Enlightenment
+I-SEC	O	Anatoly_Lunacharsky	Ousted from power
+O	O	Anatoly_Lunacharsky	Legacy
+O	O	Anatoly_Lunacharsky	Literary output
+O	O	Anatoly_Lunacharsky	Personal characteristics
+O	O	Anatoly_Lunacharsky	Bibliography
+O	O	Anatoly_Lunacharsky	See also
+O	O	Anatoly_Lunacharsky	Notes
+O	O	Anatoly_Lunacharsky	Further reading
+B-SEC	B-SEC	Lucy_Lawless	Early life
+I-SEC	I-SEC	Lucy_Lawless	Career
+I-SEC	I-SEC	Lucy_Lawless	Charity
+I-SEC	I-SEC	Lucy_Lawless	Activism
+I-SEC	I-SEC	Lucy_Lawless	Astronomy
+I-SEC	I-SEC	Lucy_Lawless	Singing career
+I-SEC	I-SEC	Lucy_Lawless	Personal life
+O	O	Lucy_Lawless	Stage
+O	O	Lucy_Lawless	Filmography
+O	O	Lucy_Lawless	Awards/nominations
+O	O	Lucy_Lawless	Concerts
+O	O	Lucy_Lawless	References
+O	O	Lucy_Lawless	External links
+B-SEC	B-SEC	Vladislav_Ardzinba	Early life and career
+I-SEC	I-SEC	Vladislav_Ardzinba	Role in the Georgian-Abkhaz conflict
+I-SEC	I-SEC	Vladislav_Ardzinba	Presidency
+I-SEC	I-SEC	Vladislav_Ardzinba	Death
+O	O	Vladislav_Ardzinba	References
+O	O	Vladislav_Ardzinba	External links
+B-SEC	B-SEC	Michelle_Trachtenberg	Early life
+I-SEC	I-SEC	Michelle_Trachtenberg	Career
+I-SEC	I-SEC	Michelle_Trachtenberg	Personal life
+O	O	Michelle_Trachtenberg	Filmography
+O	O	Michelle_Trachtenberg	Awards and nominations
+O	O	Michelle_Trachtenberg	References
+O	O	Michelle_Trachtenberg	External links
+B-SEC	B-SEC	Bernardo_O'Higgins	Early life
+I-SEC	O	Bernardo_O'Higgins	Role in Chilean independence movement
+I-SEC	O	Bernardo_O'Higgins	O'Higgins as Supreme Director
+I-SEC	O	Bernardo_O'Higgins	Peruvian independence and O'Higgins' final years
+O	O	Bernardo_O'Higgins	Legacy
+O	O	Bernardo_O'Higgins	See also
+O	O	Bernardo_O'Higgins	References
+O	O	Bernardo_O'Higgins	Further reading
+O	O	Bernardo_O'Higgins	External links
+B-SEC	B-SEC	Kim_Novak	Early life
+I-SEC	I-SEC	Kim_Novak	Acting career
+O	I-SEC	Kim_Novak	Honors
+O	I-SEC	Kim_Novak	Personal life
+O	O	Kim_Novak	Filmography
+O	O	Kim_Novak	Awards and Nominations
+O	O	Kim_Novak	See also
+O	O	Kim_Novak	References
+O	O	Kim_Novak	Further reading
+O	O	Kim_Novak	External links
+B-SEC	O	France_Gall	Early years
+I-SEC	B-SEC	France_Gall	Early career
+I-SEC	I-SEC	France_Gall	Film opportunities
+I-SEC	I-SEC	France_Gall	1966
+I-SEC	I-SEC	France_Gall	Psychedelic era and transition to adulthood
+I-SEC	I-SEC	France_Gall	German career
+I-SEC	I-SEC	France_Gall	Post-Gainsbourg career
+I-SEC	O	France_Gall	Michel Berger
+I-SEC	O	France_Gall	Musicals
+I-SEC	O	France_Gall	1980s and humanitarian projects
+I-SEC	O	France_Gall	The 1990s and later
+O	O	France_Gall	Discography
+O	O	France_Gall	Audio sample
+O	O	France_Gall	References
+O	O	France_Gall	External links
+B-SEC	B-SEC	Georg_Michaelis	Biography
+O	O	Georg_Michaelis	References
+B-SEC	O	Franz_Josef_Strauss	Early years
+I-SEC	O	Franz_Josef_Strauss	Family
+I-SEC	B-SEC	Franz_Josef_Strauss	Political life
+I-SEC	I-SEC	Franz_Josef_Strauss	Lockheed bribery scandals
+I-SEC	I-SEC	Franz_Josef_Strauss	Spiegel scandal
+I-SEC	I-SEC	Franz_Josef_Strauss	Rivalry between Kohl and Strauss
+I-SEC	I-SEC	Franz_Josef_Strauss	United States of Europe
+I-SEC	I-SEC	Franz_Josef_Strauss	Airbus
+I-SEC	I-SEC	Franz_Josef_Strauss	Final decade of life
+I-SEC	I-SEC	Franz_Josef_Strauss	Visit to Albania
+I-SEC	I-SEC	Franz_Josef_Strauss	Death
+O	O	Franz_Josef_Strauss	Legacy
+O	O	Franz_Josef_Strauss	References
+O	O	Franz_Josef_Strauss	Notes
+O	O	Franz_Josef_Strauss	External links
+B-SEC	B-SEC	Robert_Campin	Life
+O	O	Robert_Campin	Identity and style
+O	O	Robert_Campin	Work
+O	O	Robert_Campin	References and notes
+O	O	Robert_Campin	External links
+B-SEC	B-SEC	Nick_Mason	Early life
+I-SEC	I-SEC	Nick_Mason	Musical career
+O	O	Nick_Mason	Pink Floyd songs co-written by Mason
+O	O	Nick_Mason	Drumming style
+O	O	Nick_Mason	Non-musical ventures
+O	O	Nick_Mason	Views and advocacy
+O	O	Nick_Mason	Discography
+O	O	Nick_Mason	Books
+O	O	Nick_Mason	References
+O	O	Nick_Mason	External links
+B-SEC	B-SEC	Jon_Favreau	Early life
+I-SEC	I-SEC	Jon_Favreau	Career
+I-SEC	I-SEC	Jon_Favreau	Personal life
+O	O	Jon_Favreau	Filmography
+O	O	Jon_Favreau	References
+O	O	Jon_Favreau	External links
+B-SEC	B-SEC	Édouard_Lalo	Biography
+O	O	Édouard_Lalo	Popular culture
+O	O	Édouard_Lalo	Compositions
+O	O	Édouard_Lalo	References
+O	O	Édouard_Lalo	External links
+B-SEC	B-SEC	Barry_Levinson	Early life
+I-SEC	I-SEC	Barry_Levinson	Career
+O	O	Barry_Levinson	Filmography
+O	O	Barry_Levinson	References
+O	O	Barry_Levinson	External links
+B-SEC	B-SEC	Cleisthenes	Biography
+O	O	Cleisthenes	Notes
+O	O	Cleisthenes	References
+O	O	Cleisthenes	Further reading
+O	O	Cleisthenes	External links
+B-SEC	B-SEC	Jaap_de_Hoop_Scheffer	Life and career
+O	O	Jaap_de_Hoop_Scheffer	Allegations of contact with Jundallah
+O	O	Jaap_de_Hoop_Scheffer	Honours and awards
+O	O	Jaap_de_Hoop_Scheffer	References
+O	O	Jaap_de_Hoop_Scheffer	External links
+B-SEC	O	Oscar_Robertson	Early years
+I-SEC	B-SEC	Oscar_Robertson	High school career
+I-SEC	I-SEC	Oscar_Robertson	College career (1957–1960)
+I-SEC	I-SEC	Oscar_Robertson	1960 Olympics
+I-SEC	I-SEC	Oscar_Robertson	Professional career
+O	I-SEC	Oscar_Robertson	Legacy
+O	I-SEC	Oscar_Robertson	NBA statistics
+O	I-SEC	Oscar_Robertson	Personal life
+O	O	Oscar_Robertson	See also
+O	O	Oscar_Robertson	References
+O	O	Oscar_Robertson	Further reading
+O	O	Oscar_Robertson	External links
+B-SEC	B-SEC	Carlos_Fuentes	Biography
+O	I-SEC	Carlos_Fuentes	Writing
+O	I-SEC	Carlos_Fuentes	Political views
+O	I-SEC	Carlos_Fuentes	Death
+O	O	Carlos_Fuentes	List of works
+O	O	Carlos_Fuentes	Awards and recognition
+O	O	Carlos_Fuentes	References
+O	O	Carlos_Fuentes	External links
+B-SEC	B-SEC	Jamie_Foxx	Early life
+I-SEC	I-SEC	Jamie_Foxx	Career
+I-SEC	I-SEC	Jamie_Foxx	Personal life
+O	O	Jamie_Foxx	Discography
+O	O	Jamie_Foxx	Tours
+O	O	Jamie_Foxx	Stand-up specials
+O	O	Jamie_Foxx	Filmography
+O	O	Jamie_Foxx	Television
+O	O	Jamie_Foxx	Awards and nominations
+O	O	Jamie_Foxx	See also
+O	O	Jamie_Foxx	References
+O	O	Jamie_Foxx	External links
+B-SEC	B-SEC	Mischa_Barton	Early life
+I-SEC	I-SEC	Mischa_Barton	Career
+O	I-SEC	Mischa_Barton	Modelling, fashion design, and endorsements
+O	I-SEC	Mischa_Barton	Personal life
+O	O	Mischa_Barton	Filmography
+O	O	Mischa_Barton	Awards and nominations
+O	O	Mischa_Barton	References
+O	O	Mischa_Barton	External links
+B-SEC	B-SEC	Maud_of_Wales	Early life
+I-SEC	I-SEC	Maud_of_Wales	Princess of Denmark
+I-SEC	I-SEC	Maud_of_Wales	Queen of Norway
+I-SEC	I-SEC	Maud_of_Wales	Maud's death
+O	O	Maud_of_Wales	Titles, styles, honours and arms
+O	O	Maud_of_Wales	Ancestors
+O	O	Maud_of_Wales	Legacy
+O	O	Maud_of_Wales	References
+O	O	Maud_of_Wales	External links
+B-SEC	O	DJ_Shadow	History
+O	O	DJ_Shadow	Studio and equipment
+O	O	DJ_Shadow	Sampling
+O	O	DJ_Shadow	Mansion night club controversy
+O	O	DJ_Shadow	Discography
+O	O	DJ_Shadow	References
+O	O	DJ_Shadow	External links
+B-SEC	B-SEC	Caroline,_Princess_of_Hanover	Family and early life
+O	I-SEC	Caroline,_Princess_of_Hanover	Education
+O	I-SEC	Caroline,_Princess_of_Hanover	Official appearances
+O	I-SEC	Caroline,_Princess_of_Hanover	Personal and media life
+O	O	Caroline,_Princess_of_Hanover	Succession issues
+O	O	Caroline,_Princess_of_Hanover	Titles, styles and honours
+O	O	Caroline,_Princess_of_Hanover	Ancestry
+O	O	Caroline,_Princess_of_Hanover	See also
+O	O	Caroline,_Princess_of_Hanover	References
+O	O	Caroline,_Princess_of_Hanover	External links
+B-SEC	B-SEC	Benicio_del_Toro	Early life
+I-SEC	I-SEC	Benicio_del_Toro	Career
+I-SEC	I-SEC	Benicio_del_Toro	Personal life
+O	O	Benicio_del_Toro	Filmography
+O	O	Benicio_del_Toro	Television
+O	O	Benicio_del_Toro	See also
+O	O	Benicio_del_Toro	References
+O	O	Benicio_del_Toro	External links
+O	O	Louis_V_of_France	Ancestry
+O	O	Louis_V_of_France	References
+O	O	Louis_V_of_France	Further reading
+B-SEC	B-SEC	Michel_Rocard	Career
+I-SEC	I-SEC	Michel_Rocard	Political career
+I-SEC	O	Michel_Rocard	Rocard's Ministry, 12 May 1988 – 15 May 1991
+O	O	Michel_Rocard	Health
+O	O	Michel_Rocard	Bibliography
+O	O	Michel_Rocard	References
+O	O	Michel_Rocard	External links
+B-SEC	B-SEC	Julio_Cortázar	Early life
+I-SEC	I-SEC	Julio_Cortázar	Education and teaching career
+I-SEC	O	Julio_Cortázar	Years in France
+O	O	Julio_Cortázar	Works
+O	O	Julio_Cortázar	Influence and legacy
+O	O	Julio_Cortázar	Books
+O	O	Julio_Cortázar	See also
+O	O	Julio_Cortázar	References
+O	O	Julio_Cortázar	Further reading
+O	O	Julio_Cortázar	Filmography
+O	O	Julio_Cortázar	External links
+B-SEC	B-SEC	Fernando_Botero	Biography
+O	I-SEC	Fernando_Botero	Style
+O	I-SEC	Fernando_Botero	Sculpture
+O	I-SEC	Fernando_Botero	Donations
+O	I-SEC	Fernando_Botero	Personal life
+O	O	Fernando_Botero	Recent exhibitions
+O	O	Fernando_Botero	Examples of his work
+O	O	Fernando_Botero	References
+O	O	Fernando_Botero	External links
+B-SEC	B-SEC	Pat_Morita	Early life
+I-SEC	I-SEC	Pat_Morita	Television and movie career
+I-SEC	I-SEC	Pat_Morita	Death
+O	O	Pat_Morita	Filmography
+O	O	Pat_Morita	References
+O	O	Pat_Morita	External links
+B-SEC	B-SEC	Salman_Khan	Early life and background
+I-SEC	I-SEC	Salman_Khan	Career
+O	I-SEC	Salman_Khan	Mentor
+O	I-SEC	Salman_Khan	Other work
+O	I-SEC	Salman_Khan	Philanthropy
+O	I-SEC	Salman_Khan	Personal life
+O	O	Salman_Khan	In popular media
+O	O	Salman_Khan	Acting style and analysis
+O	O	Salman_Khan	Controversies
+O	O	Salman_Khan	Filmography and awards
+O	O	Salman_Khan	See also
+O	O	Salman_Khan	References
+O	O	Salman_Khan	Further reading
+O	O	Salman_Khan	External links
+B-SEC	O	Bernard_Bolzano	Family
+I-SEC	B-SEC	Bernard_Bolzano	Career
+O	O	Bernard_Bolzano	Works
+O	O	Bernard_Bolzano	Wissenschaftslehre (Theory of Science)
+O	O	Bernard_Bolzano	Mathematics
+O	O	Bernard_Bolzano	Philosophical legacy
+O	O	Bernard_Bolzano	Writings
+O	O	Bernard_Bolzano	Named after Bolzano
+O	O	Bernard_Bolzano	See also
+O	O	Bernard_Bolzano	Notes
+O	O	Bernard_Bolzano	References
+O	O	Bernard_Bolzano	External links
+B-SEC	O	Pierre-Simon_Laplace	Early years
+I-SEC	O	Pierre-Simon_Laplace	Analysis, probability and astronomical stability
+I-SEC	O	Pierre-Simon_Laplace	On the figure of the Earth
+I-SEC	O	Pierre-Simon_Laplace	Planetary and lunar inequalities
+I-SEC	O	Pierre-Simon_Laplace	Celestial mechanics
+I-SEC	O	Pierre-Simon_Laplace	Black holes
+I-SEC	O	Pierre-Simon_Laplace	Arcueil
+I-SEC	O	Pierre-Simon_Laplace	Analytic theory of probabilities
+I-SEC	O	Pierre-Simon_Laplace	Laplace's demon
+I-SEC	O	Pierre-Simon_Laplace	Laplace transforms
+I-SEC	O	Pierre-Simon_Laplace	Other discoveries and accomplishments
+I-SEC	O	Pierre-Simon_Laplace	Politics
+I-SEC	B-SEC	Pierre-Simon_Laplace	Death
+O	O	Pierre-Simon_Laplace	Religious opinions
+O	O	Pierre-Simon_Laplace	Honors
+O	O	Pierre-Simon_Laplace	Quotations
+O	O	Pierre-Simon_Laplace	See also
+O	O	Pierre-Simon_Laplace	References
+O	O	Pierre-Simon_Laplace	Bibliography
+O	O	Pierre-Simon_Laplace	External links
+B-SEC	B-SEC	The_Undertaker	Early life
+I-SEC	I-SEC	The_Undertaker	Professional wrestling career
+I-SEC	I-SEC	The_Undertaker	Personal life
+O	O	The_Undertaker	Other media
+O	O	The_Undertaker	Filmography
+O	O	The_Undertaker	In wrestling
+O	O	The_Undertaker	Championships and accomplishments
+O	O	The_Undertaker	References
+O	O	The_Undertaker	External links
+B-SEC	B-SEC	Stan_Getz	Early life
+I-SEC	I-SEC	Stan_Getz	Career
+I-SEC	I-SEC	Stan_Getz	Personal life
+O	O	Stan_Getz	Discography
+O	O	Stan_Getz	Awards
+O	O	Stan_Getz	Bibliography
+O	O	Stan_Getz	References
+O	O	Stan_Getz	External links
+O	O	Roxelana	Names
+B-SEC	B-SEC	Roxelana	Early life
+I-SEC	I-SEC	Roxelana	Life with the Sultan
+I-SEC	I-SEC	Roxelana	Charities
+I-SEC	I-SEC	Roxelana	Haseki Sultan
+I-SEC	I-SEC	Roxelana	Death
+O	O	Roxelana	Legacy
+O	O	Roxelana	Gallery
+O	O	Roxelana	See also
+O	O	Roxelana	References
+O	O	Roxelana	Further reading
+O	O	Roxelana	External links
+B-SEC	O	Simon_the_Zealot	Identity
+I-SEC	O	Simon_the_Zealot	Later tradition
+I-SEC	O	Simon_the_Zealot	Sainthood
+O	O	Simon_the_Zealot	Islam
+O	O	Simon_the_Zealot	In popular culture
+O	O	Simon_the_Zealot	Notes
+O	O	Simon_the_Zealot	External links
+B-SEC	B-SEC	Sergiu_Celibidache	Biography
+O	O	Sergiu_Celibidache	Legacy
+O	O	Sergiu_Celibidache	Discography
+O	O	Sergiu_Celibidache	Honors and awards
+O	O	Sergiu_Celibidache	References
+O	O	Sergiu_Celibidache	External links
+B-SEC	B-SEC	Władysław_Szpilman	Career as a pianist
+I-SEC	I-SEC	Władysław_Szpilman	Survival during the Holocaust
+I-SEC	I-SEC	Władysław_Szpilman	Polish Radio
+I-SEC	I-SEC	Władysław_Szpilman	Compositions
+I-SEC	I-SEC	Władysław_Szpilman	The book
+I-SEC	I-SEC	Władysław_Szpilman	Death and tributes
+O	O	Władysław_Szpilman	Recordings
+O	O	Władysław_Szpilman	Selected Published works
+O	O	Władysław_Szpilman	See also
+O	O	Władysław_Szpilman	References
+O	O	Władysław_Szpilman	External links
+O	O	Władysław_Szpilman	Further reading
+B-SEC	B-SEC	Amos_Oz	Biography
+I-SEC	I-SEC	Amos_Oz	Literary career
+O	O	Amos_Oz	Political views
+O	O	Amos_Oz	Awards and recognition
+O	O	Amos_Oz	Published works
+O	O	Amos_Oz	See also
+O	O	Amos_Oz	References
+O	O	Amos_Oz	External links
+B-SEC	B-SEC	Sean_Paul	Life and career
+O	O	Sean_Paul	Discography
+O	O	Sean_Paul	Filmography
+O	O	Sean_Paul	Awards and nominations
+O	O	Sean_Paul	References
+O	O	Sean_Paul	External links
+B-SEC	B-SEC	Claire_Forlani	Early life
+I-SEC	I-SEC	Claire_Forlani	Career
+I-SEC	I-SEC	Claire_Forlani	Personal life
+O	O	Claire_Forlani	Filmography
+O	O	Claire_Forlani	References
+O	O	Claire_Forlani	External links
+O	O	Karl_Drais	See also
+O	O	Karl_Drais	Bibliography
+O	O	Karl_Drais	External links
+B-SEC	B-SEC	Joan_I_of_Navarre	Life
+O	O	Joan_I_of_Navarre	Issue
+O	O	Joan_I_of_Navarre	Ancestry
+O	O	Joan_I_of_Navarre	References
+B-SEC	B-SEC	Hakan_Yakin	Personal life
+I-SEC	I-SEC	Hakan_Yakin	Club career
+I-SEC	I-SEC	Hakan_Yakin	International career
+O	I-SEC	Hakan_Yakin	Honours
+O	I-SEC	Hakan_Yakin	Career statistics
+O	O	Hakan_Yakin	Notes and references
+O	O	Hakan_Yakin	External links
+B-SEC	O	Ronald_Venetiaan	Personal
+O	O	Ronald_Venetiaan	References and notes
+B-SEC	B-SEC	Herod_Antipas	Biography
+O	O	Herod_Antipas	Legacy
+O	O	Herod_Antipas	Notes
+O	O	Herod_Antipas	References
+O	O	Herod_Antipas	External links
+B-SEC	B-SEC	Álvar_Núñez_Cabeza_de_Vaca	Early life and education
+I-SEC	O	Álvar_Núñez_Cabeza_de_Vaca	Narváez Expedition and Early Indian Relations
+I-SEC	O	Álvar_Núñez_Cabeza_de_Vaca	Return to America
+O	O	Álvar_Núñez_Cabeza_de_Vaca	La relación of Álvar Núñez Cabeza de Vaca
+O	O	Álvar_Núñez_Cabeza_de_Vaca	Comentarios
+O	O	Álvar_Núñez_Cabeza_de_Vaca	Association to Chicano/a Literature
+O	O	Álvar_Núñez_Cabeza_de_Vaca	Film adaptation
+O	O	Álvar_Núñez_Cabeza_de_Vaca	Fiction about Cabeza de Vaca's travels
+O	O	Álvar_Núñez_Cabeza_de_Vaca	Ancestors of Cabeza de Vaca
+O	O	Álvar_Núñez_Cabeza_de_Vaca	Bibliography
+O	O	Álvar_Núñez_Cabeza_de_Vaca	See also
+O	O	Álvar_Núñez_Cabeza_de_Vaca	References
+O	O	Álvar_Núñez_Cabeza_de_Vaca	External links
+B-SEC	B-SEC	Charles_Goodyear	Early life
+I-SEC	I-SEC	Charles_Goodyear	Marriage and early career
+I-SEC	I-SEC	Charles_Goodyear	Discovery of vulcanization
+I-SEC	I-SEC	Charles_Goodyear	Perfection and Patent of Vulcanization in Springfield, Mass.
+I-SEC	I-SEC	Charles_Goodyear	Court cases regarding vulcanization
+I-SEC	I-SEC	Charles_Goodyear	Death and legacy
+O	O	Charles_Goodyear	See also
+O	O	Charles_Goodyear	References
+O	O	Charles_Goodyear	External links
+B-SEC	B-SEC	Makarios_III	Early life, studies and Church career (1913-1950)
+I-SEC	I-SEC	Makarios_III	Enosis and EOKA (1950–1955)
+I-SEC	I-SEC	Makarios_III	Exile, escalation and Taksim (1955–1960)
+I-SEC	I-SEC	Makarios_III	Primacy and presidency (1960–1963)
+I-SEC	I-SEC	Makarios_III	Makarios and the Cyprus problem (1964–1977)
+I-SEC	I-SEC	Makarios_III	Death
+O	O	Makarios_III	Acclaim
+O	O	Makarios_III	See also
+O	O	Makarios_III	Notes
+O	O	Makarios_III	References
+O	O	Makarios_III	External links
+B-SEC	B-SEC	Percy_Williams_Bridgman	Biography
+O	O	Percy_Williams_Bridgman	Honors and awards
+O	O	Percy_Williams_Bridgman	Bibliography
+O	O	Percy_Williams_Bridgman	See also
+O	O	Percy_Williams_Bridgman	References
+O	O	Percy_Williams_Bridgman	Further reading
+O	O	Percy_Williams_Bridgman	External links
+B-SEC	B-SEC	Philip_Warren_Anderson	Biography
+O	O	Philip_Warren_Anderson	Publications
+O	O	Philip_Warren_Anderson	References
+O	O	Philip_Warren_Anderson	External links
+B-SEC	B-SEC	Spencer_Tunick	Life and career
+O	O	Spencer_Tunick	Photography
+O	O	Spencer_Tunick	Major installations
+O	O	Spencer_Tunick	Media reception
+O	O	Spencer_Tunick	See also
+O	O	Spencer_Tunick	References
+O	O	Spencer_Tunick	External links
+B-SEC	B-SEC	Antanas_Smetona	Early life
+I-SEC	O	Antanas_Smetona	Early activities
+I-SEC	O	Antanas_Smetona	Politics
+I-SEC	O	Antanas_Smetona	Exile
+O	O	Antanas_Smetona	See also
+O	O	Antanas_Smetona	Notes
+O	O	Antanas_Smetona	References
+O	O	Antanas_Smetona	External links
+B-SEC	O	Lee_Hsien_Loong	Background and education
+I-SEC	B-SEC	Lee_Hsien_Loong	Military career
+I-SEC	I-SEC	Lee_Hsien_Loong	Early political career
+I-SEC	I-SEC	Lee_Hsien_Loong	Deputy Prime Minister
+I-SEC	I-SEC	Lee_Hsien_Loong	Prime Minister
+O	I-SEC	Lee_Hsien_Loong	Controversies
+O	I-SEC	Lee_Hsien_Loong	Personal life
+O	O	Lee_Hsien_Loong	Honours
+O	O	Lee_Hsien_Loong	References
+O	O	Lee_Hsien_Loong	External links
+B-SEC	B-SEC	George_Takei	Early life
+I-SEC	I-SEC	George_Takei	Star Trek
+I-SEC	I-SEC	George_Takei	After Star Trek
+I-SEC	I-SEC	George_Takei	Personal life
+O	O	George_Takei	Awards and recognition
+O	O	George_Takei	Filmography
+O	O	George_Takei	Bibliography
+O	O	George_Takei	References
+O	O	George_Takei	External links
+B-SEC	B-SEC	Claude_Bernard	Biography
+O	O	Claude_Bernard	Works
+O	O	Claude_Bernard	Introduction to the Study of Experimental Medicine
+O	O	Claude_Bernard	See also
+O	O	Claude_Bernard	References
+O	O	Claude_Bernard	Further reading
+O	O	Claude_Bernard	External links
+B-SEC	B-SEC	Imam_Shamil	Family and early life
+I-SEC	O	Imam_Shamil	War against Russia
+I-SEC	O	Imam_Shamil	Last years
+O	O	Imam_Shamil	See also
+O	O	Imam_Shamil	References
+O	O	Imam_Shamil	Further reading
+O	O	Imam_Shamil	External links
+B-SEC	B-SEC	Olivier_Panis	Career
+O	O	Olivier_Panis	Formula One
+O	O	Olivier_Panis	Sport cars
+O	O	Olivier_Panis	Racing record
+O	O	Olivier_Panis	References
+O	O	Olivier_Panis	External links
+B-SEC	B-SEC	Corey_Taylor	Personal life
+I-SEC	I-SEC	Corey_Taylor	Music career
+I-SEC	I-SEC	Corey_Taylor	Acting career
+O	O	Corey_Taylor	Style and influence
+O	O	Corey_Taylor	Discography
+O	O	Corey_Taylor	Filmography
+O	O	Corey_Taylor	Books
+O	O	Corey_Taylor	Equipment
+O	O	Corey_Taylor	Awards
+O	O	Corey_Taylor	References
+O	O	Corey_Taylor	External links
+B-SEC	B-SEC	Jack_White	Early life
+I-SEC	I-SEC	Jack_White	Career
+O	I-SEC	Jack_White	Third Man Records
+O	I-SEC	Jack_White	Musical equipment and sound
+O	I-SEC	Jack_White	Reception
+O	I-SEC	Jack_White	Personal life
+O	O	Jack_White	Awards & nominations
+O	O	Jack_White	Band
+O	O	Jack_White	Discography
+O	O	Jack_White	Filmography
+O	O	Jack_White	References
+O	O	Jack_White	External links
+B-SEC	B-SEC	Tim_Roth	Early life
+I-SEC	I-SEC	Tim_Roth	Career
+I-SEC	I-SEC	Tim_Roth	Personal life
+O	O	Tim_Roth	Filmography
+O	O	Tim_Roth	References
+O	O	Tim_Roth	External links
+B-SEC	B-SEC	Joseph_Wright_of_Derby	Life
+O	O	Joseph_Wright_of_Derby	Works
+O	O	Joseph_Wright_of_Derby	Painting the British Enlightenment
+O	O	Joseph_Wright_of_Derby	Memorials
+O	O	Joseph_Wright_of_Derby	Other works
+O	O	Joseph_Wright_of_Derby	See also
+O	O	Joseph_Wright_of_Derby	Notes
+O	O	Joseph_Wright_of_Derby	References
+O	O	Joseph_Wright_of_Derby	Further reading
+O	O	Joseph_Wright_of_Derby	External links
+B-SEC	B-SEC	Steven_Tyler	Early life
+I-SEC	I-SEC	Steven_Tyler	Career
+O	I-SEC	Steven_Tyler	Dirico Motorcycles (Red Wing Motorcycles)
+O	I-SEC	Steven_Tyler	Politics
+O	I-SEC	Steven_Tyler	Personal life
+O	O	Steven_Tyler	Discography
+O	O	Steven_Tyler	Filmography
+O	O	Steven_Tyler	Awards and nominations
+O	O	Steven_Tyler	See also
+O	O	Steven_Tyler	References
+O	O	Steven_Tyler	External links
+B-SEC	B-SEC	Stefan_Edberg	Career
+O	I-SEC	Stefan_Edberg	Style of play
+O	I-SEC	Stefan_Edberg	Equipment
+O	I-SEC	Stefan_Edberg	Post-career competitive racquet sports
+O	I-SEC	Stefan_Edberg	Distinctions and honors
+O	I-SEC	Stefan_Edberg	Personal life
+O	I-SEC	Stefan_Edberg	Career statistics
+O	O	Stefan_Edberg	Professional awards
+O	O	Stefan_Edberg	See also
+O	O	Stefan_Edberg	References
+O	O	Stefan_Edberg	External links
+B-SEC	B-SEC	Émile_Lahoud	Early life
+I-SEC	I-SEC	Émile_Lahoud	Education
+I-SEC	I-SEC	Émile_Lahoud	Military life
+I-SEC	I-SEC	Émile_Lahoud	Political career
+I-SEC	I-SEC	Émile_Lahoud	Personal life
+O	O	Émile_Lahoud	Honours
+O	O	Émile_Lahoud	References
+B-SEC	B-SEC	Rafic_Hariri	Early life and education
+I-SEC	I-SEC	Rafic_Hariri	Political career
+I-SEC	I-SEC	Rafic_Hariri	1992-1998 economic political policies
+I-SEC	I-SEC	Rafic_Hariri	Hariri and Lebanon's political environment
+I-SEC	I-SEC	Rafic_Hariri	Personal life
+I-SEC	O	Rafic_Hariri	Assassination
+O	O	Rafic_Hariri	Aftermath
+O	O	Rafic_Hariri	Corruption
+O	O	Rafic_Hariri	References
+O	O	Rafic_Hariri	Books
+O	O	Rafic_Hariri	External links
+B-SEC	B-SEC	William_H._Macy	Early life
+I-SEC	I-SEC	William_H._Macy	Career
+I-SEC	I-SEC	William_H._Macy	Personal life
+O	O	William_H._Macy	Filmography
+O	O	William_H._Macy	Awards and nominations
+O	O	William_H._Macy	See also
+O	O	William_H._Macy	References
+O	O	William_H._Macy	External links
+B-SEC	B-SEC	William-Adolphe_Bouguereau	Life and career
+I-SEC	O	William-Adolphe_Bouguereau	Fame, fall, and rise
+I-SEC	O	William-Adolphe_Bouguereau	As a teacher
+O	O	William-Adolphe_Bouguereau	Name
+O	O	William-Adolphe_Bouguereau	Selected works
+O	O	William-Adolphe_Bouguereau	Gallery
+O	O	William-Adolphe_Bouguereau	See also
+O	O	William-Adolphe_Bouguereau	References
+O	O	William-Adolphe_Bouguereau	Further reading
+O	O	William-Adolphe_Bouguereau	External links
+B-SEC	O	Ali	In Mecca
+I-SEC	O	Ali	In Medina
+I-SEC	O	Ali	Caliphate
+O	O	Ali	Aftermath
+O	O	Ali	Knowledge
+O	O	Ali	Descendants
+O	O	Ali	Views
+O	O	Ali	Historiography
+O	O	Ali	Gallery
+O	O	Ali	See also
+O	O	Ali	Notes
+O	O	Ali	References
+O	O	Ali	Further reading
+O	O	Ali	External links
+B-SEC	B-SEC	Helmuth_von_Moltke_the_Elder	Early life
+I-SEC	O	Helmuth_von_Moltke_the_Elder	As a young officer
+I-SEC	O	Helmuth_von_Moltke_the_Elder	Service with the Ottoman Empire
+I-SEC	O	Helmuth_von_Moltke_the_Elder	Chief of the Prussian General Staff and Great General Staff
+I-SEC	O	Helmuth_von_Moltke_the_Elder	War with Denmark
+I-SEC	O	Helmuth_von_Moltke_the_Elder	Moltke's theory of war
+I-SEC	O	Helmuth_von_Moltke_the_Elder	Austro-Prussian War
+I-SEC	O	Helmuth_von_Moltke_the_Elder	Franco-Prussian War
+I-SEC	O	Helmuth_von_Moltke_the_Elder	Final years
+O	O	Helmuth_von_Moltke_the_Elder	Dates of rank
+O	O	Helmuth_von_Moltke_the_Elder	Decorations and awards
+O	O	Helmuth_von_Moltke_the_Elder	See also
+O	O	Helmuth_von_Moltke_the_Elder	References
+O	O	Helmuth_von_Moltke_the_Elder	Further reading
+O	O	Helmuth_von_Moltke_the_Elder	External links
+B-SEC	B-SEC	Norman_Schwarzkopf,_Jr.	Early life and education
+I-SEC	I-SEC	Norman_Schwarzkopf,_Jr.	Career
+I-SEC	I-SEC	Norman_Schwarzkopf,_Jr.	Later life
+O	O	Norman_Schwarzkopf,_Jr.	Legacy
+O	O	Norman_Schwarzkopf,_Jr.	Awards and decorations
+O	O	Norman_Schwarzkopf,_Jr.	References
+O	O	Norman_Schwarzkopf,_Jr.	Further reading
+O	O	Norman_Schwarzkopf,_Jr.	External links
+B-SEC	B-SEC	Jean-Jacques_Annaud	Early life
+I-SEC	I-SEC	Jean-Jacques_Annaud	Career
+O	O	Jean-Jacques_Annaud	Filmography
+O	O	Jean-Jacques_Annaud	Awards and nominations
+O	O	Jean-Jacques_Annaud	References
+O	O	Jean-Jacques_Annaud	External links
+B-SEC	B-SEC	Josh_Groban	Early life
+I-SEC	I-SEC	Josh_Groban	Music career
+O	I-SEC	Josh_Groban	Notable performances
+O	I-SEC	Josh_Groban	Film and television appearances
+O	I-SEC	Josh_Groban	Voice
+O	I-SEC	Josh_Groban	Charity
+O	I-SEC	Josh_Groban	Impact
+O	I-SEC	Josh_Groban	Personal life
+O	O	Josh_Groban	Discography
+O	O	Josh_Groban	Concert tours
+O	O	Josh_Groban	References
+O	O	Josh_Groban	External links
+O	O	Ingólfr_Arnarson	See also
+O	O	Ingólfr_Arnarson	References
+O	O	Gaston_Thorn	References
+B-SEC	O	Takuma_Sato	Formula One
+I-SEC	O	Takuma_Sato	Switch to IndyCar
+I-SEC	O	Takuma_Sato	Formula Nippon/Super Formula
+I-SEC	O	Takuma_Sato	Formula E
+I-SEC	B-SEC	Takuma_Sato	Personal life
+O	I-SEC	Takuma_Sato	Motorsports career results
+O	O	Takuma_Sato	See also
+O	O	Takuma_Sato	External links
+O	O	Takuma_Sato	References
+B-SEC	B-SEC	Mitt_Romney	Early life and education
+I-SEC	I-SEC	Mitt_Romney	Business career
+I-SEC	O	Mitt_Romney	Local LDS Church leadership
+I-SEC	O	Mitt_Romney	1994 U.S. senatorial campaign
+I-SEC	O	Mitt_Romney	2002 Winter Olympics
+I-SEC	O	Mitt_Romney	Governor of Massachusetts
+I-SEC	O	Mitt_Romney	2008 presidential campaign
+I-SEC	O	Mitt_Romney	Activity between presidential campaigns
+I-SEC	O	Mitt_Romney	2012 presidential campaign
+I-SEC	O	Mitt_Romney	Subsequent activities
+O	O	Mitt_Romney	Awards and honors
+O	O	Mitt_Romney	Published works
+O	O	Mitt_Romney	See also
+O	O	Mitt_Romney	Notes
+O	O	Mitt_Romney	References
+O	O	Mitt_Romney	Bibliography
+O	O	Mitt_Romney	Further reading
+O	O	Mitt_Romney	External links
+B-SEC	O	Mike_Portnoy	Mike Portnoy's history
+I-SEC	O	Mike_Portnoy	Avenged Sevenfold, departure from Dream Theater, and future
+O	O	Mike_Portnoy	Influences
+O	O	Mike_Portnoy	Awards and recognition
+O	O	Mike_Portnoy	Drum kits and percussive equipment
+O	O	Mike_Portnoy	Other instruments played
+O	B-SEC	Mike_Portnoy	Personal life
+O	O	Mike_Portnoy	Discography
+O	O	Mike_Portnoy	References
+O	O	Mike_Portnoy	External links
+O	O	Dionysius_the_Areopagite	Historic confusions
+O	O	Dionysius_the_Areopagite	See also
+O	O	Dionysius_the_Areopagite	References
+O	O	Dionysius_the_Areopagite	Sources
+O	O	Dionysius_the_Areopagite	External links
+B-SEC	B-SEC	Willi_Stoph	Biography
+O	O	Willi_Stoph	References
+B-SEC	B-SEC	Ilya_Ehrenburg	Life and work
+O	O	Ilya_Ehrenburg	English translations
+O	O	Ilya_Ehrenburg	See also
+O	O	Ilya_Ehrenburg	References
+O	O	Ilya_Ehrenburg	External links
+B-SEC	B-SEC	Pat_Cash	Early career
+I-SEC	I-SEC	Pat_Cash	Wimbledon victory
+I-SEC	I-SEC	Pat_Cash	Later career and retirement
+I-SEC	I-SEC	Pat_Cash	Personal life
+O	O	Pat_Cash	Major finals
+O	O	Pat_Cash	Grand Slam singles performance timeline
+O	O	Pat_Cash	References
+O	O	Pat_Cash	External links
+B-SEC	B-SEC	Martin_Heinrich_Klaproth	Biography
+O	O	Martin_Heinrich_Klaproth	Works
+O	O	Martin_Heinrich_Klaproth	See also
+O	O	Martin_Heinrich_Klaproth	Notes
+O	O	Martin_Heinrich_Klaproth	References
+O	O	Martin_Heinrich_Klaproth	External links
+B-SEC	B-SEC	John_Harsanyi	Biography
+O	O	John_Harsanyi	Publications
+O	O	John_Harsanyi	See also
+O	O	John_Harsanyi	References
+O	O	John_Harsanyi	External links
+B-SEC	B-SEC	Russell_Alan_Hulse	Biography
+I-SEC	O	Russell_Alan_Hulse	Later years
+O	O	Russell_Alan_Hulse	References
+O	O	Russell_Alan_Hulse	External links
+B-SEC	B-SEC	Vito_Volterra	Biography
+O	O	Vito_Volterra	Selected writings by Volterra
+O	O	Vito_Volterra	See also
+O	O	Vito_Volterra	Notes
+O	O	Vito_Volterra	Biographical references
+O	O	Vito_Volterra	References
+O	O	Vito_Volterra	External links
+O	O	Bengt_I._Samuelsson	References
+O	O	Bengt_I._Samuelsson	External links
+B-SEC	B-SEC	Nwankwo_Kanu	Early career
+I-SEC	I-SEC	Nwankwo_Kanu	Senior career
+I-SEC	I-SEC	Nwankwo_Kanu	International career
+O	I-SEC	Nwankwo_Kanu	Career statistics
+O	O	Nwankwo_Kanu	Honours
+O	O	Nwankwo_Kanu	References
+O	O	Nwankwo_Kanu	External links
+B-SEC	O	Tetricus_I	Reign
+O	O	Tetricus_I	Numismatics
+O	O	Tetricus_I	References
+O	O	Tetricus_I	Sources
+O	O	Tetricus_I	External links
+B-SEC	B-SEC	Ségolène_Royal	Early life
+I-SEC	I-SEC	Ségolène_Royal	Political career
+O	I-SEC	Ségolène_Royal	Policies
+O	I-SEC	Ségolène_Royal	Foreign policy
+O	I-SEC	Ségolène_Royal	Personal life
+O	O	Ségolène_Royal	Bibliography
+O	O	Ségolène_Royal	References
+O	O	Ségolène_Royal	External links
+B-SEC	B-SEC	Ivan_Gašparovič	Biography
+I-SEC	I-SEC	Ivan_Gašparovič	Early career
+I-SEC	I-SEC	Ivan_Gašparovič	President of Slovakia
+I-SEC	I-SEC	Ivan_Gašparovič	Private life
+O	O	Ivan_Gašparovič	Honours and awards
+O	O	Ivan_Gašparovič	See also
+O	O	Ivan_Gašparovič	References
+O	O	Ivan_Gašparovič	External links
+B-SEC	B-SEC	John_Malalas	Life
+O	O	John_Malalas	Writing
+O	O	John_Malalas	See also
+O	O	John_Malalas	Notes
+O	O	John_Malalas	References
+O	O	John_Malalas	Modern editions
+O	O	John_Malalas	Further reading
+O	O	John_Malalas	External links
+B-SEC	B-SEC	Enrique_Granados	Life
+O	O	Enrique_Granados	Music and influence
+O	O	Enrique_Granados	Some important works
+O	O	Enrique_Granados	Media
+O	O	Enrique_Granados	References
+O	O	Enrique_Granados	Recordings by Granados
+O	O	Enrique_Granados	External links
+B-SEC	O	Sahure	Family
+I-SEC	O	Sahure	Reign
+O	O	Sahure	Pyramid complex
+O	O	Sahure	Court Officials
+O	O	Sahure	Legacy
+O	O	Sahure	Notes
+O	O	Sahure	References
+O	O	Yuri_Dolgorukiy	Problems in identifying birthdate
+B-SEC	O	Yuri_Dolgorukiy	Activities in Rostov and Suzdal
+I-SEC	O	Yuri_Dolgorukiy	Struggle for Kiev
+I-SEC	O	Yuri_Dolgorukiy	Marriages and children
+O	O	Yuri_Dolgorukiy	Ancestors
+O	O	Yuri_Dolgorukiy	Memorials
+O	O	Yuri_Dolgorukiy	Succession
+O	O	Yuri_Dolgorukiy	See also
+O	O	Yuri_Dolgorukiy	External links
+B-SEC	B-SEC	Vittorio_Alfieri	Early life
+I-SEC	I-SEC	Vittorio_Alfieri	Literary career
+O	O	Vittorio_Alfieri	Character
+O	O	Vittorio_Alfieri	Contribution to Italian literature
+O	O	Vittorio_Alfieri	Notes
+O	O	Vittorio_Alfieri	References
+O	O	Vittorio_Alfieri	External links
+B-SEC	B-SEC	Xunzi	Life
+O	O	Xunzi	The Xunzi
+O	O	Xunzi	Chapters of the Xunzi
+O	O	Xunzi	Translations
+O	O	Xunzi	Notes
+O	O	Xunzi	References
+O	O	Xunzi	External links
+B-SEC	B-SEC	Edward_Smith_(sea_captain)	Early life
+I-SEC	I-SEC	Edward_Smith_(sea_captain)	Marriage and children
+I-SEC	I-SEC	Edward_Smith_(sea_captain)	Career
+O	O	Edward_Smith_(sea_captain)	RMS Titanic
+O	O	Edward_Smith_(sea_captain)	Legacy
+O	O	Edward_Smith_(sea_captain)	Decorations
+O	O	Edward_Smith_(sea_captain)	Family
+O	O	Edward_Smith_(sea_captain)	Portrayals
+O	O	Edward_Smith_(sea_captain)	Bibliography
+O	O	Edward_Smith_(sea_captain)	References
+O	O	Edward_Smith_(sea_captain)	External links
+O	O	William_Lassell	References
+O	O	William_Lassell	External links
+B-SEC	O	Paul_van_Dyk	History
+O	O	Paul_van_Dyk	Politics
+O	O	Paul_van_Dyk	Discography
+B-SEC	B-SEC	Premchand	Biography
+O	O	Premchand	Style and influences
+O	O	Premchand	List of works
+O	O	Premchand	Adaptations of Premchand's works
+O	O	Premchand	Notes
+O	O	Premchand	References
+O	O	Premchand	Further reading
+O	O	Premchand	External links
+B-SEC	B-SEC	Andrés_Escobar	Early life and education
+I-SEC	I-SEC	Andrés_Escobar	Club career
+I-SEC	I-SEC	Andrés_Escobar	International career
+I-SEC	I-SEC	Andrés_Escobar	Own goal incident and subsequent murder
+O	I-SEC	Andrés_Escobar	Legacy
+O	I-SEC	Andrés_Escobar	Career statistics
+O	O	Andrés_Escobar	Honours
+O	O	Andrés_Escobar	Notes
+O	O	Andrés_Escobar	References
+O	O	Andrés_Escobar	External links
+B-SEC	B-SEC	Kim_Ki-duk	Life and career
+O	O	Kim_Ki-duk	Controversy
+O	O	Kim_Ki-duk	Filmography
+O	O	Kim_Ki-duk	International awards
+O	O	Kim_Ki-duk	See also
+O	O	Kim_Ki-duk	References
+O	O	Kim_Ki-duk	External links
+B-SEC	B-SEC	Bülent_Ecevit	Personal life
+I-SEC	I-SEC	Bülent_Ecevit	Political life
+O	O	Bülent_Ecevit	Works
+O	O	Bülent_Ecevit	References
+O	O	Bülent_Ecevit	External links
+B-SEC	B-SEC	Lloyd_Banks	Early life
+I-SEC	I-SEC	Lloyd_Banks	Career with G-Unit (1999-present)
+I-SEC	I-SEC	Lloyd_Banks	Solo career
+O	O	Lloyd_Banks	Awards
+O	O	Lloyd_Banks	Discography
+O	O	Lloyd_Banks	Filmography
+O	O	Lloyd_Banks	References
+O	O	Lloyd_Banks	External links
+B-SEC	B-SEC	Javier_Zanetti	Early life
+I-SEC	I-SEC	Javier_Zanetti	Club career
+I-SEC	I-SEC	Javier_Zanetti	International career
+O	I-SEC	Javier_Zanetti	Style of play
+O	I-SEC	Javier_Zanetti	Personal life
+O	I-SEC	Javier_Zanetti	Career statistics
+O	O	Javier_Zanetti	Honours
+O	O	Javier_Zanetti	References
+O	O	Javier_Zanetti	External links
+B-SEC	B-SEC	Didier_Deschamps	Club career
+I-SEC	I-SEC	Didier_Deschamps	International career
+I-SEC	I-SEC	Didier_Deschamps	Managerial career
+O	O	Didier_Deschamps	Honours
+O	O	Didier_Deschamps	Statistics
+O	O	Didier_Deschamps	Notes
+O	O	Didier_Deschamps	References
+O	O	Didier_Deschamps	Further reading
+O	O	Didier_Deschamps	External links
+B-SEC	B-SEC	Just_Fontaine	Football career
+I-SEC	I-SEC	Just_Fontaine	After retirement
+O	I-SEC	Just_Fontaine	Honours
+O	I-SEC	Just_Fontaine	Career statistics
+O	O	Just_Fontaine	References and notes
+O	O	Just_Fontaine	External links
+B-SEC	B-SEC	Frank_Wedekind	Life and career
+O	O	Frank_Wedekind	Works
+O	O	Frank_Wedekind	Adaptations
+O	O	Frank_Wedekind	References
+O	O	Frank_Wedekind	External links
+B-SEC	B-SEC	Sharon_den_Adel	Personal life
+O	O	Sharon_den_Adel	Training and vocal profile
+O	O	Sharon_den_Adel	Within Temptation
+O	O	Sharon_den_Adel	Collaborations with other artists
+O	O	Sharon_den_Adel	Discography
+O	O	Sharon_den_Adel	Videography
+O	O	Sharon_den_Adel	Awards
+O	O	Sharon_den_Adel	Notes
+O	O	Sharon_den_Adel	External links
+B-SEC	B-SEC	Cristiano_Ronaldo	Early life
+I-SEC	I-SEC	Cristiano_Ronaldo	Club career
+I-SEC	I-SEC	Cristiano_Ronaldo	International career
+O	I-SEC	Cristiano_Ronaldo	Style of play
+O	I-SEC	Cristiano_Ronaldo	Outside football
+O	I-SEC	Cristiano_Ronaldo	Career statistics
+O	O	Cristiano_Ronaldo	Honours
+O	O	Cristiano_Ronaldo	References
+O	O	Cristiano_Ronaldo	External links
+B-SEC	B-SEC	John_Franklin_Enders	Life and education
+I-SEC	I-SEC	John_Franklin_Enders	Biomedical career
+O	O	John_Franklin_Enders	Honors
+O	O	John_Franklin_Enders	References
+O	O	John_Franklin_Enders	External links
+B-SEC	B-SEC	Nadia_Petrova	Biography
+I-SEC	I-SEC	Nadia_Petrova	Career
+O	I-SEC	Nadia_Petrova	Performance timelines
+O	I-SEC	Nadia_Petrova	Career statistics
+O	O	Nadia_Petrova	References
+O	O	Nadia_Petrova	External links
+B-SEC	B-SEC	Abdullah_Gül	Early life
+I-SEC	I-SEC	Abdullah_Gül	AKP career
+I-SEC	O	Abdullah_Gül	Presidency: 2007–14
+O	O	Abdullah_Gül	Statements on the Middle East
+O	O	Abdullah_Gül	History of titles
+O	O	Abdullah_Gül	Honours and medals
+O	O	Abdullah_Gül	See also
+O	O	Abdullah_Gül	References
+O	O	Abdullah_Gül	External links
+B-SEC	B-SEC	Mary_Leakey	Biography
+O	O	Mary_Leakey	Excavations
+O	O	Mary_Leakey	Books authored
+O	O	Mary_Leakey	See also
+O	O	Mary_Leakey	Position in the Leakey family
+O	O	Mary_Leakey	Notes
+O	O	Mary_Leakey	Further reading
+O	O	Mary_Leakey	External links
+B-SEC	B-SEC	Francisco_de_Zurbarán	Biography
+O	O	Francisco_de_Zurbarán	Style
+O	O	Francisco_de_Zurbarán	Artistic legacy
+O	O	Francisco_de_Zurbarán	Exhibitions
+O	O	Francisco_de_Zurbarán	Gallery
+O	O	Francisco_de_Zurbarán	References
+O	O	Francisco_de_Zurbarán	External links
+B-SEC	B-SEC	Turgut_Özal	Early life and career
+I-SEC	I-SEC	Turgut_Özal	Political career
+I-SEC	I-SEC	Turgut_Özal	Armenian Genocide
+I-SEC	I-SEC	Turgut_Özal	Death and exhumation
+O	O	Turgut_Özal	Family
+O	O	Turgut_Özal	See also
+O	O	Turgut_Özal	References
+O	O	Turgut_Özal	External links
+B-SEC	B-SEC	Jensen_Ackles	Early life
+I-SEC	I-SEC	Jensen_Ackles	Career
+I-SEC	I-SEC	Jensen_Ackles	Personal life
+O	O	Jensen_Ackles	Filmography
+O	O	Jensen_Ackles	Discography
+O	O	Jensen_Ackles	Awards and nominations
+O	O	Jensen_Ackles	References
+O	O	Jensen_Ackles	External links
+B-SEC	B-SEC	Vanessa_Paradis	Biography
+I-SEC	I-SEC	Vanessa_Paradis	Personal life
+O	O	Vanessa_Paradis	Discography
+O	O	Vanessa_Paradis	Filmography
+O	O	Vanessa_Paradis	Awards and nominations
+O	O	Vanessa_Paradis	References
+O	O	Vanessa_Paradis	External links
+B-SEC	B-SEC	Galina_Vishnevskaya	Biography
+O	O	Galina_Vishnevskaya	Recordings
+O	O	Galina_Vishnevskaya	Honours and awards
+O	O	Galina_Vishnevskaya	References
+O	O	Galina_Vishnevskaya	External links
+B-SEC	B-SEC	Kim_Peek	Early life
+I-SEC	I-SEC	Kim_Peek	Rain Man
+I-SEC	I-SEC	Kim_Peek	Scientific investigation
+I-SEC	I-SEC	Kim_Peek	Death
+O	O	Kim_Peek	Appearances
+O	O	Kim_Peek	References
+O	O	Kim_Peek	Further reading
+O	O	Kim_Peek	External links
+B-SEC	B-SEC	Paul_Berg	Early life and education
+I-SEC	I-SEC	Paul_Berg	Research and academic career
+O	O	Paul_Berg	See also
+O	O	Paul_Berg	References
+O	O	Paul_Berg	External links
+B-SEC	B-SEC	Gennaro_Gattuso	Club career
+I-SEC	I-SEC	Gennaro_Gattuso	International career
+I-SEC	I-SEC	Gennaro_Gattuso	Managerial career
+I-SEC	I-SEC	Gennaro_Gattuso	Personal life
+O	I-SEC	Gennaro_Gattuso	Honours
+O	I-SEC	Gennaro_Gattuso	Career statistics
+O	O	Gennaro_Gattuso	Notes
+O	O	Gennaro_Gattuso	References
+O	O	Gennaro_Gattuso	External links
+B-SEC	B-SEC	Dado_Pršo	Career
+I-SEC	I-SEC	Dado_Pršo	International career
+O	O	Dado_Pršo	Honours
+O	O	Dado_Pršo	References
+O	O	Dado_Pršo	External links
+B-SEC	O	Giovanni_Leone	Early years
+I-SEC	O	Giovanni_Leone	Prime minister and Presidency
+I-SEC	B-SEC	Giovanni_Leone	Death
+O	O	Giovanni_Leone	References
+B-SEC	O	Vasily_Vereshchagin	Years of apprenticeship
+I-SEC	O	Vasily_Vereshchagin	Travels in Central Asia
+I-SEC	O	Vasily_Vereshchagin	Russo–Turkish War
+I-SEC	O	Vasily_Vereshchagin	World fame
+I-SEC	O	Vasily_Vereshchagin	Last years
+O	O	Vasily_Vereshchagin	Legacy
+O	O	Vasily_Vereshchagin	Gallery
+O	O	Vasily_Vereshchagin	See also
+O	O	Vasily_Vereshchagin	Further reading
+O	O	Vasily_Vereshchagin	External links
+O	O	Vasily_Vereshchagin	Notes
+B-SEC	B-SEC	Kim_Källström	Early life
+I-SEC	I-SEC	Kim_Källström	Club career
+I-SEC	I-SEC	Kim_Källström	International career
+O	I-SEC	Kim_Källström	Playing style
+O	I-SEC	Kim_Källström	International goals
+O	I-SEC	Kim_Källström	Career statistics
+O	O	Kim_Källström	Honours
+O	O	Kim_Källström	References
+O	O	Kim_Källström	External links
+B-SEC	O	Shirley_Temple	Early years
+I-SEC	O	Shirley_Temple	Fox films
+I-SEC	O	Shirley_Temple	20th Century Fox
+I-SEC	O	Shirley_Temple	Last films and retirement
+O	O	Shirley_Temple	Temple-related merchandise and endorsements
+O	O	Shirley_Temple	Myths and rumors
+O	O	Shirley_Temple	Marriages and children
+O	O	Shirley_Temple	Television
+O	B-SEC	Shirley_Temple	Life after Hollywood
+O	I-SEC	Shirley_Temple	Death
+O	O	Shirley_Temple	Awards and honors
+O	O	Shirley_Temple	Filmography
+O	O	Shirley_Temple	See also
+O	O	Shirley_Temple	References
+O	O	Shirley_Temple	External links
+B-SEC	B-SEC	Tancredo_Neves	Early life and career
+I-SEC	I-SEC	Tancredo_Neves	Politician, Mineiro-style
+I-SEC	I-SEC	Tancredo_Neves	The democratization of Brazil - Tancredo state legislator, and federal minister
+I-SEC	I-SEC	Tancredo_Neves	Prime Minister
+I-SEC	I-SEC	Tancredo_Neves	Opposition to the Military Regime
+I-SEC	I-SEC	Tancredo_Neves	"Diretas Já" and the Electoral College
+I-SEC	I-SEC	Tancredo_Neves	Illness and death
+O	O	Tancredo_Neves	Legacy and tributes
+O	O	Tancredo_Neves	Family
+O	O	Tancredo_Neves	References
+O	O	Tancredo_Neves	External links
+B-SEC	O	Igor_Smirnov	Childhood
+I-SEC	B-SEC	Igor_Smirnov	Professional life
+I-SEC	O	Igor_Smirnov	The strike campaign
+I-SEC	O	Igor_Smirnov	Entry into politics
+I-SEC	O	Igor_Smirnov	Proclamation of independence
+I-SEC	O	Igor_Smirnov	Smirnov after the war
+O	O	Igor_Smirnov	Cabinet
+O	O	Igor_Smirnov	Notes
+O	O	Igor_Smirnov	References
+O	O	Igor_Smirnov	External links
+O	O	Igor_Smirnov	See also
+B-SEC	B-SEC	Hal_Holbrook	Early life
+I-SEC	I-SEC	Hal_Holbrook	Career
+I-SEC	I-SEC	Hal_Holbrook	Personal life
+O	O	Hal_Holbrook	Filmography
+O	O	Hal_Holbrook	Awards and nominations
+O	O	Hal_Holbrook	References
+O	O	Hal_Holbrook	Further reading
+O	O	Hal_Holbrook	External links
+B-SEC	B-SEC	Antoine-Jean_Gros	Early life and training
+I-SEC	I-SEC	Antoine-Jean_Gros	Death
+O	O	Antoine-Jean_Gros	Renown
+O	O	Antoine-Jean_Gros	Iconography
+O	O	Antoine-Jean_Gros	See also
+O	O	Antoine-Jean_Gros	Notes
+O	O	Antoine-Jean_Gros	References
+O	O	Antoine-Jean_Gros	External links
+B-SEC	B-SEC	Isaac_Levitan	Life and work
+O	O	Isaac_Levitan	Legacy
+O	O	Isaac_Levitan	Gallery
+O	O	Isaac_Levitan	See also
+O	O	Isaac_Levitan	References
+O	O	Isaac_Levitan	Sources
+O	O	Isaac_Levitan	External links
+B-SEC	B-SEC	Alessandro_Baricco	Life and works
+O	O	Alessandro_Baricco	Bibliography
+O	O	Alessandro_Baricco	Awards
+O	O	Alessandro_Baricco	References
+O	O	Alessandro_Baricco	External links
+B-SEC	B-SEC	Nur_Muhammad_Taraki	Early life and career
+I-SEC	O	Nur_Muhammad_Taraki	Presidency
+O	O	Nur_Muhammad_Taraki	References
+O	O	Nur_Muhammad_Taraki	External links
+B-SEC	B-SEC	Hippasus	Life
+O	O	Hippasus	Doctrines
+O	O	Hippasus	See also
+O	O	Hippasus	References
+O	O	Hippasus	External links
+B-SEC	B-SEC	Mark_Hughes	Club career
+I-SEC	I-SEC	Mark_Hughes	International career
+I-SEC	I-SEC	Mark_Hughes	Managerial career
+I-SEC	I-SEC	Mark_Hughes	Personal life
+O	I-SEC	Mark_Hughes	Career statistics
+O	O	Mark_Hughes	Honours
+O	O	Mark_Hughes	References
+O	O	Mark_Hughes	External links
+B-SEC	B-SEC	Andrey_Yeryomenko	Military career
+I-SEC	O	Andrey_Yeryomenko	After the war
+O	O	Andrey_Yeryomenko	Honours and awards
+O	O	Andrey_Yeryomenko	Commands
+O	O	Andrey_Yeryomenko	References
+B-SEC	B-SEC	Sasha_Cohen	Personal life
+I-SEC	I-SEC	Sasha_Cohen	Skating career
+O	O	Sasha_Cohen	Skating trademarks
+O	O	Sasha_Cohen	Ice shows
+O	O	Sasha_Cohen	Programs
+O	O	Sasha_Cohen	Competitive highlights
+O	O	Sasha_Cohen	Detailed results
+O	O	Sasha_Cohen	See also
+O	O	Sasha_Cohen	Further reading
+O	O	Sasha_Cohen	References
+O	O	Sasha_Cohen	External links
+B-SEC	B-SEC	Emily_Blunt	Early life
+I-SEC	I-SEC	Emily_Blunt	Career
+I-SEC	I-SEC	Emily_Blunt	Personal life
+O	O	Emily_Blunt	Filmography
+O	O	Emily_Blunt	Television
+O	O	Emily_Blunt	Stage
+O	O	Emily_Blunt	Radio
+O	O	Emily_Blunt	Awards and nominations
+O	O	Emily_Blunt	References
+O	O	Emily_Blunt	External links
+B-SEC	B-SEC	Christopher_Wolstenholme	Early and personal life
+O	O	Christopher_Wolstenholme	Muse
+O	O	Christopher_Wolstenholme	Musical equipment
+O	O	Christopher_Wolstenholme	References
+O	O	Christopher_Wolstenholme	External links
+B-SEC	O	Gerry_Rafferty	Early years
+I-SEC	B-SEC	Gerry_Rafferty	Musical career
+I-SEC	I-SEC	Gerry_Rafferty	Attitude toward the music industry
+I-SEC	I-SEC	Gerry_Rafferty	Personal life
+I-SEC	I-SEC	Gerry_Rafferty	Death
+O	O	Gerry_Rafferty	Discography
+O	O	Gerry_Rafferty	References
+O	O	Gerry_Rafferty	External links
+B-SEC	B-SEC	Daniel_Dae_Kim	Early life
+I-SEC	I-SEC	Daniel_Dae_Kim	Career
+O	I-SEC	Daniel_Dae_Kim	Other Projects
+O	I-SEC	Daniel_Dae_Kim	3AD
+O	I-SEC	Daniel_Dae_Kim	Personal life
+O	O	Daniel_Dae_Kim	Filmography
+O	O	Daniel_Dae_Kim	References
+O	O	Daniel_Dae_Kim	External links
+B-SEC	O	John_Gurdon	Early days
+I-SEC	O	John_Gurdon	Research
+I-SEC	O	John_Gurdon	Politics and religion
+O	O	John_Gurdon	Honours and awards
+O	O	John_Gurdon	References
+O	O	John_Gurdon	External links
+B-SEC	B-SEC	Jamie_Bell	Early life and education
+I-SEC	I-SEC	Jamie_Bell	Career
+I-SEC	I-SEC	Jamie_Bell	Personal life
+O	O	Jamie_Bell	Filmography
+O	O	Jamie_Bell	Awards and nominations
+O	O	Jamie_Bell	References
+O	O	Jamie_Bell	External links
+B-SEC	B-SEC	Louis_Antoine,_Duke_of_Angoulême	Biography
+O	O	Louis_Antoine,_Duke_of_Angoulême	Ancestry
+O	O	Louis_Antoine,_Duke_of_Angoulême	In fiction and film
+O	O	Louis_Antoine,_Duke_of_Angoulême	Footnotes
+O	O	Louis_Antoine,_Duke_of_Angoulême	See also
+B-SEC	B-SEC	Claudio_López_(footballer)	Career
+I-SEC	O	Claudio_López_(footballer)	International
+O	O	Claudio_López_(footballer)	Club statistics
+O	O	Claudio_López_(footballer)	National team statistics
+O	O	Claudio_López_(footballer)	Honours
+O	O	Claudio_López_(footballer)	See also
+O	O	Claudio_López_(footballer)	References
+O	O	Claudio_López_(footballer)	External links
+B-SEC	B-SEC	Francesco_Bartolomeo_Rastrelli	Biography
+O	O	Francesco_Bartolomeo_Rastrelli	References in modern culture
+O	O	Francesco_Bartolomeo_Rastrelli	Ten extant buildings by Rastrelli
+O	O	Francesco_Bartolomeo_Rastrelli	Demolished buildings
+O	O	Francesco_Bartolomeo_Rastrelli	References
+O	O	Francesco_Bartolomeo_Rastrelli	External links
+B-SEC	B-SEC	Yulia_Tymoshenko	Early life and career
+I-SEC	I-SEC	Yulia_Tymoshenko	Political career
+I-SEC	I-SEC	Yulia_Tymoshenko	Political views
+I-SEC	I-SEC	Yulia_Tymoshenko	Family and personal life
+O	O	Yulia_Tymoshenko	Cultural and political image
+O	O	Yulia_Tymoshenko	Cultural references
+O	O	Yulia_Tymoshenko	Notes
+O	O	Yulia_Tymoshenko	References
+O	O	Yulia_Tymoshenko	Further reading
+O	O	Yulia_Tymoshenko	External links
+B-SEC	B-SEC	America_Ferrera	Early life
+I-SEC	I-SEC	America_Ferrera	Career
+I-SEC	I-SEC	America_Ferrera	Personal life
+O	O	America_Ferrera	Filmography
+O	O	America_Ferrera	Awards and nominations
+O	O	America_Ferrera	References
+O	O	America_Ferrera	Bibliography
+O	O	America_Ferrera	External links
+B-SEC	B-SEC	Freddie_Highmore	Early life and education
+I-SEC	I-SEC	Freddie_Highmore	Career
+O	O	Freddie_Highmore	Filmography
+O	O	Freddie_Highmore	Awards and nominations
+O	O	Freddie_Highmore	References
+O	O	Freddie_Highmore	External links
+B-SEC	B-SEC	Jermain_Defoe	Early life
+I-SEC	I-SEC	Jermain_Defoe	Club career
+I-SEC	I-SEC	Jermain_Defoe	International career
+O	I-SEC	Jermain_Defoe	International statistics
+O	I-SEC	Jermain_Defoe	Honours
+O	I-SEC	Jermain_Defoe	Career statistics
+O	I-SEC	Jermain_Defoe	Personal life
+O	O	Jermain_Defoe	Notes
+O	O	Jermain_Defoe	References
+O	O	Jermain_Defoe	External links
+B-SEC	B-SEC	Guillermo_Ochoa	Club career
+I-SEC	I-SEC	Guillermo_Ochoa	International career
+O	I-SEC	Guillermo_Ochoa	Career statistics
+O	I-SEC	Guillermo_Ochoa	Personal life
+O	O	Guillermo_Ochoa	References
+O	O	Guillermo_Ochoa	External links
+B-SEC	B-SEC	Claude_Makélélé	Club career
+I-SEC	I-SEC	Claude_Makélélé	International career
+I-SEC	I-SEC	Claude_Makélélé	Coaching career
+I-SEC	I-SEC	Claude_Makélélé	Personal life
+O	I-SEC	Claude_Makélélé	Career statistics
+O	O	Claude_Makélélé	National team
+O	O	Claude_Makélélé	Honours
+O	O	Claude_Makélélé	References
+O	O	Claude_Makélélé	External links
+B-SEC	B-SEC	Andoni_Zubizarreta	Club career
+I-SEC	I-SEC	Andoni_Zubizarreta	International career
+O	O	Andoni_Zubizarreta	Honours
+O	O	Andoni_Zubizarreta	Statistics
+O	O	Andoni_Zubizarreta	References
+O	O	Andoni_Zubizarreta	External links
+B-SEC	B-SEC	Donnie_Yen	Early life
+I-SEC	I-SEC	Donnie_Yen	Career
+O	I-SEC	Donnie_Yen	Action choreography
+O	I-SEC	Donnie_Yen	Martial arts history, style and philosophy
+O	I-SEC	Donnie_Yen	Personal life
+O	O	Donnie_Yen	Filmography
+O	O	Donnie_Yen	Awards and nominations
+O	O	Donnie_Yen	See also
+O	O	Donnie_Yen	References
+O	O	Donnie_Yen	External links
+B-SEC	B-SEC	Giovanni_van_Bronckhorst	Club career
+I-SEC	I-SEC	Giovanni_van_Bronckhorst	International career
+I-SEC	I-SEC	Giovanni_van_Bronckhorst	Managerial career
+O	I-SEC	Giovanni_van_Bronckhorst	Career statistics
+O	O	Giovanni_van_Bronckhorst	Honours
+O	O	Giovanni_van_Bronckhorst	References
+O	O	Giovanni_van_Bronckhorst	External links
+B-SEC	B-SEC	Edwin_G._Krebs	Early life and education
+I-SEC	I-SEC	Edwin_G._Krebs	Research work
+I-SEC	I-SEC	Edwin_G._Krebs	Later life and death
+O	O	Edwin_G._Krebs	References and notes
+O	O	Edwin_G._Krebs	Bibliography
+O	O	Edwin_G._Krebs	External links
+B-SEC	B-SEC	Dunga	Playing career
+O	O	Dunga	Management
+O	O	Dunga	Queens Park Rangers dispute
+O	O	Dunga	Statistics
+O	O	Dunga	Honours
+O	O	Dunga	References
+O	O	Dunga	External links
+B-SEC	B-SEC	Roger_Guillemin	Biography
+O	O	Roger_Guillemin	Awards and honors
+O	O	Roger_Guillemin	Books
+O	O	Roger_Guillemin	References
+O	O	Roger_Guillemin	External links
+B-SEC	O	Joan_of_France,_Duchess_of_Berry	Family
+I-SEC	O	Joan_of_France,_Duchess_of_Berry	Marriage
+I-SEC	B-SEC	Joan_of_France,_Duchess_of_Berry	Religious life and sainthood
+O	O	Joan_of_France,_Duchess_of_Berry	Legacy
+O	O	Joan_of_France,_Duchess_of_Berry	Ancestry
+O	O	Joan_of_France,_Duchess_of_Berry	Notelist
+O	O	Joan_of_France,_Duchess_of_Berry	References
+O	O	Joan_of_France,_Duchess_of_Berry	Bibliography
+B-SEC	B-SEC	Tarcisio_Bertone	Early life
+I-SEC	O	Tarcisio_Bertone	Archbishop and Cardinal
+I-SEC	O	Tarcisio_Bertone	Cardinal Secretary of State
+I-SEC	O	Tarcisio_Bertone	Retirement
+O	O	Tarcisio_Bertone	Awards and honors
+O	O	Tarcisio_Bertone	Notes
+O	O	Tarcisio_Bertone	References
+O	O	Tarcisio_Bertone	External links
+B-SEC	B-SEC	Mauro_Camoranesi	Club career
+I-SEC	I-SEC	Mauro_Camoranesi	International career
+O	I-SEC	Mauro_Camoranesi	Club career statistics
+O	I-SEC	Mauro_Camoranesi	International career statistics
+O	O	Mauro_Camoranesi	Honours
+O	O	Mauro_Camoranesi	References
+O	O	Mauro_Camoranesi	External links
+B-SEC	B-SEC	Ellen_Pompeo	Early life
+I-SEC	I-SEC	Ellen_Pompeo	Career
+I-SEC	I-SEC	Ellen_Pompeo	Personal life
+O	O	Ellen_Pompeo	Filmography
+O	O	Ellen_Pompeo	Awards and nominations
+O	O	Ellen_Pompeo	References
+O	O	Ellen_Pompeo	External links
+B-SEC	B-SEC	Tim_Hunt	Early life
+I-SEC	I-SEC	Tim_Hunt	Higher education and career
+O	I-SEC	Tim_Hunt	Awards and Honours
+O	I-SEC	Tim_Hunt	Personal Life
+O	O	Tim_Hunt	References
+B-SEC	B-SEC	Antipope_Benedict_XIII	Biography
+O	I-SEC	Antipope_Benedict_XIII	Burials
+O	I-SEC	Antipope_Benedict_XIII	Notes
+O	I-SEC	Antipope_Benedict_XIII	Accounts on his Life
+O	O	Antipope_Benedict_XIII	References
+O	O	Antipope_Benedict_XIII	External links
+B-SEC	B-SEC	Nikki_Reed	Early life
+I-SEC	I-SEC	Nikki_Reed	Career
+I-SEC	I-SEC	Nikki_Reed	Personal life
+O	O	Nikki_Reed	Activism
+O	O	Nikki_Reed	Filmography
+O	O	Nikki_Reed	Awards and nominations
+O	O	Nikki_Reed	References
+O	O	Nikki_Reed	External links
+B-SEC	B-SEC	John_Atta_Mills	Early life
+I-SEC	I-SEC	John_Atta_Mills	Early career
+I-SEC	I-SEC	John_Atta_Mills	Politics
+I-SEC	I-SEC	John_Atta_Mills	Personal life
+I-SEC	I-SEC	John_Atta_Mills	Other activities and projects
+I-SEC	I-SEC	John_Atta_Mills	Illness and death
+O	O	John_Atta_Mills	Selected writings
+O	O	John_Atta_Mills	Memorials and legacy
+O	O	John_Atta_Mills	See also
+O	O	John_Atta_Mills	References
+O	O	John_Atta_Mills	External links
+B-SEC	B-SEC	Massimo_Ambrosini	Club career
+I-SEC	I-SEC	Massimo_Ambrosini	International career
+O	I-SEC	Massimo_Ambrosini	Honours
+O	I-SEC	Massimo_Ambrosini	Career statistics
+O	I-SEC	Massimo_Ambrosini	Personal life
+O	O	Massimo_Ambrosini	Trivial
+O	O	Massimo_Ambrosini	References
+O	O	Massimo_Ambrosini	External links
+B-SEC	B-SEC	Vasily_Perov	Life and career
+O	O	Vasily_Perov	Selected works
+O	O	Vasily_Perov	External links
+B-SEC	B-SEC	Will_Champion	Early life and education
+I-SEC	I-SEC	Will_Champion	Career
+I-SEC	I-SEC	Will_Champion	Personal life
+O	O	Will_Champion	Equipment
+O	O	Will_Champion	Notes
+O	O	Will_Champion	External links
+O	O	Will_Champion	References
+B-SEC	B-SEC	Nikolay_Davydenko	Personal life
+I-SEC	I-SEC	Nikolay_Davydenko	Tennis career
+O	I-SEC	Nikolay_Davydenko	Playing style
+O	I-SEC	Nikolay_Davydenko	Equipment
+O	I-SEC	Nikolay_Davydenko	Controversies
+O	I-SEC	Nikolay_Davydenko	Career statistics
+O	O	Nikolay_Davydenko	References
+O	O	Nikolay_Davydenko	External links
+B-SEC	B-SEC	Rogério_Ceni	Club career
+I-SEC	I-SEC	Rogério_Ceni	International career
+O	I-SEC	Rogério_Ceni	Style of play
+O	I-SEC	Rogério_Ceni	Personal life
+O	O	Rogério_Ceni	Statistics
+O	O	Rogério_Ceni	Honours
+O	O	Rogério_Ceni	See also
+O	O	Rogério_Ceni	References
+O	O	Rogério_Ceni	External links
+B-SEC	B-SEC	AnnaSophia_Robb	Early life
+I-SEC	I-SEC	AnnaSophia_Robb	Career
+I-SEC	I-SEC	AnnaSophia_Robb	Personal life
+O	O	AnnaSophia_Robb	Filmography
+O	O	AnnaSophia_Robb	Soundtrack appearance
+O	O	AnnaSophia_Robb	Awards and nominations
+O	O	AnnaSophia_Robb	References
+O	O	AnnaSophia_Robb	External links
+B-SEC	B-SEC	Will.i.am	Early life
+I-SEC	I-SEC	Will.i.am	Music career
+O	I-SEC	Will.i.am	Other ventures
+O	I-SEC	Will.i.am	Personal life
+O	O	Will.i.am	Discography
+O	O	Will.i.am	Filmography
+O	O	Will.i.am	Tours
+O	O	Will.i.am	Awards
+O	O	Will.i.am	Notes
+O	O	Will.i.am	References
+O	O	Will.i.am	External links
+B-SEC	B-SEC	Giovanni_Gronchi	Biography
+O	O	Giovanni_Gronchi	See also
+O	O	Giovanni_Gronchi	References
+O	O	Giovanni_Gronchi	External links
+B-SEC	O	Bobby_Fischer	Early years
+I-SEC	O	Bobby_Fischer	Young champion
+I-SEC	O	Bobby_Fischer	Grandmaster, candidate, author
+I-SEC	O	Bobby_Fischer	U.S. Championships
+I-SEC	O	Bobby_Fischer	Olympiads
+I-SEC	O	Bobby_Fischer	1960–61
+I-SEC	O	Bobby_Fischer	1962: success, setback, accusations of collusion
+I-SEC	O	Bobby_Fischer	Religious affiliation
+I-SEC	O	Bobby_Fischer	Semi-retirement in the mid-1960s
+I-SEC	O	Bobby_Fischer	Successful return
+I-SEC	O	Bobby_Fischer	World Champion
+I-SEC	O	Bobby_Fischer	Sudden obscurity
+I-SEC	O	Bobby_Fischer	1992 Spassky rematch
+I-SEC	B-SEC	Bobby_Fischer	Life as an émigré
+I-SEC	I-SEC	Bobby_Fischer	Death, estate dispute, and exhumation
+O	O	Bobby_Fischer	Contributions to chess
+O	O	Bobby_Fischer	In popular culture
+O	O	Bobby_Fischer	Writings
+O	O	Bobby_Fischer	Tournament and match summaries
+O	O	Bobby_Fischer	Notable games
+O	O	Bobby_Fischer	See also
+O	O	Bobby_Fischer	References
+O	O	Bobby_Fischer	Further reading
+O	O	Bobby_Fischer	External links
+B-SEC	B-SEC	Chris_Hoy	Early life
+I-SEC	I-SEC	Chris_Hoy	Career
+I-SEC	I-SEC	Chris_Hoy	Retirement
+I-SEC	I-SEC	Chris_Hoy	Personal life
+O	O	Chris_Hoy	Medal history
+O	O	Chris_Hoy	Racing record
+O	O	Chris_Hoy	Honours
+O	O	Chris_Hoy	See also
+O	O	Chris_Hoy	References
+O	O	Chris_Hoy	Bibliography
+O	O	Chris_Hoy	External links
+B-SEC	B-SEC	Daniella_Monet	Personal life
+I-SEC	I-SEC	Daniella_Monet	Acting career
+O	O	Daniella_Monet	Filmography
+O	O	Daniella_Monet	Discography
+O	O	Daniella_Monet	References
+O	O	Daniella_Monet	External links
+B-SEC	B-SEC	Gabriel_Lippmann	Early life and education
+I-SEC	I-SEC	Gabriel_Lippmann	Career
+I-SEC	O	Gabriel_Lippmann	Academic affiliations
+I-SEC	O	Gabriel_Lippmann	Marriage
+O	O	Gabriel_Lippmann	Literature
+O	O	Gabriel_Lippmann	See also
+O	O	Gabriel_Lippmann	References
+O	O	Gabriel_Lippmann	External links
+B-SEC	B-SEC	David_Pizarro	Club career
+I-SEC	I-SEC	David_Pizarro	International career
+O	O	David_Pizarro	Honours
+O	O	David_Pizarro	References
+B-SEC	B-SEC	Sunita_Williams	Ancestry and early life
+I-SEC	I-SEC	Sunita_Williams	Military career
+I-SEC	I-SEC	Sunita_Williams	NASA career
+I-SEC	I-SEC	Sunita_Williams	Spaceflight experience
+I-SEC	I-SEC	Sunita_Williams	Spacewalks
+I-SEC	I-SEC	Sunita_Williams	2007 visit to India
+I-SEC	I-SEC	Sunita_Williams	2014 visit to Slovenia
+I-SEC	I-SEC	Sunita_Williams	Personal life
+O	O	Sunita_Williams	Organizations
+O	O	Sunita_Williams	Honors and awards
+O	O	Sunita_Williams	See also
+O	O	Sunita_Williams	References
+O	O	Sunita_Williams	External links
+B-SEC	B-SEC	Andre_Iguodala	Early life and high school career
+I-SEC	I-SEC	Andre_Iguodala	College career
+I-SEC	I-SEC	Andre_Iguodala	NBA career
+I-SEC	I-SEC	Andre_Iguodala	International career
+O	I-SEC	Andre_Iguodala	Miscellaneous
+O	I-SEC	Andre_Iguodala	Personal life
+O	I-SEC	Andre_Iguodala	NBA career statistics
+O	O	Andre_Iguodala	See also
+O	O	Andre_Iguodala	References
+O	O	Andre_Iguodala	External links
+B-SEC	B-SEC	Juan_Silveira_dos_Santos	Club career
+I-SEC	I-SEC	Juan_Silveira_dos_Santos	International career
+O	I-SEC	Juan_Silveira_dos_Santos	Career statistics
+O	O	Juan_Silveira_dos_Santos	International goals
+O	O	Juan_Silveira_dos_Santos	Honours
+O	O	Juan_Silveira_dos_Santos	References
+O	O	Juan_Silveira_dos_Santos	External links
+B-SEC	B-SEC	Didier_Zokora	Club career
+I-SEC	I-SEC	Didier_Zokora	International career
+O	O	Didier_Zokora	Honours
+O	O	Didier_Zokora	References
+O	O	Didier_Zokora	External links
+B-SEC	B-SEC	Nihat_Kahveci	Biography
+I-SEC	I-SEC	Nihat_Kahveci	Club career
+I-SEC	I-SEC	Nihat_Kahveci	Retirement
+I-SEC	I-SEC	Nihat_Kahveci	Coaching career
+I-SEC	I-SEC	Nihat_Kahveci	International career
+O	I-SEC	Nihat_Kahveci	Career statistics
+O	O	Nihat_Kahveci	Honours
+O	O	Nihat_Kahveci	References
+O	O	Nihat_Kahveci	External links
+B-SEC	B-SEC	Yukio_Hatoyama	Early life and family
+I-SEC	I-SEC	Yukio_Hatoyama	Political career
+I-SEC	O	Yukio_Hatoyama	Prime minister
+I-SEC	O	Yukio_Hatoyama	After Prime Ministership
+O	O	Yukio_Hatoyama	Awards and honors
+O	O	Yukio_Hatoyama	See also
+O	O	Yukio_Hatoyama	References
+O	O	Yukio_Hatoyama	Bibliography
+O	O	Yukio_Hatoyama	External links
+B-SEC	B-SEC	The_Rev	Career
+I-SEC	I-SEC	The_Rev	Equipment
+I-SEC	I-SEC	The_Rev	Death
+O	O	The_Rev	Legacy
+O	O	The_Rev	Discography
+O	O	The_Rev	References
+B-SEC	B-SEC	Riccardo_Montolivo	Club career
+I-SEC	I-SEC	Riccardo_Montolivo	International career
+O	I-SEC	Riccardo_Montolivo	Career statistics
+O	I-SEC	Riccardo_Montolivo	Honours
+O	I-SEC	Riccardo_Montolivo	Personal life
+O	O	Riccardo_Montolivo	References
+O	O	Riccardo_Montolivo	External links
+B-SEC	B-SEC	Jens_Nowotny	Club career
+I-SEC	I-SEC	Jens_Nowotny	International career
+O	O	Jens_Nowotny	Honours
+O	O	Jens_Nowotny	References
+O	O	Jens_Nowotny	External links
+B-SEC	B-SEC	Giorgio_Napolitano	Early life
+I-SEC	O	Giorgio_Napolitano	Election as President
+I-SEC	O	Giorgio_Napolitano	Presidency
+O	O	Giorgio_Napolitano	Honours and decorations
+O	O	Giorgio_Napolitano	Notes
+O	O	Giorgio_Napolitano	External links
+B-SEC	B-SEC	Chloë_Grace_Moretz	Early life
+I-SEC	I-SEC	Chloë_Grace_Moretz	Acting
+I-SEC	I-SEC	Chloë_Grace_Moretz	Modeling
+I-SEC	I-SEC	Chloë_Grace_Moretz	Personal life
+O	O	Chloë_Grace_Moretz	Filmography
+O	O	Chloë_Grace_Moretz	Awards and nominations
+O	O	Chloë_Grace_Moretz	References
+O	O	Chloë_Grace_Moretz	External links
+B-SEC	B-SEC	Shane_Smeltz	Early and personal life
+I-SEC	I-SEC	Shane_Smeltz	Club career
+I-SEC	I-SEC	Shane_Smeltz	International career
+O	I-SEC	Shane_Smeltz	Career statistics
+O	O	Shane_Smeltz	Honours
+O	O	Shane_Smeltz	See also
+O	O	Shane_Smeltz	References
+O	O	Shane_Smeltz	External links
+B-SEC	B-SEC	Jimmy_Wales	Early life and education
+I-SEC	I-SEC	Jimmy_Wales	Career
+O	I-SEC	Jimmy_Wales	Political and economic views
+O	I-SEC	Jimmy_Wales	Personal life
+O	O	Jimmy_Wales	Honors, awards and positions
+O	O	Jimmy_Wales	Published works
+O	O	Jimmy_Wales	References
+O	O	Jimmy_Wales	External links
+B-SEC	B-SEC	Nigel_de_Jong	Club career
+I-SEC	I-SEC	Nigel_de_Jong	International career
+O	I-SEC	Nigel_de_Jong	Style of play
+O	I-SEC	Nigel_de_Jong	Career statistics
+O	I-SEC	Nigel_de_Jong	Personal life
+O	O	Nigel_de_Jong	Sponsorship
+O	O	Nigel_de_Jong	Honours
+O	O	Nigel_de_Jong	References
+O	O	Nigel_de_Jong	External links
+B-SEC	B-SEC	Roman_Weidenfeller	Career
+I-SEC	I-SEC	Roman_Weidenfeller	International career
+O	I-SEC	Roman_Weidenfeller	Honours
+O	I-SEC	Roman_Weidenfeller	Career statistics
+O	O	Roman_Weidenfeller	International statistics
+O	O	Roman_Weidenfeller	References
+O	O	Roman_Weidenfeller	External links
+B-SEC	B-SEC	Juan_Martín_del_Potro	Early life
+I-SEC	I-SEC	Juan_Martín_del_Potro	Tennis career
+O	I-SEC	Juan_Martín_del_Potro	Playing style
+O	I-SEC	Juan_Martín_del_Potro	Equipment and apparel
+O	I-SEC	Juan_Martín_del_Potro	Rivalries
+O	I-SEC	Juan_Martín_del_Potro	Significant finals
+O	I-SEC	Juan_Martín_del_Potro	Career statistics
+O	O	Juan_Martín_del_Potro	References
+O	O	Juan_Martín_del_Potro	External links
+B-SEC	B-SEC	Sebastian_Kehl	Club career
+I-SEC	I-SEC	Sebastian_Kehl	International career
+I-SEC	I-SEC	Sebastian_Kehl	Personal life
+O	I-SEC	Sebastian_Kehl	Career statistics
+O	O	Sebastian_Kehl	Honours
+O	O	Sebastian_Kehl	References
+O	O	Sebastian_Kehl	External links
+B-SEC	B-SEC	Conan_O'Brien	Early life
+I-SEC	I-SEC	Conan_O'Brien	Career
+I-SEC	I-SEC	Conan_O'Brien	Personal life
+O	O	Conan_O'Brien	Filmography
+O	O	Conan_O'Brien	Awards and nominations
+O	O	Conan_O'Brien	References
+O	O	Conan_O'Brien	Bibliography
+O	O	Conan_O'Brien	Further reading
+O	O	Conan_O'Brien	External links
+B-SEC	B-SEC	Jonny_Evans	Club career
+I-SEC	I-SEC	Jonny_Evans	International career
+I-SEC	I-SEC	Jonny_Evans	Personal life
+O	I-SEC	Jonny_Evans	Career statistics
+O	O	Jonny_Evans	Honours
+O	O	Jonny_Evans	Notes
+O	O	Jonny_Evans	References
+O	O	Jonny_Evans	External links
+B-SEC	B-SEC	Slaven_Bilić	Playing career
+I-SEC	I-SEC	Slaven_Bilić	Honours
+I-SEC	I-SEC	Slaven_Bilić	Managing career
+O	I-SEC	Slaven_Bilić	Management style
+O	I-SEC	Slaven_Bilić	Quotes
+O	I-SEC	Slaven_Bilić	Personal life
+O	O	Slaven_Bilić	References
+O	O	Slaven_Bilić	External links
+B-SEC	B-SEC	Stephenie_Meyer	Early life
+I-SEC	I-SEC	Stephenie_Meyer	The Twilight series
+I-SEC	I-SEC	Stephenie_Meyer	The Host
+O	I-SEC	Stephenie_Meyer	Analysis
+O	I-SEC	Stephenie_Meyer	Personal life
+O	O	Stephenie_Meyer	Film producer
+O	O	Stephenie_Meyer	Other works
+O	O	Stephenie_Meyer	Publications
+O	O	Stephenie_Meyer	See also
+O	O	Stephenie_Meyer	References
+O	O	Stephenie_Meyer	External links
+B-SEC	B-SEC	Jürgen_Melzer	Career
+O	I-SEC	Jürgen_Melzer	Equipment
+O	I-SEC	Jürgen_Melzer	Significant finals
+O	I-SEC	Jürgen_Melzer	ATP career finals
+O	O	Jürgen_Melzer	References
+O	O	Jürgen_Melzer	External links
+O	O	Elvira_Lindo	References
+O	O	Elvira_Lindo	External links
+B-SEC	B-SEC	Keke_Palmer	Early life
+I-SEC	I-SEC	Keke_Palmer	Career
+O	O	Keke_Palmer	Artistry
+O	O	Keke_Palmer	Philanthropy
+O	O	Keke_Palmer	Filmography
+O	O	Keke_Palmer	Stage
+O	O	Keke_Palmer	Discography
+O	O	Keke_Palmer	Awards and nominations
+O	O	Keke_Palmer	References
+O	O	Keke_Palmer	External links
+B-SEC	B-SEC	Ludwig_von_Mises	Biography
+O	O	Ludwig_von_Mises	Work in the United States
+O	O	Ludwig_von_Mises	Contributions and influence in economics
+O	O	Ludwig_von_Mises	Criticisms
+O	O	Ludwig_von_Mises	Bibliography
+O	O	Ludwig_von_Mises	See also
+O	O	Ludwig_von_Mises	References
+O	O	Ludwig_von_Mises	Further reading
+O	O	Ludwig_von_Mises	External links
+B-SEC	B-SEC	Steve_Mandanda	Football career
+I-SEC	I-SEC	Steve_Mandanda	International career
+I-SEC	I-SEC	Steve_Mandanda	Personal life
+O	O	Steve_Mandanda	Honours
+O	O	Steve_Mandanda	Statistics
+O	O	Steve_Mandanda	References
+O	O	Steve_Mandanda	External links
+B-SEC	B-SEC	Mordechai_Vanunu	Early and educational life
+I-SEC	O	Mordechai_Vanunu	Negev Nuclear Research Center
+I-SEC	O	Mordechai_Vanunu	Disclosure, abduction and publication
+I-SEC	O	Mordechai_Vanunu	Imprisonment
+I-SEC	O	Mordechai_Vanunu	Release, liberties restrictions and asylum applications
+I-SEC	O	Mordechai_Vanunu	Arrests and hearings
+O	O	Mordechai_Vanunu	Awards and honours
+O	O	Mordechai_Vanunu	See also
+O	O	Mordechai_Vanunu	References
+O	O	Mordechai_Vanunu	Further reading
+O	O	Mordechai_Vanunu	External links
+B-SEC	B-SEC	Gilles_Simon	Personal life
+I-SEC	I-SEC	Gilles_Simon	Career
+O	I-SEC	Gilles_Simon	Coaching team and equipment
+O	I-SEC	Gilles_Simon	Significant finals
+O	I-SEC	Gilles_Simon	ATP career finals
+O	I-SEC	Gilles_Simon	Singles performance timeline
+O	I-SEC	Gilles_Simon	Doubles performance timeline
+O	I-SEC	Gilles_Simon	ATP Tour career earnings
+O	O	Gilles_Simon	Top-10 wins per season
+O	O	Gilles_Simon	References
+O	O	Gilles_Simon	External links
+B-SEC	B-SEC	Hugo_Almeida	Club career
+I-SEC	I-SEC	Hugo_Almeida	International career
+O	O	Hugo_Almeida	Honours
+O	O	Hugo_Almeida	Club statistics
+O	O	Hugo_Almeida	References
+O	O	Hugo_Almeida	External links
+B-SEC	B-SEC	Orson_Scott_Card	Early life
+O	I-SEC	Orson_Scott_Card	Fiction
+O	I-SEC	Orson_Scott_Card	On writing
+O	I-SEC	Orson_Scott_Card	Opinion
+O	I-SEC	Orson_Scott_Card	Personal life
+O	O	Orson_Scott_Card	Awards
+O	O	Orson_Scott_Card	Works
+O	O	Orson_Scott_Card	See also
+O	O	Orson_Scott_Card	References
+O	O	Orson_Scott_Card	Further reading
+O	O	Orson_Scott_Card	External links
+B-SEC	B-SEC	Martin_Škrtel	Club career
+I-SEC	I-SEC	Martin_Škrtel	International career
+O	I-SEC	Martin_Škrtel	Career statistics
+O	O	Martin_Škrtel	Honours
+O	O	Martin_Škrtel	References
+O	O	Martin_Škrtel	External links
+B-SEC	B-SEC	Edin_Džeko	Early career
+I-SEC	I-SEC	Edin_Džeko	Club career
+I-SEC	I-SEC	Edin_Džeko	International career
+I-SEC	I-SEC	Edin_Džeko	Personal life
+O	I-SEC	Edin_Džeko	Career statistics
+O	O	Edin_Džeko	Honours
+O	O	Edin_Džeko	References
+O	O	Edin_Džeko	External links
+B-SEC	B-SEC	Rafael_Correa	Early life
+I-SEC	I-SEC	Rafael_Correa	Early career
+I-SEC	O	Rafael_Correa	Minister of Finance
+I-SEC	O	Rafael_Correa	2006 Presidential campaign
+I-SEC	O	Rafael_Correa	First Presidential Term
+I-SEC	O	Rafael_Correa	Second Presidential Term
+I-SEC	O	Rafael_Correa	General Balance (proposal/achievement) 2006–2013
+I-SEC	O	Rafael_Correa	Third Presidential Term
+O	O	Rafael_Correa	Cabinet
+O	O	Rafael_Correa	Public image
+O	O	Rafael_Correa	Honours and awards
+O	O	Rafael_Correa	Work published
+O	O	Rafael_Correa	References
+O	O	Rafael_Correa	External links
+B-SEC	O	Kanō_Jigorō	Early years
+I-SEC	O	Kanō_Jigorō	Jūjutsu
+I-SEC	O	Kanō_Jigorō	Kodokan judo
+I-SEC	B-SEC	Kanō_Jigorō	Professional life
+O	O	Kanō_Jigorō	Legacy
+O	O	Kanō_Jigorō	Published works
+O	O	Kanō_Jigorō	See also
+O	O	Kanō_Jigorō	References
+O	O	Kanō_Jigorō	External links
+B-SEC	B-SEC	Carol_W._Greider	Life and career
+O	O	Carol_W._Greider	Discovery of telomerase
+O	O	Carol_W._Greider	Awards and honors
+O	O	Carol_W._Greider	Selected works
+O	O	Carol_W._Greider	See also
+O	O	Carol_W._Greider	References
+O	O	Carol_W._Greider	Further reading
+O	O	Carol_W._Greider	External links
+B-SEC	B-SEC	Zé_Roberto	Club career
+I-SEC	I-SEC	Zé_Roberto	International career
+I-SEC	I-SEC	Zé_Roberto	Personal life
+O	I-SEC	Zé_Roberto	Career statistics
+O	O	Zé_Roberto	Honours
+O	O	Zé_Roberto	References
+O	O	Zé_Roberto	External links
+B-SEC	B-SEC	Orlando_Bloom	Early life
+I-SEC	I-SEC	Orlando_Bloom	Career
+I-SEC	I-SEC	Orlando_Bloom	Personal life
+O	O	Orlando_Bloom	Accolades
+O	O	Orlando_Bloom	Filmography
+O	O	Orlando_Bloom	Awards and nominations
+O	O	Orlando_Bloom	References
+O	O	Orlando_Bloom	External links
+O	O	James,_son_of_Alphaeus	Sources
+O	O	James,_son_of_Alphaeus	Identity
+O	O	James,_son_of_Alphaeus	Gospel of Mark
+O	O	James,_son_of_Alphaeus	Gospel of Matthew
+O	O	James,_son_of_Alphaeus	Tradition
+O	O	James,_son_of_Alphaeus	References
+B-SEC	O	Edward_the_Elder	Ætheling
+I-SEC	O	Edward_the_Elder	Succession and early reign
+O	O	Edward_the_Elder	Achievements
+O	O	Edward_the_Elder	Family
+O	O	Edward_the_Elder	Genealogy
+O	O	Edward_the_Elder	Notes
+O	O	Edward_the_Elder	References
+O	O	Edward_the_Elder	Sources
+O	O	Edward_the_Elder	Further reading
+O	O	Edward_the_Elder	External links
+B-SEC	B-SEC	Sebastian_Giovinco	Early life
+I-SEC	I-SEC	Sebastian_Giovinco	Club career
+I-SEC	I-SEC	Sebastian_Giovinco	International career
+O	I-SEC	Sebastian_Giovinco	Career statistics
+O	O	Sebastian_Giovinco	Honours
+O	O	Sebastian_Giovinco	References
+O	O	Sebastian_Giovinco	External links
+B-SEC	B-SEC	Liu_Xiaobo	Early life and works
+I-SEC	O	Liu_Xiaobo	Political views
+I-SEC	O	Liu_Xiaobo	Human rights activities
+I-SEC	O	Liu_Xiaobo	Charter 08
+I-SEC	O	Liu_Xiaobo	Arrests, trials, and imprisonment
+O	O	Liu_Xiaobo	Nobel Peace Prize
+O	O	Liu_Xiaobo	Major publications
+O	O	Liu_Xiaobo	Awards and honors
+O	O	Liu_Xiaobo	See also
+O	O	Liu_Xiaobo	References
+O	O	Liu_Xiaobo	External links
+B-SEC	B-SEC	Johnny_Cash	Personal life
+I-SEC	I-SEC	Johnny_Cash	Career
+I-SEC	I-SEC	Johnny_Cash	Last years
+I-SEC	I-SEC	Johnny_Cash	Death
+O	O	Johnny_Cash	Religious beliefs
+O	O	Johnny_Cash	Legacy
+O	O	Johnny_Cash	Awards and honors
+O	O	Johnny_Cash	Discography
+O	O	Johnny_Cash	Filmography
+O	O	Johnny_Cash	Published works
+O	O	Johnny_Cash	Notes
+O	O	Johnny_Cash	References
+O	O	Johnny_Cash	Further reading
+O	O	Johnny_Cash	External links
+B-SEC	B-SEC	Laurent_Koscielny	Club career
+I-SEC	I-SEC	Laurent_Koscielny	International career
+O	I-SEC	Laurent_Koscielny	Career statistics
+O	O	Laurent_Koscielny	Honours
+O	O	Laurent_Koscielny	References
+O	O	Laurent_Koscielny	External links
+B-SEC	B-SEC	F._Scott_Fitzgerald	Life and career
+O	O	F._Scott_Fitzgerald	Legacy
+O	O	F._Scott_Fitzgerald	Portrayals
+O	O	F._Scott_Fitzgerald	Bibliography
+O	O	F._Scott_Fitzgerald	See also
+O	O	F._Scott_Fitzgerald	Notes
+O	O	F._Scott_Fitzgerald	References
+O	O	F._Scott_Fitzgerald	Further reading
+O	O	F._Scott_Fitzgerald	External links
+B-SEC	B-SEC	Jennifer_Lawrence	Early life
+I-SEC	I-SEC	Jennifer_Lawrence	Career
+O	I-SEC	Jennifer_Lawrence	In the media
+O	I-SEC	Jennifer_Lawrence	Personal life
+O	O	Jennifer_Lawrence	Achievements
+O	O	Jennifer_Lawrence	Filmography
+O	O	Jennifer_Lawrence	See also
+O	O	Jennifer_Lawrence	References
+O	O	Jennifer_Lawrence	External links
+B-SEC	B-SEC	Eveline_Widmer-Schlumpf	Personal life
+O	I-SEC	Eveline_Widmer-Schlumpf	Career in Grisons
+O	O	Eveline_Widmer-Schlumpf	Election to the Federal Council
+O	O	Eveline_Widmer-Schlumpf	Expulsion from the party
+O	O	Eveline_Widmer-Schlumpf	Works
+O	O	Eveline_Widmer-Schlumpf	References
+O	O	Eveline_Widmer-Schlumpf	External links
+B-SEC	B-SEC	Alizée	Biography
+I-SEC	I-SEC	Alizée	Personal life
+O	O	Alizée	Artistry
+O	O	Alizée	Legacy
+O	O	Alizée	Other ventures
+O	O	Alizée	Works
+O	O	Alizée	See also
+O	O	Alizée	References
+O	O	Alizée	Bibliography
+O	O	Alizée	External links
+B-SEC	B-SEC	Zac_Efron	Early life and education
+I-SEC	I-SEC	Zac_Efron	Career
+I-SEC	I-SEC	Zac_Efron	Personal life
+O	O	Zac_Efron	Filmography
+O	O	Zac_Efron	Discography
+O	O	Zac_Efron	Other awards and nominations
+O	O	Zac_Efron	References
+O	O	Zac_Efron	External links
+B-SEC	B-SEC	Giovani_dos_Santos	Club career
+I-SEC	I-SEC	Giovani_dos_Santos	International career
+I-SEC	I-SEC	Giovani_dos_Santos	Personal life
+O	I-SEC	Giovani_dos_Santos	Career statistics
+O	O	Giovani_dos_Santos	Honours
+O	O	Giovani_dos_Santos	References
+O	O	Giovani_dos_Santos	External links
+B-SEC	B-SEC	Edward_VIII	Early life
+I-SEC	I-SEC	Edward_VIII	Education
+I-SEC	I-SEC	Edward_VIII	Prince of Wales
+I-SEC	I-SEC	Edward_VIII	Romances
+I-SEC	I-SEC	Edward_VIII	Reign
+I-SEC	I-SEC	Edward_VIII	Abdication
+I-SEC	I-SEC	Edward_VIII	Duke of Windsor
+I-SEC	I-SEC	Edward_VIII	Second World War
+I-SEC	I-SEC	Edward_VIII	Later life
+O	O	Edward_VIII	Titles, styles, honours and arms
+O	O	Edward_VIII	Ancestry
+O	O	Edward_VIII	See also
+O	O	Edward_VIII	Notes
+O	O	Edward_VIII	References
+O	O	Edward_VIII	Bibliography
+O	O	Edward_VIII	External links
+B-SEC	B-SEC	Anthony_Eden	Early life
+I-SEC	I-SEC	Anthony_Eden	Education and war service
+I-SEC	I-SEC	Anthony_Eden	Life and career
+I-SEC	I-SEC	Anthony_Eden	Foreign secretary and resignation (1935–38)
+I-SEC	I-SEC	Anthony_Eden	World War II (1939–45)
+I-SEC	I-SEC	Anthony_Eden	Post-war
+I-SEC	I-SEC	Anthony_Eden	Prime minister (1955–57)
+I-SEC	I-SEC	Anthony_Eden	Retirement from politics
+I-SEC	I-SEC	Anthony_Eden	Illness and death
+O	O	Anthony_Eden	Character and speaking style
+O	O	Anthony_Eden	Eden in popular culture
+O	O	Anthony_Eden	The Eden Government
+O	O	Anthony_Eden	Ancestry
+O	O	Anthony_Eden	Partial bibliography
+O	O	Anthony_Eden	Notes
+O	O	Anthony_Eden	Further reading
+O	O	Anthony_Eden	External links
+B-SEC	B-SEC	Kim_Kardashian	Life and career
+O	O	Kim_Kardashian	Filmography
+O	O	Kim_Kardashian	Awards and nominations
+O	O	Kim_Kardashian	Video game
+O	O	Kim_Kardashian	References
+O	O	Kim_Kardashian	External links
+B-SEC	B-SEC	Alessandro_Del_Piero	Early life
+I-SEC	I-SEC	Alessandro_Del_Piero	Club career
+I-SEC	I-SEC	Alessandro_Del_Piero	International career
+O	I-SEC	Alessandro_Del_Piero	Style of play
+O	I-SEC	Alessandro_Del_Piero	Outside football
+O	I-SEC	Alessandro_Del_Piero	Career statistics
+O	O	Alessandro_Del_Piero	Honours
+O	O	Alessandro_Del_Piero	Notes
+O	O	Alessandro_Del_Piero	References
+O	O	Alessandro_Del_Piero	Bibliography
+O	O	Alessandro_Del_Piero	External links
+B-SEC	B-SEC	Tom_Cleverley	Club career
+I-SEC	I-SEC	Tom_Cleverley	International career
+O	I-SEC	Tom_Cleverley	Career statistics
+O	I-SEC	Tom_Cleverley	Honours
+O	I-SEC	Tom_Cleverley	Personal life
+O	O	Tom_Cleverley	Notes
+O	O	Tom_Cleverley	References
+O	O	Tom_Cleverley	External links
+B-SEC	B-SEC	David_Duchovny	Early life
+I-SEC	I-SEC	David_Duchovny	Career
+I-SEC	I-SEC	David_Duchovny	Personal life
+O	O	David_Duchovny	Filmography
+O	O	David_Duchovny	Awards and nominations
+O	O	David_Duchovny	References
+O	O	David_Duchovny	External links
+B-SEC	B-SEC	William_II_of_the_Netherlands	Early life and education
+I-SEC	O	William_II_of_the_Netherlands	Military service
+I-SEC	O	William_II_of_the_Netherlands	Marriage
+I-SEC	O	William_II_of_the_Netherlands	Belgian Revolution
+I-SEC	O	William_II_of_the_Netherlands	Reign
+O	O	William_II_of_the_Netherlands	In fiction
+O	O	William_II_of_the_Netherlands	Titles and styles
+O	O	William_II_of_the_Netherlands	Issue
+O	O	William_II_of_the_Netherlands	Ancestry
+O	O	William_II_of_the_Netherlands	See also
+O	O	William_II_of_the_Netherlands	References
+O	O	William_II_of_the_Netherlands	External links
+B-SEC	B-SEC	Jonathan_dos_Santos	Early life
+I-SEC	I-SEC	Jonathan_dos_Santos	Club career
+I-SEC	I-SEC	Jonathan_dos_Santos	International career
+O	I-SEC	Jonathan_dos_Santos	Career statistics
+O	I-SEC	Jonathan_dos_Santos	Honours
+O	I-SEC	Jonathan_dos_Santos	Personal life
+O	O	Jonathan_dos_Santos	References
+O	O	Jonathan_dos_Santos	External links
+B-SEC	B-SEC	Eva_Rivas	Early life
+I-SEC	O	Eva_Rivas	Eurovision Song Contest 2010
+O	O	Eva_Rivas	See also
+O	O	Eva_Rivas	References
+O	O	Eva_Rivas	External links
+B-SEC	B-SEC	Missy_Franklin	Personal life
+I-SEC	I-SEC	Missy_Franklin	Swimming career
+O	O	Missy_Franklin	Personal bests
+O	O	Missy_Franklin	World records
+O	O	Missy_Franklin	See also
+O	O	Missy_Franklin	References
+O	O	Missy_Franklin	External links
+B-SEC	B-SEC	Oriol_Romeu	Club career
+I-SEC	I-SEC	Oriol_Romeu	International career
+O	O	Oriol_Romeu	Honours
+O	O	Oriol_Romeu	Club statistics
+O	O	Oriol_Romeu	References
+O	O	Oriol_Romeu	External links
+B-SEC	O	Henry_V,_Holy_Roman_Emperor	Assumption of power
+I-SEC	O	Henry_V,_Holy_Roman_Emperor	First Italian expedition
+I-SEC	O	Henry_V,_Holy_Roman_Emperor	Return to Germany
+I-SEC	O	Henry_V,_Holy_Roman_Emperor	Second Italian expedition
+I-SEC	O	Henry_V,_Holy_Roman_Emperor	Concordat of Worms
+I-SEC	B-SEC	Henry_V,_Holy_Roman_Emperor	Death
+O	O	Henry_V,_Holy_Roman_Emperor	Ancestry
+O	O	Henry_V,_Holy_Roman_Emperor	See also
+O	O	Henry_V,_Holy_Roman_Emperor	References
+O	O	Henry_V,_Holy_Roman_Emperor	Sources
+B-SEC	B-SEC	Henry_IV,_Holy_Roman_Emperor	Biography
+O	O	Henry_IV,_Holy_Roman_Emperor	Evaluation
+O	O	Henry_IV,_Holy_Roman_Emperor	Family and children
+O	O	Henry_IV,_Holy_Roman_Emperor	In fiction
+O	O	Henry_IV,_Holy_Roman_Emperor	Ancestry
+O	O	Henry_IV,_Holy_Roman_Emperor	See also
+O	O	Henry_IV,_Holy_Roman_Emperor	Notes
+O	O	Henry_IV,_Holy_Roman_Emperor	Sources
+B-SEC	B-SEC	Henry_II,_Holy_Roman_Emperor	Early life and marriage
+I-SEC	I-SEC	Henry_II,_Holy_Roman_Emperor	Reign as king
+I-SEC	I-SEC	Henry_II,_Holy_Roman_Emperor	Conflict with Poland
+I-SEC	I-SEC	Henry_II,_Holy_Roman_Emperor	Reign as Emperor
+I-SEC	I-SEC	Henry_II,_Holy_Roman_Emperor	Imperial Policies
+I-SEC	I-SEC	Henry_II,_Holy_Roman_Emperor	Death and successor
+O	O	Henry_II,_Holy_Roman_Emperor	Canonization and veneration
+O	O	Henry_II,_Holy_Roman_Emperor	Family and children
+O	O	Henry_II,_Holy_Roman_Emperor	Sources
+O	O	Henry_II,_Holy_Roman_Emperor	Ancestry
+O	O	Henry_II,_Holy_Roman_Emperor	See also
+O	O	Henry_II,_Holy_Roman_Emperor	References
+O	O	Henry_II,_Holy_Roman_Emperor	External links
+B-SEC	B-SEC	Mario_Götze	Club career
+I-SEC	I-SEC	Mario_Götze	International career
+O	I-SEC	Mario_Götze	Style of play
+O	I-SEC	Mario_Götze	Outside football
+O	I-SEC	Mario_Götze	Career statistics
+O	O	Mario_Götze	Honours
+O	O	Mario_Götze	References
+O	O	Mario_Götze	External links
+B-SEC	B-SEC	Hristo_Stoichkov	Club career
+I-SEC	I-SEC	Hristo_Stoichkov	International career
+O	I-SEC	Hristo_Stoichkov	Style of play
+O	I-SEC	Hristo_Stoichkov	Managing career
+O	I-SEC	Hristo_Stoichkov	Career statistics
+O	O	Hristo_Stoichkov	Managerial statistics
+O	O	Hristo_Stoichkov	Honours
+O	O	Hristo_Stoichkov	Notes
+O	O	Hristo_Stoichkov	References
+O	O	Hristo_Stoichkov	External links
+B-SEC	B-SEC	Nigar_Jamal	Early life
+I-SEC	I-SEC	Nigar_Jamal	Career
+I-SEC	I-SEC	Nigar_Jamal	Personal life
+O	O	Nigar_Jamal	Discography
+O	O	Nigar_Jamal	See also
+O	O	Nigar_Jamal	References
+O	O	Nigar_Jamal	External links
+B-SEC	B-SEC	Zheng_Jie	Personal life
+O	I-SEC	Zheng_Jie	Playing style
+O	I-SEC	Zheng_Jie	Singles career
+O	I-SEC	Zheng_Jie	Significant finals
+O	I-SEC	Zheng_Jie	WTA career finals
+O	O	Zheng_Jie	Singles performance timeline
+O	O	Zheng_Jie	Women's doubles performance timeline
+O	O	Zheng_Jie	See also
+O	O	Zheng_Jie	References
+O	O	Zheng_Jie	External links
+B-SEC	B-SEC	Giuseppe_Arcimboldo	Biography
+O	O	Giuseppe_Arcimboldo	Mannerism
+O	O	Giuseppe_Arcimboldo	Legacy
+O	O	Giuseppe_Arcimboldo	Gallery
+O	O	Giuseppe_Arcimboldo	Four Seasons
+O	O	Giuseppe_Arcimboldo	Four elements
+O	O	Giuseppe_Arcimboldo	See also
+O	O	Giuseppe_Arcimboldo	References
+O	O	Giuseppe_Arcimboldo	Further reading
+O	O	Giuseppe_Arcimboldo	External links
+B-SEC	B-SEC	Liu_Yang_(astronaut)	Biography
+O	I-SEC	Liu_Yang_(astronaut)	Personal life
+O	O	Liu_Yang_(astronaut)	See also
+O	O	Liu_Yang_(astronaut)	References
+O	O	Liu_Yang_(astronaut)	External links
+B-SEC	B-SEC	Daniel_Cohn-Bendit	Biography
+I-SEC	I-SEC	Daniel_Cohn-Bendit	Early life in France
+I-SEC	O	Daniel_Cohn-Bendit	Radical activism
+I-SEC	O	Daniel_Cohn-Bendit	Joining the Greens
+I-SEC	O	Daniel_Cohn-Bendit	As member of the European parliament
+O	O	Daniel_Cohn-Bendit	Political controversy
+O	O	Daniel_Cohn-Bendit	On paedophilia
+O	O	Daniel_Cohn-Bendit	Bibliography
+O	O	Daniel_Cohn-Bendit	See also
+O	O	Daniel_Cohn-Bendit	References
+O	O	Daniel_Cohn-Bendit	External links

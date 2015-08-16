@@ -2,7 +2,6 @@ package eu.fbk.dkm.sectionextractor.itapos;
 
 import eu.fbk.dkm.sectionextractor.FeatureSet;
 import eu.fbk.dkm.utils.CommandLine;
-import org.apache.log4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import javax.annotation.Nullable;
@@ -24,12 +23,13 @@ import java.util.regex.Pattern;
 
 public class CreateTraining {
 
-	static Logger logger = Logger.getLogger(CreateTraining.class.getName());
+	private static final org.slf4j.Logger LOGGER = LoggerFactory.getLogger(CreateTraining.class);
 
 	static final Integer LAST_CHARS = 5;
 	static final Integer MINUS_LAST_CHARS = 5;
 
-	static final String fstanCommand = "/Users/alessio/Documents/scripts/textpro/modules/MorphoPro/bin/fstan/x86_64/fstan /Users/alessio/Documents/scripts/textpro/modules/MorphoPro/models/italian-utf8.fsa";
+	static final String fstanPattern = "%s/bin/fstan/x86_64/fstan %s/models/italian-utf8.fsa";
+	static final String DEFAULT_fstanFolder = "/Users/alessio/Documents/scripts/textpro/modules/MorphoPro/";
 
 	static HashMap<String, Pattern> patterns = new HashMap<>();
 	private static final Integer DEFAULT_WINDOW_SIZE = 0;
@@ -123,12 +123,47 @@ public class CreateTraining {
 					.withOption("i", "input", "input file", "FILE", CommandLine.Type.FILE_EXISTING, true, false, true)
 					.withOption("o", "output", "output file", "FILE", CommandLine.Type.FILE, true, false, true)
 					.withOption("s", "size", "window size", "NUM", CommandLine.Type.NON_NEGATIVE_INTEGER, true, false, false)
+					.withOption("f", "fstan", "TextPro fstan folder", "FOLDER", CommandLine.Type.DIRECTORY_EXISTING, true, false, false)
+					.withOption(null, "jobs", "Jobs file (one per line)", "FILE", CommandLine.Type.FILE_EXISTING, true, false, false)
+					.withOption(null, "places", "Places file (one per line)", "FILE", CommandLine.Type.FILE_EXISTING, true, false, false)
+					.withOption(null, "orgs", "Organizations file (one per line)", "FILE", CommandLine.Type.FILE_EXISTING, true, false, false)
+					.withOption(null, "names", "Names file (IOB2 format)", "FILE", CommandLine.Type.FILE_EXISTING, true, false, false)
+					.withOption(null, "nam", "Names file (one per line)", "FILE", CommandLine.Type.FILE_EXISTING, true, false, false)
+					.withOption(null, "sur", "Surnames file (one per line)", "FILE", CommandLine.Type.FILE_EXISTING, true, false, false)
 					.withLogger(LoggerFactory.getLogger("eu.fbk")).parse(args);
 
 			final File inputPath = cmd.getOptionValue("input", File.class);
 			final File outputPath = cmd.getOptionValue("output", File.class);
 
+			final File jobsPath = cmd.getOptionValue("jobs", File.class);
+			final File placesPath = cmd.getOptionValue("places", File.class);
+			final File orgsPath = cmd.getOptionValue("orgs", File.class);
+
+			final File namesPath = cmd.getOptionValue("names", File.class);
+			final File namPath = cmd.getOptionValue("nam", File.class);
+			final File surPath = cmd.getOptionValue("sur", File.class);
+
+			String fstanFolder = DEFAULT_fstanFolder;
+			if (cmd.hasOption("fstan")) {
+				fstanFolder = cmd.getOptionValue("fstan", String.class);
+			}
+			String fstanCommand = String.format(fstanPattern, fstanFolder, fstanFolder);
+
 			Integer windowSize = cmd.getOptionValue("size", Integer.class, DEFAULT_WINDOW_SIZE);
+
+			HashMap<String, HashMap<String, HashSet<String[]>>> gazetteers = new HashMap<>();
+			gazetteers.put("JOB", loadFromTextFile(jobsPath));
+			gazetteers.put("ORG", loadFromTextFile(orgsPath));
+			gazetteers.put("LOC", loadFromTextFile(placesPath));
+
+			if (namesPath != null) {
+				gazetteers.put("NAM", loadFromIOBFile(namesPath, "NAM"));
+				gazetteers.put("SUR", loadFromIOBFile(namesPath, "NAM"));
+			}
+			else {
+				gazetteers.put("NAM", loadFromTextFile(namPath));
+				gazetteers.put("SUR", loadFromTextFile(surPath));
+			}
 
 			ArrayList<Token> tokens = new ArrayList<>();
 			List<String> lines = Files.readAllLines(inputPath.toPath());
@@ -156,19 +191,17 @@ public class CreateTraining {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(outputPath));
 
 			ArrayList<FeatureSet> features = new ArrayList<>();
+			HashMap<String, Integer> inTokens = new HashMap<>();
+			for (String key : gazetteers.keySet()) {
+				inTokens.put(key, 0);
+			}
 			for (int i = 0; i < tokens.size(); i++) {
 				Token token = tokens.get(i);
 				String form = token.getForm();
 				String lform = form.toLowerCase();
 
 				if (token.pos == null) {
-//					System.out.println(features);
-
-//					for (FeatureSet featureSet : features) {
-//						System.out.println(featureSet);
-//					}
-//					System.out.println();
-
+					// Reset
 					writeFeatures(writer, features, windowSize);
 					features = new ArrayList<>();
 					continue;
@@ -177,6 +210,46 @@ public class CreateTraining {
 				FeatureSet set = new FeatureSet();
 				set.addFeature("FORM." + form);
 				set.addFeature("LFORM." + lform);
+
+				String firstChar = form.substring(0, 1);
+
+				// Gazetteers
+				for (String key : gazetteers.keySet()) {
+					boolean isFirst = true;
+
+					if (inTokens.get(key) == 0 && gazetteers.get(key).get(lform) != null) {
+						gazLoop:
+						for (String[] jobTokens : gazetteers.get(key).get(lform)) {
+							for (int i1 = 1; i1 < jobTokens.length; i1++) {
+								String gazToken = jobTokens[i1].toLowerCase();
+								if (tokens.get(i + i1) == null) {
+									continue gazLoop;
+								}
+								if (!tokens.get(i + i1).getForm().toLowerCase().equals(gazToken)) {
+									continue gazLoop;
+								}
+							}
+
+
+							if (firstChar.toUpperCase().equals(firstChar)) {
+								inTokens.put(key, jobTokens.length);
+							}
+							isFirst = true;
+						}
+					}
+
+					if (inTokens.get(key) > 0) {
+						String postfix = "-I";
+						if (isFirst) {
+							postfix = "-B";
+						}
+						else if (inTokens.get(key) == 1) {
+							postfix = "-E";
+						}
+						set.addFeature(key + postfix);
+						inTokens.put(key, inTokens.get(key) - 1);
+					}
+				}
 
 				HashSet<String[]> types = runnerCache.get(lform);
 				if (types == null) {
@@ -196,31 +269,18 @@ public class CreateTraining {
 					set.addFeature("TYPE.UNKNOWN");
 				}
 
-//				for (String type : types) {
-//					set.addFeature("TYPE." + type);
-//				}
-
 				for (String key : patterns.keySet()) {
 					Pattern pattern = patterns.get(key);
 					Matcher matcher = pattern.matcher(form);
 					set.addFeature(key + "." + (matcher.find() ? "1" : "0"));
 				}
 
-				String firstChar = form.substring(0, 1);
 				if (firstChar.toUpperCase().equals(firstChar)) {
 					set.addFeature("UPPERCASE1.1");
 				}
 				else {
 					set.addFeature("UPPERCASE1.0");
 				}
-
-//				String numbers = form.replaceAll("[^0-9]", "");
-//				if (numbers.length() > 0) {
-//					set.addFeature("HASNUM.1");
-//				}
-//				else {
-//					set.addFeature("HASNUM.0");
-//				}
 
 				if (form.toUpperCase().equals(form)) {
 					set.addFeature("UPPERCASE.1");
@@ -251,5 +311,83 @@ public class CreateTraining {
 		} catch (Throwable ex) {
 			CommandLine.fail(ex);
 		}
+	}
+
+	private static HashMap<String, HashSet<String[]>> loadFromIOBFile(File path, String key) throws IOException {
+		HashMap<String, HashSet<String[]>> list = new HashMap<>();
+		if (path != null) {
+			List<String> lines = Files.readAllLines(path.toPath());
+			ArrayList<String> tokens = new ArrayList<>();
+			for (String line : lines) {
+				if (line.trim().length() == 0) {
+					continue;
+				}
+				String[] parts = line.split("\\s+");
+				if (parts.length < 2) {
+					continue;
+				}
+
+				String[] types = parts[1].split("-");
+				if (types.length < 2) {
+					continue;
+				}
+				if (!types[1].equals(key)) {
+					continue;
+				}
+
+				if (types[0].equals("B")) {
+					if (tokens.size() > 0) {
+						if (list.get(tokens.get(0)) == null) {
+							list.put(tokens.get(0), new HashSet<>());
+						}
+						String[] tokensArr = new String[tokens.size()];
+						tokensArr = tokens.toArray(tokensArr);
+
+						list.get(tokens.get(0)).add(tokensArr);
+					}
+					tokens = new ArrayList<>();
+				}
+
+				tokens.add(parts[0]);
+
+//				if (list.get(parts[0]) == null) {
+//					list.put(parts[0], new HashSet<>());
+//				}
+//				list.get(parts[0]).add(parts);
+			}
+
+			if (tokens.size() > 0) {
+				if (list.get(tokens.get(0)) == null) {
+					list.put(tokens.get(0), new HashSet<>());
+				}
+				String[] tokensArr = new String[tokens.size()];
+				tokensArr = tokens.toArray(tokensArr);
+
+				list.get(tokens.get(0)).add(tokensArr);
+			}
+
+			LOGGER.info("{} items loaded", list.size());
+		}
+		return list;
+	}
+
+	private static HashMap<String, HashSet<String[]>> loadFromTextFile(File path) throws IOException {
+		HashMap<String, HashSet<String[]>> list = new HashMap<>();
+		if (path != null) {
+			List<String> lines = Files.readAllLines(path.toPath());
+			for (String line : lines) {
+				if (line.trim().length() == 0) {
+					continue;
+				}
+				String[] parts = line.split("\\s+");
+
+				if (list.get(parts[0]) == null) {
+					list.put(parts[0], new HashSet<>());
+				}
+				list.get(parts[0]).add(parts);
+			}
+			LOGGER.info("{} items loaded", list.size());
+		}
+		return list;
 	}
 }
